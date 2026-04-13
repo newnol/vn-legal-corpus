@@ -1,0 +1,67 @@
+---
+id: "120337"
+identifier: "vbpl-120337"
+title: "Nghị quyết số ban nhap 192/NQ-HĐND.sua Về xử lý kết quả sau rà soát, hệ thống hóa năm 2015 đối với văn bản quy phạm pháp luật do HĐND tỉnh ban hành"
+country: "vn"
+jurisdiction: "vn-7-dak-lak"
+jurisdiction_name: "Đắk Lắk"
+scope: "Địa phương"
+doc_num: "ban nhap 192/NQ-HĐND.sua"
+doc_type: "Nghị quyết"
+rank: "nghi-quyet"
+issue_date: "2016-01-07"
+effective_date: "2016-01-07"
+expiry_date: null
+public_date: null
+updated_date: "2026-04-03"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "HĐND Tỉnh Đắk Lắk"
+organization_name: "Đắk Lắk"
+organization_type: "1"
+agency_level: "DIA_PHUONG"
+jurisdiction_code: "7"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 7
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/120337"
+signers:
+  - "Y Biêr Niê"
+job_titles:
+  - "Chủ tịch"
+---
+
+# Nghị quyết số ban nhap 192/NQ-HĐND.sua Về xử lý kết quả sau rà soát, hệ thống hóa năm 2015 đối với văn bản quy phạm pháp luật do HĐND tỉnh ban hành
+
+HỘI ĐỒNG NHÂN DÂN TỈNH ĐẮK LẮK
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+Số: 192/NQ-HĐND
+Đắk Lắk, ngày 7 tháng 1 năm 2016
+NGHỊ QUYẾT
+Về xử lý kết quả sau rà soát, hệ thống hóa năm 2015
+đối với văn bản quy phạm pháp luật do HĐND tỉnh ban hành
+______________________________
+HỘI ĐỒNG NHÂN DÂN TỈNH ĐẮK LẮK KHÓA VIII, KỲ HỌP BẤT THƯỜNG
+Căn cứ Luật Tổ chức chính quyền địa phương năm 2015;
+Căn cứ Nghị định số 16/2013/NĐ-CP ngày 06/02/2013 của Chính phủ về rà soát, hệ thống hóa văn bản quy phạm pháp luật;
+Căn cứ Thông tư số 09/2013/TT-BTP ngày 15/6/2013 của Bộ Tư pháp quy định chi tiết thi hành Nghị định số 16/2013/NĐ-CP ngày 06/02/2013 của Chính phủ về rà soát, hệ thống hóa văn bản quy phạm pháp luật;
+Xét Tờ trình số 159/TTr-UBND ngày 17/12/2015 của UBND tỉnh về việc đề nghị xử lý kết quả sau rà soát, hệ thống hóa năm 2015 đối với văn bản quy phạm pháp luật do Hội đồng nhân dân tỉnh ban hành; Báo cáo thẩm tra số 95/BC-HĐND ngày 31/12/2015 của Ban Pháp chế và ý kiến đại biểu Hội đồng nhân dân tỉnh tại kỳ họp,
+QUYẾT NGHỊ:
+## Điều 1. Tán thành xử lý kết quả sau rà soát, hệ thống hóa năm 2015 đối với các văn bản quy phạm pháp luật do HĐND tỉnh ban hành, gồm:
+- Công bố hết hiệu lực đối với 35 nghị quyết đã hết thời hạn hiệu lực trong văn bản hoặc đã thực hiện xong (như Phụ lục 1 kèm theo).
+- Bãi bỏ toàn bộ đối với 04 nghị quyết và bãi bỏ một phần đối với 02 nghị quyết (như Phụ lục 2 kèm theo).
+- Thực hiện quy trình sửa đổi, bổ sung đối với 05 nghị quyết, thay thế đối với 01 nghị quyết (như Phụ lục 3 kèm theo).
+## Điều 2. Giao Ủy ban nhân dân tỉnh chỉ đạo các cơ quan chuyên môn tổng kết, đánh giá, xem xét sự cần thiết ban hành nghị quyết mới để thay thế hoặc điều chỉnh, bổ sung cho phù hợp với các quy định của pháp luật và tình hình phát triển kinh tế - xã hội của tỉnh, sớm trình Hội đồng nhân dân tỉnh ban hành nghị quyết mới đối với các nghị quyết đã công bố hết hiệu lực và các nghị quyết sẽ hết hiệu lực trong năm 2016.
+Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân và đại biểu Hội đồng nhân dân tỉnh giám sát việc thực hiện Nghị quyết này.
+## Điều 3. Nghị quyết này có hiệu lực thi hành kể từ ngày Hội đồng nhân dân tỉnh thông qua.
+Nghị quyết này được Hội đồng nhân dân tỉnh Đắk Lắk khóa VIII, Kỳ họp bất thường thông qua ngày 07 tháng 01 năm 2016./.
+CHỦ TỊCH
+(Đã ký)
+Y Biêr Niê
