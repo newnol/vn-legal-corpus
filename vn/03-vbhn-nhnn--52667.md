@@ -1,0 +1,42 @@
+---
+id: "52667"
+identifier: "vbpl-52667"
+title: "Văn bản hợp nhất số 03/VBHN-NHNN Quyết định về việc ban hành Hệ thống tài khoản kê toán các Tổ chức tín dụng"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "03/VBHN-NHNN"
+doc_type: "Văn bản hợp nhất"
+rank: "van-ban-hop-nhat"
+issue_date: "2015-01-22"
+effective_date: "2015-01-22"
+expiry_date: null
+public_date: null
+updated_date: "2026-01-19"
+status: "Publish"
+effective_status: "Chưa xác định"
+agency_name: "Ngân hàng Nhà nước Việt Nam"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "03.VBHN.NHNN.1.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: true
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/52667"
+signers:
+  - "Nguyễn Đồng Tiến"
+job_titles:
+  - "Phó Thống đốc"
+---
+
+# Văn bản hợp nhất số 03/VBHN-NHNN Quyết định về việc ban hành Hệ thống tài khoản kê toán các Tổ chức tín dụng
+
+> Chưa có HTML content trong API cho văn bản này. Kiểm tra `content_file_name` để tải PDF gốc ở phase sau.
