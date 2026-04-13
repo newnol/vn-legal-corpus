@@ -1,0 +1,76 @@
+---
+id: "110359"
+identifier: "vbpl-110359"
+title: "Thông tư liên tịch số 129/1996/TTLB/BTCCBCP-BTC-TCKTTV của Ban Tổ chức - Cán bộ Chính phủ - Tài chính - Tổng cục Khí tượng thuỷ văn hướng dẫn thực hiện Quyết định số 819/TTg ngày 14-12-1995 của Thủ tướng Chính phủ về một số chế độ phụ cấp đặc thù đối với công chức, viên chức ngành khí tượng thuỷ văn"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "129/1996/TTLB/BTCCBCP-BTC-TCKTTV"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "1996-03-26"
+effective_date: "1996-01-01"
+expiry_date: null
+public_date: null
+updated_date: "2026-03-15"
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Tổng cục Khí tượng thủy văn"
+organization_name: "Bộ Nông nghiệp và Môi trường"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "43"
+language: "vi"
+updated_by: "linhvp14"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/110359"
+signers:
+  - null
+job_titles:
+  - null
+---
+
+# Thông tư liên tịch số 129/1996/TTLB/BTCCBCP-BTC-TCKTTV của Ban Tổ chức - Cán bộ Chính phủ - Tài chính - Tổng cục Khí tượng thuỷ văn hướng dẫn thực hiện Quyết định số 819/TTg ngày 14-12-1995 của Thủ tướng Chính phủ về một số chế độ phụ cấp đặc thù đối với công chức, viên chức ngành khí tượng thuỷ văn
+
+BAN TỔ CHỨC-CÁN BỘ CHÍNH PHỦ-BỘ TÀI CHÍNH-TỔNG CỤC KHÍ TƯỢNG THỦY VĂN ------------------ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------------------------
+Số: 129/1996/TTLB/BTCCBCP-BTC-TCKTTV Hà Nội, ngày 26 tháng 3 năm 1996
+THÔNG TƯ LIÊN TỊCH
+của Ban Tổ chức - Cán bộ Chính phủ - Tài chính - Tổng cục Khí tượng thuỷ văn số 129/1996/TTLB/BTCCBCP-BTC-TCKTTV ngày 26 tháng 3 năm 1996 hướng dẫn thực hiện Quyết định số 819/TTg ngày 14-12-1995 của Thủ tướng Chính phủ về một số chế độ phụ cấp đặc thù đối với công chức, viên chức ngành khí tượng thuỷ văn
+-----------------------------
+Thi hành Quyết định số 819/TTg ngày 14-12-1995 của Thủ tướng Chính phủ quy định một chế độ phụ cấp đặc thù đối với công chức viên chức ngành Khí tượng thuỷ văn. Liên bộ Ban Tổ chức - Cán bộ Chính phủ - Tài chính - Tổng cục Khí tượng thuỷ văn hướng dẫn như sau:
+A. ĐỐI TƯỢNG VÀ MỨC PHỤ CẤP ÁP DỤNG:
+I. CHẾ ĐỘ PHỤ CẤP QUAN TRẮC LŨ, QUAN TRẮC BÃO:
+1. Đối tượng áp dụng:
+1. 1. Công chức, viên chức thuộc các Đài, trạm khí tượng thuỷ văn trực tiếp đo lưu lượng nước (Q) đo lưu lượng phù sa (R) trong những ngày có lũ.
+1. 2. Công chức, viên chức thuộc các trạm Khí tượng và Khí tượng hải văn trực tiếp quan trắc bão (quan trắc Typh).
+2. Mức phụ cấp:
+2. 1. Phụ cấp quan trắc lũ: Quan trắc viên đo lưu lượng nước (Q) được hưởng các mức sau:
+- 8.500 đ/người-ngày đối với các trạm có phương tiện đo bằng thuyền hoặc ca nô. - 5.500 đ/người-ngày đối với các trạm có phương tiện do bằng nôi. - 3. 500 đ/người-ngày đối với các trạm có phương tiện đo bằng cầu. Những ngày đo lưu lượng phù sa (R) không trùng với ngày đo lưu lượng nước (Q) trong thời gian có lũ, quan trắc viên được hưởng 50% mức phụ cấp nêu trên (tương ứng với phương tiện đo).
+2. 2. Phụ cấp quan trắc bão: Mức 5.500 đ/người-ngày áp dụng đối với quan trắc viên khí tượng được quy định trực tiếp quan trắc bão (Typh) và các quan trắc viên hải văn trực tiếp làm việc ở các trạm có quan trắc Typh khi có bão.
+II. CHẾ ĐỘ THÁM SÁT BÃO VÀ KHẢO SÁT BIỂN BẰNG MÁY BAY VÀ TÀU BIỂN:
+1. Chế độ thám sát bão và khí tượng nhiệt đới bằng máy bay:
+Công chức, viên chức thực hiện thám sát bão và khảo sát biển bằng máy bay trong những ngày thực tế bay được hưởng: 20.000 đ/người-ngày đối với người thực hiện công việc trên máy bay và 50% mức bồi dưỡng trên đối với những người chỉ đạo điều hành, phục vụ và xử lý số liệu bay.
+2. Chế độ thám sát bão, khí tượng nhiệt đới và điều tra khảo sát khí tượng thuỷ văn bằng tàu biển:
+Công chức, viên chức thực hiện thám sát và khảo sát bằng tàu biển được hưởng:
+- 20.000 đ/người-ngày đối với những ngày có bão.
+- 10.000 đ/người-ngày đối với những ngày không có bão.
+III. CHẾ ĐỘ TRỢ CẤP TIỀN ĂN:
+1. Công chức, viên chức làm việc tại các trạm Khí tượng - Hải văn Hải đảo ở quần đảo Trường Sa, DK1 và Song Tử Tây được trợ cấp toàn bộ tiền ăn hàng tháng như mức ăn của hạ sĩ quan quân đội tại các đảo nêu trên.
+2. Công chức, viên chức làm việc tại các trạm Khí tượng - Hải văn Hải đảo ở các đảo Bạch Long Vĩ, Cồn Cỏ, Hòn Ngư và Thổ Chu được trợ cấp 50% tiền ăn hàng tháng như mức ăn của hạ sĩ quan quân đội tại các đảo nêu trên.
+Những người rời đảo từ 1 tháng trở lên không được hưởng chế độ trợ cấp này.
+B. CÁCH TÍNH VÀ CHI TRẢ PHỤ CẤP:
+1. Phụ cấp quan trắc bão, lũ được tính những ngày thực tế đo đạc khi có lũ, bão và được trả cùng kỳ lương trong tháng (thời gian được tính quan trắc bão là khi có lệnh bắt đầu và kết thúc quan trắc bão).
+2. Chế độ thám sát, khảo sát biển bằng máy bay, tàu biển được tính trả ngay sau khi kết thúc chuyến công tác.
+3. Chế độ trợ cấp tiền ăn tại các đảo được trả cùng kỳ lương trong tháng (hoặc trong quý).
+C. TỔ CHỨC THỰC HIỆN:
+1. Hàng năm căn cứ vào nhu cầu, đối tượng và mức quy định trên các Đài lập kế hoạch dự toán chi chế độ phụ cấp này cùng kế hoạch thường xuyên trình Tổng cục trưởng xét duyệt, kết quả được tổng hợp vào ngân sách chung của Tổng cục gửi về Bộ Tài chính để bố trí và cấp phát.
+2. Liên bộ có nhiệm vụ kiểm tra giám sát việc thực hiện tại các cơ sở.
+3. Thông tư này thực hiện từ ngày 1-1-1996. Các quy định trước đây trái với Thông tư này đều bãi bỏ.
+Trong quá trình thực hiện có gì vướng mắc phán ảnh về Liên bộ để nghiên cứu giải quyết.

@@ -1,0 +1,72 @@
+---
+id: "90343"
+identifier: "vbpl-90343"
+title: "Chỉ thị 03/CT-UB-NCVX năm 1997 thực hiện Chỉ thị 06/CT-TW của Ban Chấp hành Trung ương Đảng và Chỉ thị 07/CT-TU của Ban Thường vụ Thành ủy về phòng chống và kiểm soát ma túy do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành"
+country: "vn"
+jurisdiction: "vn-15-ho-chi-minh"
+jurisdiction_name: "Hồ Chí Minh"
+scope: "Địa phương"
+doc_num: "03/CT-UB-NCVX"
+doc_type: "Chỉ thị"
+rank: "chi-thi"
+issue_date: "1997-01-25"
+effective_date: "1997-01-25"
+expiry_date: null
+public_date: null
+updated_date: "2026-03-27"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "UBND Thành phố Hồ Chí Minh"
+organization_name: "Hồ Chí Minh"
+organization_type: "1"
+agency_level: "DIA_PHUONG"
+jurisdiction_code: "15"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: "03-CT-UB-NCVX.doc"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 18
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/90343"
+signers:
+  - "Phạm Phương Thảo"
+job_titles:
+  - "Phó Chủ tịch"
+---
+
+# Chỉ thị 03/CT-UB-NCVX năm 1997 thực hiện Chỉ thị 06/CT-TW của Ban Chấp hành Trung ương Đảng và Chỉ thị 07/CT-TU của Ban Thường vụ Thành ủy về phòng chống và kiểm soát ma túy do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành
+
+ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc ---------
+ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH -------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc ---------
+Số: 03/CT-UB-NCVX TP. Hồ Chí Minh, ngày 25 tháng 01 năm 1997
+Số: 03/CT-UB-NCVX
+TP. Hồ Chí Minh, ngày 25 tháng 01 năm 1997
+CHỈ THỊ
+VỀ VIỆC THỰC HIỆN CHỈ THỊ SỐ 06/CT-TW CỦA BAN CHẤP HÀNH TRUNG ƯƠNG
+ĐẢNG VÀ CHỈ THỊ SỐ 07/CT-TU CỦA BAN THƯỜNG VỤ THÀNH ỦY VỀ PHÒNG C
+HỐNG VÀ KIỂM SOÁT MA TÚY.
+Trong mấy năm qua, thực hiện Nghị quyết 06/CP của Chính phủ về phòng chống – kiểm soát ma túy, Thành phố đã liên tục tổ chức nhiều hoạt động nhằm đấu tranh chống bọn tội phạm buôn bán, tàng trữ, vận chuyển và tổ chức sử dụng các loại ma túy. Đồng thời thành phố cũng đã đầu tư cơ sở vật chất để tổ chức cai nghiện, chữa trị cho hàng chục ngàn lượt người nghiện. Song song với việc tiến hành nhiều biện pháp đồng bộ để giải quyết các vấn đề xã hội sau cai nghiện.
+Tuy nhiên, do hoạt động tinh vi phức tạp của bọn tội phạm ma túy, do khó khăn về mặt quản lý một địa bàn rộng lớn như thành phố Hồ Chí Minh, các kết quả đạt được so với yêu cầu nhiệm vụ mới chỉ đạt mức độ nhất định.
+Gần đây tệ nạn ma túy xâm nhập mạnh vào nhà trường, gây hậu quả xấu cả về chất lượng học tập lẫn về đạo đức của học sinh sinh viên và thanh thiếu niên thành phố. Thực trạng này tạo nên mối lo ngại sâu sắc, đè nặng toàn xã hội.
+Ngày 04/01/1997, Ban Thường vụ Thành ủy ban hành Chỉ thị số 07/CT-TU yêu cầu các cấp Đảng, chính quyền các ban, ngành, đoàn thể, các tổ chức chính trị xã hội của thành phố tổ chức triển khai thực hiện Chỉ thị số 06/CT-TW ngày 30/11/1996 của Ban Chấp hành Trung ương Đảng về “Tăng cường lãnh đạo – chỉ đạo công tác phòng chống và kiểm soát ma túy”.
+Để thực hiện có hiệu quả Nghị quyết 06/CP, Chỉ thị 06/CT-TW và Chỉ thị 07/CT-TU Ủy ban nhân dân thành phố chỉ đạo:
+1. Các cơ quan báo chí, Đài phát thanh, truyền hình và tất cả các phương tiện thông tin đại chúng khác của thành phố phải đặt công tác tuyên truyền giáo dục phòng chống ma túy cũng như phòng chống các tệ nạn xã hội khác là một trong các nhiệm vụ quan trọng hàng đầu và đấu tranh lâu dài. Phải có kế hoạch thường xuyên tuyên truyền sâu rộng trong mọi tầng lớp nhân dân, đặc biệt trong thanh thiếu niên về hậu quả nguy hại của việc dùng ma túy bừa bãi để bản thân những người nghiện tích cực tham gia phát hiện, đấu tranh chống các loại tội phạm có liên quan đến ma túy.
+2. Sở Lao động-Thương binh xã hội, Sở Y tế, Sở Giáo dục và Đào tạo, Công an thành phố, Thành Đoàn TNCS Hồ Chí Minh, Hội Liên hiệp phụ nữ thành phố căn cứ kế hoạch số 1413/LN ngày 15/10/1996 của Liên ngành Trung ương và chức năng, nhiệm vụ của cơ quan mình, tiến hành xây dựng kế hoạch cụ thể về công tác “phòng ngừa và đấu tranh chống lạm dụng ma túy trong học sinh, sinh viên và thanh thiếu niên” phù hợp với đặc điểm từng đối tượng do ngành mình quản lý.
+Các đồng chí Giám đốc các đơn vị nói trên có trách nhiệm lãnh đạo, chỉ đạo suốt quá trình xây dựng và hoàn chỉnh kế hoạch để sớm tổ chức triển khai thực hiện, chậm nhất vào cuối tháng 02/1997.
+3. Các đồng chí Chủ tịch Ủy ban nhân dân quận-huyện tổ chức phổ biến quán triệt tinh thần nội dung Chỉ thị 06/CT-TW Chỉ thị 07/CT-TU đến tận phường-xã, thị trấn và các ban ngành trực thuộc.
+Phối hợp Ủy ban Mặt trận Tổ quốc quận-huyện xây dựng kế hoạch tiếp tục thực hiện cuộc vận động “Toàn dân đoàn kết xây dựng cuộc sống mới khu dân cư”.
+Cùng với ngành Công an tổ chức khảo sát tình hình tàng trữ, buôn bán và sử dụng ma túy ở cấp phường, xã và khu phố. Trên cơ sở đó có biện pháp đấu tranh, kịp thời ngăn chặn tệ nạn ma túy, làm trong sạch địa bàn khu dân cư.
+Thường xuyên kiểm tra, xử lý nghiêm để chấm dứt tình trạng hàng quán ăn uống, buôn bán kinh doanh trái phép trước, trong và xung quanh khu vực trường học, làm trong sạch môi trường giáo dục, bảo đảm sức khỏe học sinh sinh viên và thanh thiếu niên.
+Cần phối hợp với gia đình có biện pháp quản lý, giáo dục và quan tâm giải quyết công ăn việc làm cho các đối tượng sau cai nghiện để tạo điều kiện cho họ hòa nhập với cuộc sống cộng đồng.
+Thường trực Ủy ban nhân dân quận-huyện xem công tác phòng chống- kiểm soát ma túy là một trong những nội dung quan trọng cần được thường xuyên theo dõi chỉ đạo.
+4. Đối với các ban ngành, đoàn thể, quận-huyện nào có tổ chức Trường- Trại cai nghiện, cần có biện pháp củng cố cơ sở vật chất, trang thiết bị giáo dục, dạy nghề, nâng cao chất lượng chữa trị, quản lý các đối tượng nghiện. Phối hợp chặt chẽ với gia đình, địa phương nơi cư trú có trách nhiệm giám sát tiếp tục quản lý, giáo dục đối tượng sau cai nghiện, chống tái phạm.
+5. Ủy ban nhân dân thành phố giao cho Ban chỉ đạo 814 thành phố trách nhiệm chỉ đạo triển khai thực hiện chỉ thị này. Việc kiểm điểm, đánh giá kết quả công tác phòng chống, kiểm soát ma túy trên địa bàn thành phố là một trong những nội dung quan trọng phải được đưa vào nội dung sinh hoạt thường kỳ các đợt sơ kết, tổng kết của Ban chỉ đạo 814 thành phố.
+Ban chỉ đạo 814 thành phố có trách nhiệm thực hiện chế độ báo cáo đối với Ban chỉ đạo 814 Trung ương, Thường trực Thành ủy, Thường trực Hội đồng nhân dân và Thường trực Ủy ban nhân dân thành phố.
+6. Sở Tài chánh cần dự trù kinh phí để cấp cho các cấp, các ngành có kế hoạch thực hiện chỉ thị của Trung ương, thành phố về phòng chống-kiểm soát ma túy.
+Yêu cầu thủ trưởng các ban, ngành, các đoàn thể, các tổ chức chính trị, xã hội có liên quan, Ủy ban nhân dân các quận-huyện có trách nhiệm tổ chức triển khai chỉ thị này./.
+TM. ỦY BAN NHÂN DÂN THÀNH PHỐ KT.CHỦ TỊCH PHÓ CHỦ TỊCH Phạm Phương Thảo
+TM. ỦY BAN NHÂN DÂN THÀNH PHỐ KT.CHỦ TỊCH PHÓ CHỦ TỊCH Phạm Phương Thảo

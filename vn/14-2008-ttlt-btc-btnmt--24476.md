@@ -1,0 +1,145 @@
+---
+id: "24476"
+identifier: "vbpl-24476"
+title: "Thông tư liên tịch số 14/2008/TTLT-BTC-BTNMT Hướng dẫn thực hiện một số điều của Nghị định số 84/2007/NĐ-CP ngày 25 tháng 5 năm 2007 của Chính phủ quy định bổ sung về việc cấp Giấy chứng nhận quyền sử dụng đất, thu hồi đất, thực hiện quyền sử dụng đất, trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất và giải quyết khiếu nại về đất đai"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "14/2008/TTLT-BTC-BTNMT"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "2008-01-31"
+effective_date: "2008-03-06"
+expiry_date: null
+public_date: null
+updated_date: "2026-04-04"
+status: "Publish"
+effective_status: "Hết hiệu lực một phần"
+agency_name: "Bộ Tài chính"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: "14.2008.TTLT.BTC.BTNMT.doc"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 28
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/24476"
+signers:
+  - "Đỗ Hoàng Anh Tuấn"
+  - "Trần Thế Ngọc"
+job_titles:
+  - "Thứ trưởng"
+  - "Thứ trưởng"
+---
+
+# Thông tư liên tịch số 14/2008/TTLT-BTC-BTNMT Hướng dẫn thực hiện một số điều của Nghị định số 84/2007/NĐ-CP ngày 25 tháng 5 năm 2007 của Chính phủ quy định bổ sung về việc cấp Giấy chứng nhận quyền sử dụng đất, thu hồi đất, thực hiện quyền sử dụng đất, trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất và giải quyết khiếu nại về đất đai
+
+BỘ TÀI CHÍNH - BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG ____________ Số: 14 /2008/TTLT/BTC-BTNMT CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ___________________ Hà Nội, ngày 31 tháng 01 năm 2008
+BỘ TÀI CHÍNH - BỘ TÀI
+NGUYÊN VÀ MÔI TRƯỜNG
+____________
+Số: 14 /2008/TTLT/BTC-BTNMT
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+___________________
+Hà Nội, ngày 31 tháng 01 năm 2008
+THÔNG TƯ LIÊN TỊCH
+Hướng dẫn thực hiện một số điều của Nghị định số 84/2007/NĐ-CP ngày 25 tháng 5 năm 2007 của Chính phủ quy định bổ sung về việc cấp Giấy chứng nhận quyền sử dụng đất, thu hồi đất, thực hiện quyền sử dụng đất, trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất và giải quyết khiếu nại về đất đai
+-------------------------
+Căn cứ Luật Đất đai ngày 26 tháng 11 năm 2003;
+Căn cứ Nghị định số 84/2007/NĐ-CP ngày 25 tháng 5 năm 2007 của Chính phủ quy định bổ sung về việc cấp Giấy chứng nhận quyền sử dụng đất, thu hồi đất, thực hiện quyền sử dụng đất, trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất và giải quyết khiếu nại về đất đai;
+Liên Bộ Tài chính, Bộ Tài nguyên và Môi trường hướng dẫn thực hiện một số điều của Nghị định số 84/2007/NĐ-CP ngày 25 tháng 5 năm 2007 của Chính phủ quy định bổ sung về việc cấp Giấy chứng nhận quyền sử dụng đất, thu hồi đất, thực hiện quyền sử dụng đất, trình tự, thủ tục bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất và giải quyết khiếu nại về đất đai (gọi là Nghị định số 84/2007/NĐ-CP) như sau:
+I. THỦ TỤC GHI NỢ TIỀN SỬ DỤNG ĐẤT QUY ĐỊNH TẠI ĐIỀU 5
+1. Các trường hợp được ghi nợ tiền sử dụng đất:
+Hộ gia đình, cá nhân chưa đủ khả năng nộp tiền sử dụng đất mà có nguyện vọng ghi nợ thì được ghi nợ tiền sử dụng đất trên Giấy chứng nhận quyền sử dụng đất (gọi là Giấy chứng nhận) trong các trường hợp sau đây:
+1.1. Hộ gia đình, cá nhân được chuyển mục đích sử dụng đất, được cấp Giấy chứng nhận mà phải nộp tiền sử dụng đất theo quy định tại Điều 6, Điều 8 Nghị định số 198/2004/NĐ-CP ngày 03 tháng 12 năm 2004 của Chính phủ về thu tiền sử dụng đất (gọi là Nghị định số 198/2004/NĐ-CP).
+1.2. Hộ gia đình, cá nhân được Nhà nước giao đất tái định cư.
+2. Thủ tục ghi nợ tiền sử dụng đất:
+2.1. Kể từ ngày 02 tháng 7 năm 2007 (ngày Nghị định số 84/2007/NĐ-CP có hiệu lực thi hành), hộ gia đình, cá nhân chưa đủ khả năng nộp tiền sử dụng đất nêu tại khoản 1 Mục này có đơn đề nghị được ghi nợ tiền sử dụng đất kèm theo hồ sơ xin cấp Giấy chứng nhận hoặc hồ sơ xin chuyển mục đích sử dụng đất hoặc hồ sơ giao đất tái định cư thì được ghi nợ tiền sử dụng đất.
+2.2. Khi thực hiện cấp Giấy chứng nhận hoặc chỉnh lý Giấy chứng nhận thì Phòng Tài nguyên và Môi trường phải ghi nội dung “nợ tiền sử dụng đất” trên trang 4 của Giấy chứng nhận; ký, đóng dấu xác nhận nội dung ghi nợ nêu trên; thông báo bằng văn bản cho cơ quan thuế biết các trường hợp ghi nợ tiền sử dụng đất.
+Trường hợp hộ gia đình, cá nhân đã nộp Đơn xin ghi nợ tiền sử dụng đất và hồ sơ (đầy đủ, hợp lệ) xin cấp Giấy chứng nhận hoặc xin chuyển mục đích sử dụng đất theo quy định tại khoản 4 Điều 5 Nghị định số 17/2006/NĐ-CP ngày 27 tháng 01 năm 2006 của Chính phủ về sửa đổi, bổ sung một số điều của các nghị định hướng dẫn thi hành Luật Đất đai và Nghị định số 187/2004/NĐ-CP về việc chuyển công ty nhà nước thành công ty cổ phần (gọi là Nghị định số 17/2006/NĐ-CP) trước ngày 02 tháng 7 năm 2007 mà chưa được cấp Giấy chứng nhận thì vẫn tiếp tục được cấp Giấy chứng nhận và được ghi nợ tiền sử dụng đất trên Giấy chứng nhận theo quy định tại Nghị định số 17/2006/NĐ-CP và hướng dẫn tại Thông tư số 70/2006/TT-BTC ngày 02 tháng 8 năm 2006 của Bộ Tài chính hướng dẫn sửa đổi, bổ sung Thông tư số 117/2004/TT-BTC ngày 07 tháng 12 năm 2004 của Bộ Tài chính hướng dẫn thực hiện Nghị định số 198/2004/NĐ-CP (gọi là Thông tư số 70/2006/TT-BTC).
+II. XÁC ĐỊNH NGHĨA VỤ TÀI CHÍNH ĐỐI VỚI TRƯỜNG HỢP ĐÃ CHUYỂN QUYỀN SỬ DỤNG ĐẤT NHƯNG CHƯA THỰC HIỆN THỦ TỤC CHUYỂN QUYỀN QUY ĐỊNH TẠI KHOẢN 1 ĐIỀU 11
+Hộ gia đình, cá nhân đang sử dụng đất có nguồn gốc do nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hoặc nhà ở gắn liền với quyền sử dụng đất ở trước ngày 01 tháng 7 năm 2004 mà chưa được cấp Giấy chứng nhận, không có một trong các giấy tờ theo quy định tại khoản 1 Điều 50 Luật Đất đai nhưng có giấy tờ về việc chuyển quyền sử dụng đất có chữ ký của bên chuyển quyền (kể cả trường hợp không có xác nhận của cơ quan nhà nước có thẩm quyền về việc chuyển quyền), nay nếu được cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận thì không phải thực hiện thủ tục chuyển quyền sử dụng đất nhưng phải nộp tiền sử dụng đất theo quy định tại Nghị định số 198/2004/NĐ-CP, Nghị định số 84/2007/NĐ-CP; lệ phí trước bạ theo quy định của pháp luật.
+Giá đất để tính thu tiền sử dụng đất, lệ phí trước bạ là giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (gọi là Ủy ban nhân dân cấp tỉnh) ban hành theo quy định của Chính phủ có hiệu lực thi hành tại thời điểm nộp hồ sơ đầy đủ, hợp lệ.
+III. CẤP GIẤY CHỨNG NHẬN TRONG TRƯỜNG HỢP ĐẤT ĐÃ ĐƯỢC GIAO KHÔNG ĐÚNG THẨM QUYỀN TRƯỚC NGÀY 01 THÁNG 07 NĂM 2004 NHƯNG NGƯỜI SỬ DỤNG ĐẤT ĐÃ NỘP TIỀN ĐỂ ĐƯỢC SỬ DỤNG ĐẤT QUY ĐỊNH TẠI ĐIỀU 16
+1. Giấy tờ chứng minh về việc đã nộp tiền cho cơ quan, tổ chức quy định tại Điều 16 Nghị định số 84/2007/NĐ-CP là một trong các loại sau đây:
+1.1. Biên lai (phiếu thu, hoá đơn) thu tiền để được sử dụng đất, thu tiền đền bù theo Quyết định số 186/HĐBT ngày 31 tháng 5 năm 1990 của Hội đồng Bộ trưởng về đền bù thiệt hại đất nông nghiệp, đất có rừng khi chuyển sang sử dụng vào mục đích khác.
+1.2. Biên lai (phiếu thu, hoá đơn) thu tiền theo Thông tư số 60/TC-TCT ngày 16 tháng 7 năm 1993 của Bộ Tài chính về hướng dẫn bổ sung việc giảm thuế, miễn thuế sử dụng đất nông nghiệp.
+1.3. Biên lai (phiếu thu, hoá đơn) theo quy định về thu tiền đất của Ủy ban nhân dân cấp huyện, cấp xã hoặc của cơ quan, tổ chức giao đất không đúng thẩm quyền đã được các cơ quan, tổ chức đó cấp cho hộ gia đình, cá nhân.
+2. Trường hợp đất được giao không đúng thẩm quyền đã nộp tiền sử dụng đất mà giấy tờ chỉ còn lưu tại cơ quan, tổ chức đã thu tiền hoặc cơ quan, tổ chức khác có liên quan thì cơ quan, tổ chức đó có trách nhiệm cung cấp các giấy tờ đang lưu giữ để người sử dụng đất hoàn thiện hồ sơ xin cấp Giấy chứng nhận.
+IV. VIỆC XỬ LÝ NGHĨA VỤ TÀI CHÍNH VỀ ĐẤT ĐAI TRONG TRƯỜNG HỢP TỔ CHỨC KINH TẾ LIÊN DOANH CHUYỂN THÀNH TỔ CHỨC KINH TẾ CÓ 100% VỐN NƯỚC NGOÀI QUY ĐỊNH TẠI ĐIỀU 23
+Tổ chức kinh tế liên doanh giữa nhà đầu tư trong nước và nhà đầu tư nước ngoài chuyển thành tổ chức kinh tế có một trăm phần trăm (100%) vốn nước ngoài thì diện tích đất đã góp vốn vào liên doanh phải chuyển sang hình thức Nhà nước cho thuê đất và được lựa chọn hình thức trả tiền thuê đất một lần hoặc trả tiền thuê đất hàng năm.
+1. Việc xử lý đối với giá trị quyền sử dụng đất đã góp vốn vào liên doanh của bên Việt Nam thực hiện như sau:
+1.1. Nộp ngân sách nhà nước phần vốn ngân sách nhà nước cấp được tính bằng giá trị quyền sử dụng đất theo thời hạn chuyển nhượng vốn tính từ thời điểm sử dụng quyền sử dụng đất góp vốn liên doanh đến thời điểm chuyển nhượng với diện tích đất góp vốn và đơn giá thuê đất theo Hợp đồng nhận nợ với cơ quan tài chính (đối với trường hợp đã nhận nợ giá trị vốn góp bằng quyền sử dụng đất theo quy định tại Thông tư số 70 TC/QLCS ngày 07 tháng 10 năm 1997 của Bộ Tài chính hướng dẫn việc nộp tiền thuê đất, góp vốn liên doanh bằng giá trị quyền sử dụng đất của các tổ chức trong nước theo quy định tại Nghị định số 85/CP ngày 17 tháng 12 năm 1996 của Chính phủ) hoặc Biên bản (văn bản) giao nhận vốn (đối với trường hợp đã giao nhận vốn theo quy định tại Điều 28 Nghị định số 04/2000/NĐ-CP ngày 11 tháng 02 năm 2000 của Chính phủ về thi hành Luật sửa đổi, bổ sung một số điều của Luật Đất đai năm 1998 và Thông tư số 35/2001/TT-BTC ngày 25 tháng 5 năm 2001 của Bộ Tài chính hướng dẫn việc nộp tiền thuê đất, góp vốn liên doanh bằng giá trị quyền sử dụng đất của các tổ chức, hộ gia đình, cá nhân trong nước) hoặc Giấy phép đầu tư (đối với trường hợp chưa nhận nợ hoặc chưa giao nhận vốn với nhà nước).
+1.2. Nộp ngân sách nhà nước thu sử dụng vốn ngân sách nhà nước bằng giá trị quyền sử dụng đất được phép góp vốn liên doanh như sau:
+- a) Đối với doanh nghiệp bên Việt Nam chưa nhận nợ hoặc chưa nhận giao vốn và chưa nộp tiền thu sử dụng vốn cho ngân sách nhà nước thì thực hiện nộp thu sử dụng vốn như sau:
+- Từ thời điểm được sử dụng đất góp vốn đến ngày 31 tháng 12 năm 2000 thì mức nộp là 3%/năm tính trên số vốn góp bằng giá trị quyền sử dụng đất.
+- Từ thời điểm ngày 01 tháng 01 năm 2001 đến ngày 01 tháng 01 năm 2002 thì mức nộp là 1,8%/năm tính trên số vốn góp bằng giá trị quyền sử dụng đất.
+- b) Đối với các doanh nghiệp (bên Việt Nam) đã giao nhận nợ hoặc đã giao nhận vốn và đã nộp thu sử dụng vốn vào ngân sách nhà nước thì phải nộp thu sử dụng vốn của thời gian chưa nộp tính đến thời điểm ngày 31 tháng 12 năm 2001.
+1.3. Doanh nghiệp bên Việt Nam được ghi giảm vốn nhà nước tại doanh nghiệp sau khi nộp ngân sách nhà nước phần vốn ngân sách nhà nước bằng giá trị quyền sử dụng đất đã góp vào liên doanh theo điểm 1.1 khoản 1 Mục này (đối với trường hợp đã được cấp có thẩm quyền quyết định ghi tăng vốn nhà nước bằng giá trị quyền sử dụng đất đã góp vốn liên doanh).
+1.4. Đối với giá trị quyền sử dụng đất góp vốn liên doanh của bên Việt Nam có nguồn gốc từ đất giao có thu tiền sử dụng đất, nhận chuyển nhượng quyền sử dụng đất mà tiền sử dụng đất đã nộp hoặc tiền nhận chuyển nhượng quyền sử dụng đất đã trả không có nguồn gốc từ ngân sách thì doanh nghiệp bên Việt Nam không phải nộp ngân sách nhà nước số vốn góp bằng giá trị quyền sử dụng đất đã chuyển nhượng và thu sử dụng vốn theo quy định tại điểm 1.1, 1.2 khoản 1 Mục này.
+2. Tổ chức kinh tế có 100% vốn nước ngoài nhận chuyển nhượng phần vốn góp của bên Việt Nam bằng giá trị quyền sử dụng đất phải làm thủ tục thuê đất và không phải trả tiền thuê đất đối với thời gian mà bên Việt Nam đã chuyển nhượng vốn góp bằng giá trị quyền sử dụng đất. Hết thời hạn nhận chuyển nhượng phần vốn bằng giá trị quyền sử dụng đất của bên Việt Nam, tổ chức kinh tế có 100% vốn nước ngoài phải nộp tiền thuê đất theo quy định của pháp luật có hiệu lực thi hành tại thời điểm nộp tiền thuê đất.
+3. Trình tự, hồ sơ, thủ tục nộp ngân sách nhà nước đối với các khoản mà nhà đầu tư trong nước phải nộp theo quy định tại điểm 1.1, 1.3 khoản 1 Mục này được thực hiện theo quy định tại Nghị định số 85/2007/NĐ-CP ngày 25 tháng 5 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế.
+4. Sau khi các bên hoàn thành thủ tục chuyển nhượng quyền sử dụng đất và thực hiện nghĩa vụ tài chính, Sở Tài nguyên và Môi trường có trách nhiệm ra quyết định chất dứt Hợp đồng thuê đất đối với tổ chức kinh tế trong nước; trình Uỷ ban nhân dân cấp tỉnh quyết định cho tổ chức kinh tế có 100% vốn nước ngoài thuê đất theo quy định của pháp luật đất đai.
+V. NHẬN CHUYỂN NHƯỢNG DỰ ÁN ĐẦU TƯ CÓ SỬ DỤNG ĐẤT THEO QUY ĐỊNH TẠI ĐIỀU 24
+1. Trình tự, thủ tục chuyển nhượng dự án đầu tư có sử dụng đất:
+1.1. Đối với trường hợp tổ chức kinh tế trong nước được Nhà nước giao đất có thu tiền sử dụng đất, nhận chuyển nhượng quyền sử dụng đất; được Nhà nước cho thuê đất trước ngày 01 tháng 7 năm 2004 đã trả tiền thuê đất cho cả thời gian thuê hoặc đã trả trước tiền thuê đất cho nhiều năm mà thời hạn thuê đất đã được trả tiền còn lại ít nhất là năm (05) năm mà số tiền sử dụng đất đã nộp, tiền nhận chuyển nhượng quyền sử dụng đất đã trả, tiền thuê đất đã nộp không có nguồn gốc từ ngân sách nhà nước thì sau khi hợp đồng chuyển nhượng dự án đầu tư có sử dụng đất đã được công chứng, bên chuyển nhượng nộp hợp đồng chuyển nhượng dự án đầu tư và Giấy chứng nhận tại Văn phòng đăng ký quyền sử dụng đất thuộc Sở Tài nguyên và Môi trường nơi có đất để thực hiện việc chuyển nhượng quyền sử dụng đất theo quy định tại Điều 127 của Luật Đất đai và Điều 148 Nghị định số 181/2004/NĐ-CP ngày 29 tháng 10 năm 2004 của Chính phủ về thi hành Luật Đất đai (gọi là Nghị định số 181/2004/NĐ-CP). Trường hợp chuyển nhượng dự án đầu tư thuộc khu kinh tế, khu công nghệ cao thì hợp đồng chuyển nhượng không công chứng nhưng phải có xác nhận của Ban quản lý khu kinh tế, khu công nghệ cao.
+Sau khi các bên chuyển nhượng dự án hoàn thành nghĩa vụ tài chính theo quy định của pháp luật, Sở Tài nguyên và Môi trường có trách nhiệm trình Uỷ ban nhân dân cấp tỉnh quyết định cho thuê đất, cấp mới Giấy chứng nhận đối với trường hợp chuyển nhượng một phần dự án có sử dụng đất hoặc chỉnh lý Giấy chứng nhận đối với trường hợp chuyển nhượng toàn bộ dự án có sử dụng đất; Sở Tài nguyên và Môi trường ký hợp đồng thuê đất với bên nhận chuyển nhượng dự án có sử dụng đất.
+1.2. Đối với trường hợp tổ chức kinh tế trong nước được Nhà nước giao đất có thu tiền sử dụng đất, nhận chuyển nhượng quyền sử dụng đất hoặc được Nhà nước cho thuê đất trước ngày 01 tháng 7 năm 2004 đã trả tiền thuê đất cho cả thời gian thuê hoặc đã trả trước tiền thuê đất cho nhiều năm mà thời hạn thuê đất đã được trả tiền còn lại ít nhất là năm (05) năm mà số tiền sử dụng đất đã nộp, tiền nhận chuyển nhượng quyền sử dụng đất, tiền thuê đất đã trả có nguồn gốc từ ngân sách nhà nước hoặc thuê đất trả tiền thuê đất hàng năm, đất được Nhà nước giao không thu tiền sử dụng đất để góp vốn bằng quyền sử dụng đất thì sau khi hợp đồng chuyển nhượng dự án đầu tư có sử dụng đất đã được công chứng, bên chuyển nhượng nộp hợp đồng chuyển nhượng dự án đầu tư và Giấy chứng nhận tại Văn phòng đăng ký quyền sử dụng đất thuộc Sở Tài nguyên và Môi trường để thực hiện như đối với trường hợp bán tài sản gắn liền với đất theo quy định tại Điều 158 Nghị định số 181/2004/NĐ-CP. Trường hợp chuyển nhượng dự án đầu tư thuộc khu kinh tế, khu công nghệ cao thì hợp đồng chuyển nhượng dự án có sử dụng đất không công chứng nhưng phải có xác nhận của Ban quản lý khu kinh tế, khu công nghệ cao.
+1.3. Sau khi các bên chuyển nhượng dự án hoàn thành nghĩa vụ tài chính theo quy định của pháp luật, Sở Tài nguyên và Môi trường trình Ủy ban nhân dân cấp tỉnh quyết định thu hồi đất đối với bên chuyển nhượng dự án và quyết định cho thuê đất; thanh lý hợp đồng thuê đất (đối với trường hợp bên chuyển nhượng dự án được Nhà nước cho thuê đất); trình Ủy ban nhân dân cấp tỉnh cấp Giấy chứng nhận đối với bên nhận chuyển nhượng dự án; ký Hợp đồng thuê đất đối với bên nhận chuyển nhượng dự án.
+2. Giá trị hợp đồng chuyển nhượng dự án đầu tư bao gồm giá trị đầu tư và giá trị quyền sử dụng đất đối với trường hợp bên chuyển nhượng dự án sử dụng đất nêu tại điểm 1.1 khoản 1 Mục này.
+VI. TRÌNH TỰ, THỦ TỤC NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG ĐẤT ĐỂ THỰC HIỆN DỰ ÁN ĐẦU TƯ QUY ĐỊNH TẠI ĐIỀU 28
+1. Trình tự, thủ tục nhận chuyển nhượng quyền sử dụng đất kèm theo chuyển mục đích sử dụng đất mà phải xin phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư của tổ chức kinh tế, hộ gia đình, cá nhân (gọi là nhà đầu tư) được thực hiện như sau:
+1.1. Nhà đầu tư trước khi nhận chuyển nhượng quyền sử dụng đất kèm theo chuyển mục đích sử dụng đất để thực hiện dự án đầu tư phải có văn bản gửi Ủy ban nhân dân cấp có thẩm quyền cho phép chuyển mục đích sử dụng đất để xin chấp thuận về chủ trương đầu tư. Căn cứ quy hoạch sử dụng đất, quy hoạch xây dựng đô thị hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn đã được cơ quan nhà nước có thẩm quyền xét duyệt, Ủy ban nhân dân cấp có thẩm quyền có trách nhiệm trả lời nhà đầu tư bằng văn bản về việc chấp thuận hoặc không chấp thuận chủ trương đầu tư; trong trường hợp không chấp thuận thì phải nêu rõ lý do.
+1.2. Trường hợp được Ủy ban nhân dân cấp có thẩm quyền chấp thuận chủ trương đầu tư thì nhà đầu tư nộp một (01) bộ hồ sơ tại Văn phòng đăng ký quyền sử dụng đất thuộc Sở Tài nguyên và Môi trường (nếu bên chuyển nhượng là tổ chức kinh tế); tại Văn phòng đăng ký quyền sử dụng đất thuộc Phòng Tài nguyên và Môi trường (nếu bên chuyển nhượng là hộ gia đình, cá nhân); hồ sơ gồm có:
+- a) Hợp đồng chuyển nhượng quyền sử dụng đất;
+- b) Đơn xin chuyển mục đích sử dụng đất (trong đó nêu rõ số thửa, tổng diện tích đất và hình thức nộp tiền sử dụng đất hoặc thuê đất);
+- c) Văn bản chấp thuận chủ trương đầu tư nêu tại điểm 1.1 khoản này;
+- d) Giấy chứng nhận hoặc một trong các loại giấy tờ về quyền sử dụng đất quy định tại các khoản 1, 2 và 5 Điều 50 của Luật Đất đai (nếu có);
+- đ) Dự án đầu tư theo quy định của pháp luật về đầu tư (đối với tổ chức kinh tế).
+1.3. Văn phòng đăng ký quyền sử dụng đất thực hiện việc chuyển nhượng quyền sử dụng đất quy định tại điểm a và điểm b khoản 2 Điều 148 Nghị định số 181/2004/NĐ-CP và chuyển hồ sơ đến cơ quan Tài nguyên và Môi trường cấp có thẩm quyền cho phép chuyển mục đích sử dụng đất để thực hiện việc chuyển mục đích sử dụng đất theo quy định tại Điều 134 Nghị định số 181/2004/NĐ-CP trước khi chỉnh lý hoặc cấp mới Giấy chứng nhận; chuyển số liệu địa chính của loại đất sau khi chuyển mục đích sử dụng đất cho Sở Tài chính để làm cơ sở tính thu tiền sử dụng đất.
+2. Nhà đầu tư phải thực hiện nghĩa vụ tài chính đối với việc chuyển nhượng quyền sử dụng đất và chuyển mục đích sử dụng đất như sau:
+2.1. Sau khi hoàn thành việc thẩm định giá đất mà nhà đầu tư đã trả để được nhận chuyển nhượng quyền sử dụng đất, Sở Tài chính trình Ủy ban nhân dân cấp tỉnh quyết định giá đất mà nhà đầu tư đã trả để được nhận chuyển nhượng.
+2.2. Việc nộp tiền sử dụng đất, tiền thuê đất thực hiện như sau:
+- a) Trường hợp nhà đầu tư lựa chọn hình thức giao đất có thu tiền sử dụng đất thì phải nộp tiền sử dụng đất bằng mức chênh lệch giữa thu tiền sử dụng đất tính theo loại đất sau khi chuyển mục đích sử dụng đất với tiền nhận chuyển nhượng quyền sử dụng đất do Ủy ban nhân dân cấp tỉnh quyết định nêu tại điểm 2.1 khoản này nhưng tối đa không vượt quá số tiền bồi thường, hỗ trợ về đất tương ứng với trường hợp khi Nhà nước thu hồi đất;
+- b) Trường hợp nhà đầu tư lựa chọn hình thức thuê đất thì số tiền nhận chuyển nhượng do Ủy ban nhân cấp tỉnh quyết định nêu tại điểm 2.1 khoản này được trừ vào số tiền thuê đất phải nộp theo quy định tại điểm b khoản 2, khoản 3 và khoản 5 Điều 28 Nghị định số 84/2007/NĐ-CP nhưng tối đa không vượt quá số tiền bồi thường, hỗ trợ về đất tương ứng với trường hợp khi Nhà nước thu hồi đất.
+Trường hợp nhà đầu tư thuê dịch vụ tư vấn để xác định giá đất nhận chuyển nhượng để trừ vào tiền thuê đất phải nộp theo quy định tại khoản 5 Điều 28 Nghị định số 84/2007/NĐ-CP thì giá đất để xác định đơn giá thuê đất cũng phải do dịch vụ tư vấn xác định, Sở Tài chính thẩm định trình Ủy ban nhân dân cấp tỉnh quyết định.
+VII. VIỆC HỖ TRỢ ĐỐI VỚI ĐẤT NÔNG NGHIỆP XEN KẼ TRONG KHU DÂN CƯ VÀ ĐẤT VƯỜN, AO LIỀN KỀ VỚI ĐẤT Ở TRONG KHU DÂN CƯ QUY ĐỊNH TẠI ĐIỀU 43
+1. Diện tích được hỗ trợ quy định tại khoản 1 Điều 43 Nghị định số 84/2007/NĐ-CP là toàn bộ diện tích đất nông nghiệp; đất vườn, ao trong cùng thửa đất có nhà ở nhưng không được công nhận là đất ở thuộc phạm vi các khu vực sau:
+- a) Trong phạm vi địa giới hành chính phường;
+- b) Trong phạm vi khu dân cư thuộc thị trấn, khu dân cư nông thôn mà ranh giới khu dân cư đã được thể hiện trên bản đồ quy hoạch khu dân cư nông thôn hoặc đã được thể hiện trên bản đồ quy hoạch sử dụng đất chi tiết của xã, thị trấn được cơ quan nhà nước có thẩm quyền xét duyệt; trường hợp khu dân cư thuộc thị trấn, khu dân cư nông thôn mà chưa có quy hoạch khu dân cư, quy hoạch sử dụng đất chi tiết của xã, thị trấn được xét duyệt thì xác định theo ranh giới của thửa đất có nhà ở ngoài cùng của khu dân cư.
+2. Diện tích được hỗ trợ quy định tại khoản 3 Điều 43 Nghị định số 84/2007/NĐ-CP đối với thửa đất nông nghiệp không có nhà ở là không quá năm (05) lần hạn mức giao đất ở cho mỗi hộ gia đình, cá nhân quy định tại khoản 2 Điều 83, khoản 5 Điều 84 của Luật Đất đai.
+3. Đối với thửa đất nông nghiệp xen kẽ trong khu dân cư và đất vườn, ao trong cùng thửa đất có nhà ở thuộc khu dân cư bị thu hồi mà có ranh giới tiếp giáp với nhiều thửa đất có giá khác nhau thì giá đất để tính tiền hỗ trợ là giá bình quân của các thửa đất ở liền kề; trường hợp các thửa đất liền kề không phải là đất ở thì giá đất ở làm căn cứ để tính tiền hỗ trợ là giá đất ở của thửa đất có nhà ở gần nhất hoặc giá đất ở bình quân của các thửa đất có nhà ở gần nhất.
+VIII. KINH PHÍ CHUẨN BỊ HỒ SƠ ĐỊA CHÍNH CHO KHU ĐẤT BỊ THU HỒI QUY ĐỊNH TẠI KHOẢN 3 ĐIỀU 50
+1. Kinh phí chi cho việc chỉnh lý bản đồ địa chính, trích lục bản đồ địa chính, trích đo địa chính, trích sao hồ sơ địa chính do cơ quan Tài nguyên và Môi trường hoặc Văn phòng đăng ký quyền sử dụng đất thực hiện khi Nhà nước thu hồi đất để thực hiện dự án do chủ đầu tư của dự án chi trả và quyết toán vào nguồn vốn đầu tư của dự án.
+2. Trường hợp Nhà nước thu hồi đất theo quy hoạch, kế hoạch sử dụng đất đã được công bố mà chưa có dự án đầu tư thì khoản kinh phí nêu tại khoản 1 Mục này do Tổ chức phát triển quỹ đất chi trả và quyết toán vào nguồn kinh phí hoạt động của Tổ chức phát triển quỹ đất; đối với địa phương chưa có Tổ chức phát triển quỹ đất thì cơ quan Tài nguyên và Môi trường hoặc Văn phòng đăng ký quyền sử dụng đất quyết toán vào nguồn kinh phí được giao của đơn vị.
+IX. LẬP, THẨM ĐỊNH VÀ XÉT DUYỆT PHƯƠNG ÁN TỔNG THỂ VỀ BỒI THƯỜNG, HỖ TRỢ VÀ TÁI ĐỊNH CƯ QUY ĐỊNH TẠI ĐIỀU 51 VÀ LẬP, THẨM ĐỊNH, XÉT DUYỆT PHƯƠNG ÁN BỒI THƯỜNG, HỖ TRỢ VÀ TÁI ĐỊNH CƯ QUY ĐỊNH TẠI ĐIỀU 56
+1. Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng lập phương án tổng thể về bồi thường, hỗ trợ và tái định cư và nộp một (01) bộ hồ sơ tại Sở Tài chính đối với trường hợp Nhà nước thu hồi đất có liên quan từ hai (02) quận, huyện, thị xã, thành phố thuộc tỉnh trở lên và những phương án bồi thường, hỗ trợ, tái định cư do Uỷ ban nhân dân cấp tỉnh phê duyệt; nộp tại Phòng Tài chính đối với phương án thuộc Uỷ ban nhân dân cấp huyện phê duyệt.
+2. Cơ quan Tài chính chủ trì, phối hợp với cơ quan Tài nguyên và Môi trường, các cơ quan liên quan cùng cấp thẩm định phương án tổng thể về bồi thường, hỗ trợ và tái định cư và phương án bồi thường, hỗ trợ và tái định cư do Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng chuyển đến để trình Ủy ban nhân dân cùng cấp phê duyệt.
+Trường hợp cần thiết, Chủ tịch Uỷ ban nhân dân cấp có thẩm quyền xét duyệt phương án tổng thể về bồi thường, hỗ trợ và tái định cư và phương án bồi thường, hỗ trợ và tái định cư quyết định thành lập Hội đồng thẩm định do Thủ trưởng cơ quan Tài chính làm Chủ tịch Hội đồng.
+3. Nội dung thẩm định phương án tổng thể về bồi thường, hỗ trợ và tái định cư bao gồm các chính sách bồi thường, hỗ trợ và tái định cư được áp dụng; phương án bố trí tái định cư và dự toán nguồn kinh phí thực hiện phương án.
+Nội dung thẩm định phương án bồi thường, hỗ trợ và tái định cư bao gồm việc áp dụng cụ thể chính sách bồi thường, hỗ trợ tái định cư; việc áp giá đất, giá tài sản để tính bồi thường, các khoản hỗ trợ; phương án thực hiện bố trí tái định cư và nguồn kinh phí để chi trả bồi thường, hỗ trợ và tái định cư áp dụng cụ thể cho dự án.
+4. Kinh phí lập và thẩm định phương án tổng thể về bồi thường, hỗ trợ và tái định cư và phương án bồi thường, hỗ trợ và tái định cư của dự án được sử dụng từ khoản kinh phí chi cho công tác tổ chức thực hiện bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất theo quy định tại Điều 48 Nghị định số 197/2004/NĐ-CP ngày 03 tháng 12 năm 2004 của Chính phủ về bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất, khoản 6 Điều 4 Nghị định số 17/2006/NĐ-CP và hướng dẫn tại Mục VII Thông tư số 116/2004/TT-BTC ngày 07 tháng 12 năm 2004 của Bộ Tài chính hướng dẫn thực hiện Nghị định số 197/2004/NĐ-CP, Mục 4 Thông tư số 69/2006/TT-BTC ngày 02 tháng 8 năm 2006 của Bộ Tài chính về việc sửa đổi, bổ sung Thông tư số 116/2004/TT-BTC và Thông tư số 126/2007/TT-BTC ngày 30/10/2007 của Bộ Tài chính hướng dẫn việc lập dự toán, sử dụng và quyết toán kinh phí tổ chức thực hiện bồi thường, hỗ trợ và tái định cư đối với các dự án xây dựng công trình giao thông trên địa bàn các đơn vị hành chính thuộc vùng khó khăn.
+X. HIỆU LỰC THI HÀNH QUY ĐỊNH TẠI ĐIỀU 67
+Những dự án, hạng mục đã thực hiện xong việc bồi thường, hỗ trợ và tái định cư trước ngày 02 tháng 7 năm 2007 (ngày Nghị định số 84/2007/NĐ-CP có hiệu lực thi hành) thì không áp dụng hoặc điều chỉnh theo quy định của Nghị định số 84/2007/NĐ-CP.
+Đối với những dự án, hạng mục đã phê duyệt Phương án bồi thường, hỗ trợ và tái định cư nhưng chưa thực hiện hoặc chưa thực hiện xong việc chi trả bồi thường, hỗ trợ và tái định cư trước ngày Nghị định số 84/2007/NĐ-CP có hiệu lực thi hành mà sau đó giá đất cao hơn giá đất đã phê duyệt thì chỉ thực hiện việc điều chỉnh giá đất theo quy định tại khoản 4 Điều 58 Nghị định số 84/2007/NĐ-CP; không áp dụng các quy định khác về bồi thường, hỗ trợ và tái định cư quy định tại Nghị định số 84/2007/NĐ-CP.
+XI. TỔ CHỨC THỰC HIỆN
+1. Thông tư này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo.
+2. Bãi bỏ những quy định hướng dẫn thực hiện khoản 6 và khoản 8 Điều 8, Điều 41, Điều 42, Điều 47, Điều 49 và đoạn 2 khoản 2 Điều 50 Nghị định số 197/2004/NĐ-CP tại Thông tư số 116/2004/TT-BTC và tại Thông tư số 69/2006/TT-BTC.
+3. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm tổ chức thực hiện Thông tư này. Trong quá trình triển khai, nếu có vướng mắc thì phản ánh kịp thời về Bộ Tài nguyên và Môi trường, Bộ Tài chính để phối hợp giải quyết./.
+KT. BỘ TRƯỞNG BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG THỨ TRƯỞNG (Đã ký) Trần Thế Ngọc KT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG (Đã ký) Đỗ Hoàng Anh Tuấn
+KT. BỘ TRƯỞNG BỘ TÀI NGUYÊN
+VÀ MÔI TRƯỜNG
+THỨ TRƯỞNG
+(Đã ký)
+Trần Thế Ngọc
+KT. BỘ TRƯỞNG BỘ TÀI CHÍNH
+THỨ TRƯỞNG
+(Đã ký)
+Đỗ Hoàng Anh Tuấn

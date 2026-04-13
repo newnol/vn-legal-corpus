@@ -1,0 +1,52 @@
+---
+id: "8290"
+identifier: "vbpl-8290"
+title: "Chỉ thị số 06/CT-LĐTBXH Về việc thống kê số người bị hậu quả của chất độc hoá học do Mỹ sử dụng trong chiến tranh ở Việt Nam"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "06/CT-LĐTBXH"
+doc_type: "Chỉ thị"
+rank: "chi-thi"
+issue_date: "1997-09-15"
+effective_date: "1997-09-15"
+expiry_date: null
+public_date: null
+updated_date: "2026-03-17"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Lao động - Thương binh và Xã hội"
+organization_name: "Bộ Nội vụ"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "42"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 5
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/8290"
+signers:
+  - "Trần Đình Hoan"
+job_titles:
+  - "Bộ trưởng"
+---
+
+# Chỉ thị số 06/CT-LĐTBXH Về việc thống kê số người bị hậu quả của chất độc hoá học do Mỹ sử dụng trong chiến tranh ở Việt Nam
+
+CHỈ THỊ
+Về việc thống kê số người bị hậu quả của chất độc hoá học do Mỹ sử dụng trong chiến tranh ở Việt Nam
+Để thực hiện Chỉ thị của Thủ tướng Chính phủ tại Công văn số 3300/TCCB ngày 02 tháng 7 năm 1997, về việc xúc tiến khẩn trương tổ chức nghiên cứu, đánh giá chính xác và đầy đủ những hậu quả nặng nề và lâu dài của chất độc hoá học do Mỹ gây ra trong chiến tranh ở nước ta và những giải pháp để khắc phục, Bộ Lao động - Thương binh và Xã hội chủ trương tiến hành thống kê, tổng hợp đánh giá thực trạng số người bị hậu quả của chất độc hoá học, để có căn cứ xây dựng chính sách trình Thủ tướng Chính phủ.
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội chỉ thị:
+1/ Các Sở Lao động - Thương binh và Xã hội tỉnh, thành phố:
+- a) Tổ chức phổ biến, hướng dẫn kê khai những người bị hậu quả của chất độc hoá học do Mỹ sử dụng trong cuộc chiến tranh ở nước ta.
+Đối tượng kê khai gồm: Những người thuộc lực lượng vũ trang cách mạng, cán bộ dân chính Đảng, Thanh niên xung phong, dân thường và các đối tượng khác (là những người đã từng tham gia trong chính quyền và quân đội cũ) đã chiến đấu, phục vụ chiến đấu, công tác, sinh sống ở vùng bị Mỹ rải chất độc hoá học trong chiến tranh và con của họ sinh ra bị dị tật, dị dạng (có mẫu kèm theo).
+- b) Tổng hợp tình hình, đánh giá kết quả và gửi báo cáo cùng toàn bộ tờ khai của các đối tượng thuộc địa phương về Bộ trước ngày 30 tháng 11 năm 1997.
+2/ Ban Điều tra hậu quả chiến tranh có nhiệm vụ, hướng dẫn, đôn đốc, kiểm tra việc kê khai, thu nhận các tờ khai và kết quả của các địa phương. Tiến hành phân tích, xử lý kết quả thu được phục vụ cho công tác nghiên cứu trước mắt và lâu dài.
+3/ Những số liệu, kết quả thu được không được công bố khi chưa có ý kiến của Bộ Lao động - Thương binh và Xã hội.
+Trong quá trình thực hiện có gì vướng mắc đề nghị kịp thời phản ánh về Bộ Lao động - Thương binh và Xã hội để cùng giải quyết.

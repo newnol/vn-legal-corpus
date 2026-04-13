@@ -1,0 +1,70 @@
+---
+id: "67370"
+identifier: "vbpl-67370"
+title: "Quyết định số 51/QĐ-UB-QLĐT Về việc duyệt quy hoạch điều chỉnh (lần thứ 3) các khu vực quy hoạch không bán nhà thuộc sở hữu Nhà nước trên địa bàn quận 11"
+country: "vn"
+jurisdiction: "vn-15-ho-chi-minh"
+jurisdiction_name: "Hồ Chí Minh"
+scope: "Địa phương"
+doc_num: "51/QĐ-UB-QLĐT"
+doc_type: "Quyết định"
+rank: "quyet-dinh"
+issue_date: "1999-01-05"
+effective_date: "1999-01-05"
+expiry_date: "2015-04-23"
+public_date: null
+updated_date: "2026-01-05"
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "UBND Thành phố Hồ Chí Minh"
+organization_name: "Hồ Chí Minh"
+organization_type: "1"
+agency_level: "DIA_PHUONG"
+jurisdiction_code: "15"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "VanBanGoc_51_QĐ-UB-QLĐT.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/67370"
+signers:
+  - "Vũ Hùng Việt"
+job_titles:
+  - "Phó Chủ tịch"
+---
+
+# Quyết định số 51/QĐ-UB-QLĐT Về việc duyệt quy hoạch điều chỉnh (lần thứ 3) các khu vực quy hoạch không bán nhà thuộc sở hữu Nhà nước trên địa bàn quận 11
+
+QUYẾT ĐỊNH CỦA UBND THÀNH PHỐ V/v duyệt quy hoạch điều chỉnh (lần thứ 3) các khu vực quy hoạch không bán nhà thuộc sở hữu Nhà nước trên địa bàn quận 11. *******
+QUYẾT ĐỊNH CỦA UBND THÀNH PHỐ
+V/v duyệt quy hoạch điều chỉnh (lần thứ 3) các khu vực quy hoạch
+không bán nhà thuộc sở hữu Nhà nước trên địa bàn quận 11.
+*******
+ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH
+ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH
+- Căn cứ Luật tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 21 tháng 6 năm 1994 ;
+- Căn cứ Luật tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 21 tháng 6 năm 1994 ;
+- Căn cứ điểm 1, Điều 5 Nghị định số 61/CP, ngày 05/7/1994 của Chính phủ về mua bán và kinh doanh nhà ở ;
+- Căn cứ điểm 1, Điều 5 Nghị định số 61/CP, ngày 05/7/1994 của Chính phủ về mua bán và kinh doanh nhà ở ;
+- Căn cứ quyết định phê duyệt số 4246/QĐ-UB-QLĐT, ngày 15/12/1994 của Ủy ban nhân dân thành phố về quy hoạch các khu vực không bán nhà thuộc sở hữu Nhà nước trên địa bàn các Quận, Huyện ;
+- Căn cứ quyết định phê duyệt số 4246/QĐ-UB-QLĐT, ngày 15/12/1994 của Ủy ban nhân dân thành phố về quy hoạch các khu vực không bán nhà thuộc sở hữu Nhà nước trên địa bàn các Quận, Huyện ;
+- Xét đề nghị của Ủy ban nhân dân quận 11 tại công văn số 648/CV-UB, ngày 19/10/1998 ;
+- Xét đề nghị của Ủy ban nhân dân quận 11 tại công văn số 648/CV-UB, ngày 19/10/1998 ;
+- Xét tờ trình số 18328/KTST-QH, ngày 21/12/1998 của Kiến trúc sư Trưởng thành phố về việc quy hoạch điều chỉnh các khu vực quy hoạch không bán nhà thuộc quyền sở hữu của Nhà nước trên địa bàn quận 11-thành phố Hồ Chí Minh ;
+- Xét tờ trình số 18328/KTST-QH, ngày 21/12/1998 của Kiến trúc sư Trưởng thành phố về việc quy hoạch điều chỉnh các khu vực quy hoạch không bán nhà thuộc quyền sở hữu của Nhà nước trên địa bàn quận 11-thành phố Hồ Chí Minh ;
+QUYẾT - ĐỊNH
+QUYẾT - ĐỊNH
+## Điều 1.- Duyệt quy hoạch điều chỉnh (lần thứ 3) các khu vực quy hoạch không bán nhà thuộc quyền sở hữu Nhà nước trên địa bàn quận 11- thành phố Hồ Chí Minh (kèm danh mục).
+## Điều 1.- Duyệt quy hoạch điều chỉnh (lần thứ 3) các khu vực quy hoạch không bán nhà thuộc quyền sở hữu Nhà nước trên địa bàn quận 11- thành phố Hồ Chí Minh (kèm danh mục).
+## Điều 2.- Phạm vi các khu vực không bán theo quy hoạch điều chỉnh căn cứ vào sơ đồ quy hoạch do Viện Quy hoạch xây dựng thành phố lập tháng 10/1998 có sự thỏa thuận của Ủy ban nhân dân quận 11.
+## Điều 2.- Phạm vi các khu vực không bán theo quy hoạch điều chỉnh căn cứ vào sơ đồ quy hoạch do Viện Quy hoạch xây dựng thành phố lập tháng 10/1998 có sự thỏa thuận của Ủy ban nhân dân quận 11.
+Các quyết định trước đây về quy hoạch điều chỉnh các khu vực không bán nhà thuộc sở hữu Nhà nước trên địa bàn quận 11 được thay thế bởi quyết định này.
+Các quyết định trước đây về quy hoạch điều chỉnh các khu vực không bán nhà thuộc sở hữu Nhà nước trên địa bàn quận 11 được thay thế bởi quyết định này.
+## Điều 3.- Hội đồng bán nhà ở thành phố, Hội đồng bán nhà ở Quân khu 7, Hội đồng bán nhà ở quận 11, căn cứ vào ranh quy hoạch điều chỉnh trên để áp dụng, triển khai việc bán nhà thuộc sở hữu Nhà nước cho người đang thuê.
+## Điều 3.- Hội đồng bán nhà ở thành phố, Hội đồng bán nhà ở Quân khu 7, Hội đồng bán nhà ở quận 11, căn cứ vào ranh quy hoạch điều chỉnh trên để áp dụng, triển khai việc bán nhà thuộc sở hữu Nhà nước cho người đang thuê.
+## Điều 4.- Chánh Văn phòng Ủy ban nhân dân thành phố, Giám đốc Sở Địa chính-Nhà đất thành phố, Kiến trúc sư Trưởng thành phố, Chủ tịch Ủy ban nhân dân quận 11, Chủ tịch Hội đồng bán nhà ở thành phố, Chủ tịch Hội đồng bán nhà ở Quân khu 7, Chủ tịch Hội đồng bán nhà ở quận 11 chịu trách nhiệm thi hành quyết định này.-
+## Điều 4.- Chánh Văn phòng Ủy ban nhân dân thành phố, Giám đốc Sở Địa chính-Nhà đất thành phố, Kiến trúc sư Trưởng thành phố, Chủ tịch Ủy ban nhân dân quận 11, Chủ tịch Hội đồng bán nhà ở thành phố, Chủ tịch Hội đồng bán nhà ở Quân khu 7, Chủ tịch Hội đồng bán nhà ở quận 11 chịu trách nhiệm thi hành quyết định này.-

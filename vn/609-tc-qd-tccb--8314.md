@@ -1,0 +1,72 @@
+---
+id: "8314"
+identifier: "vbpl-8314"
+title: "Quyết định số 609/TC-QĐ-TCCB Về việc thành lập Ban chỉ đạo kiểm kê Trung ương"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "609/TC-QĐ-TCCB"
+doc_type: "Quyết định"
+rank: "quyet-dinh"
+issue_date: "1997-08-23"
+effective_date: "1997-08-23"
+expiry_date: null
+public_date: null
+updated_date: "2026-03-28"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Tài chính"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: "609.1997.TC.QD.TCCB.doc"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 15
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/8314"
+signers:
+  - "Nguyễn Sinh Hùng"
+job_titles:
+  - "Bộ trưởng"
+---
+
+# Quyết định số 609/TC-QĐ-TCCB Về việc thành lập Ban chỉ đạo kiểm kê Trung ương
+
+BỘ TÀI CHÍNH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+Số: 609/1997/TC-QĐ-TCCB
+Hà Nội, Ngày 23 tháng 8 năm 1997
+QUYẾT ĐỊNH
+Về việc thành lập Ban chỉ đạo kiểm kê Trung ương
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ Nghị định số 15/CP ngày 2/3/1993 của Chính phủ về nhiệm vụ, quyền hạn và trách nhiệm quản lý nhà nước của bộ, cơ quan ngang bộ; Căn cứ Nghị định số 178/CP ngày 28/10/1994 cả Chính phủ về nhiệm vụ, quyền hạn và tổ chức bộ máy Bộ Tài chính; Căn cứ Quyết định số 466/TTg ngày 2/7/1997 của Thủ tướng Chính phủ về việc tiến hành tổng kiểm kê đánh giá lại TSCĐ của Nhà nước tại khu vực hành chính sự nghiệp; Căn cứ Công văn cử cán bộ tham gia ban chỉ đạo kiểm kê Trung ương của các bộ, ngành liên quan; Theo đề nghị của đồng chí Vụ trưởng Vụ tổ chức cán bộ và đào tạo.
+QUYẾT ĐỊNH
+## Điều 1. Thành lập ban chỉ đạo kiểm kê trung ương làm nhiệm vụ chỉ đạo công tác kiểm kê và đánh giá lại tài sản cố định của Nhà nước khu vực hành chính sự nghiệp gồm các đồng chí có tên dưới đây:
+1- Đồng chí Nguyễn Sinh Hùng-Bộ trưởng Bộ Tài chính, Trưởng ban;
+2- Đồng chí Nguyễn Thị Kim Ngân - Thứ trưởng Bộ tài chính, Phó Trưởng ban;
+3- Đồng chí Lê Mạnh Hùng - Phó Tổng cục trưởng Tổng cục Thống kê, Phó trưởng ban;
+4- Đồng chí Lại Quang Thực - Thứ trưởng Bộ kế hoạch và Đầu tư, Phó trưởng ban;
+5- Đồng chí Lê Văn Tân - Phó trưởng ban Vật giá Chính phủ, Uỷ viên;
+6- Đồng chí Đặng Nghiêm Chính - Thứ trưởng Bộ Xây dựng, uỷ viên;
+7- Đồng chí Nguyễn Trọng Xuyên-Thứ trưởng Bộ Quốc phòng, uỷ viên
+8- Đồng chí Hoàng Ngọc Nhất - Thứ trưởng Bộ Nội vụ, Uỷ viên
+9- Đồng chí Trần Chí Đáo - Thứ trưởng Bộ Giáo dục và Đào tạo, uỷ viên
+10- Đồng chí Trần Thị Trung Chiến - Thứ trưởng Bộ Y tế, Uỷ viên;
+11- Đồng chí Phạm Khôi Nguyên - Thứ trưởng Bộ Khoa học, Công nghiệp và Môi trường, uỷ viên;
+12- Đồng chí Lưu Trần Tiêu - Thứ trưởng Bộ Văn hoá Thông tin, uỷ viên;
+13- Đồng chí Phạm Đức Phong - Cục trưởng cục QLCS, Bộ Tài chính, Tổng thư ký ban chỉ đạo.
+## Điều 2. Ban chỉ đạo kiểm kê trung ương có trách nhiệm triển khai thực hiện các nhiệm vụ quy định tại Quyết định số 466/TTg ngày 02/07/1997 của Thủ tướng Chính phủ và các quy định trong quy chế làm việc của ban chỉ đạo kiểm kê trung ương.
+## Điều 3. Ban chỉ đạo kiểm kê trung ương được thành lập các bộ phận giúp việc gồm 27 đồng chí (Có danh sách đính kèm).
+Nhiệm vụ của các bộ phận giúp việc do Trưởng ban chỉ đạo kiểm kê Trung ương quyết định.
+## Điều 4. Quyết định này có hiệu lực kề từ ngày ký. Vụ trưởng vụ Tổ chức cán bộ và đào tạo, Chánh Văn phòng Bộ Tài chính, Thủ trưởng các đơn vị liên quan và các đồng chí có tên tại Điều 1, Điều 3 chịu trách nhiệm thi hành quyết định này.
+BỘ TRƯỞNG
+(Đã ký)
+Nguyễn Sinh Hùng

@@ -1,0 +1,57 @@
+---
+id: "1042"
+identifier: "vbpl-1042"
+title: "Nghị quyết số Không số Về vấn đề tài chính ngân sách"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "Không số"
+doc_type: "Nghị quyết"
+rank: "nghi-quyet"
+issue_date: "1957-01-21"
+effective_date: "1957-01-21"
+expiry_date: "1960-01-01"
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Quốc hội"
+organization_name: "Tài khoản trung ương"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "TW"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/1042"
+signers:
+  - "Tôn Đức Thắng"
+job_titles:
+  - "Chủ tịch Quốc hội"
+---
+
+# Nghị quyết số Không số Về vấn đề tài chính ngân sách
+
+NGHỊ QUYẾT
+CỦA QUỐC HỘI NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ
+VỀ CÔNG TÁC KHÔI PHỤC KINH TẾ
+(Đã được Quốc hội nhất trí thông qua trong phiên họp
+ngày 20 tháng 1 năm 1957)
+QUỐC HỘI NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ, HỌP KHOÁ THỨ 6;
+Sau khi nghe và thảo luận bản báo cáo của Chính phủ về công tác khôi phục kinh tế,
+QUYẾT NGHỊ:
+1) Quốc hội xác nhận trong hoàn cảnh hết sức khó khăn và trong thời gian không đầy hai năm, Chính phủ và nhân dân ta đã đạt được nhiều thành tích trong việc thực hiện những nhiệm vụ chủ yếu của công cuộc khôi phục kinh tế: khôi phục và phát triển sản xuất nông nghiệp; khôi phục và phát triển sản xuất công nghiệp và thủ công nghiệp; khôi phục giao thông vận tải; củng cố và phát triển đê điều và thuỷ nông; giải quyết được phần lớn nạn thất nghiệp; cung cấp hàng hoá cần thiết cho nhân dân, bình ổn giá những thứ hàng chính; củng cố và phát triển khu vực kinh tế quốc doanh; bước đầu xây dựng và phát triển khu vực kinh tế hợp tác xã. Thành tích lớn nhất là sản xuất lương thực vượt mức trước chiến tranh.
+Quốc hội nhận rằng những thành tích đã thu được là căn bản, chúng ta đã đạt được yêu cầu mục đích của công cuộc khôi phục kinh tế: khôi phục và phát triển sản xuất nhằm hàn gắn vết thương chiến tranh, giảm bớt khó khăn của nhân dân, nâng cao một bước đời sống của nhân dân; củng cố và phát triển chế độ kinh tế dân chủ nhân dân. Những thành tích đó chứng tỏ rằng đường lối phương châm khôi phục kinh tế của Đảng và Chính phủ được Quốc hội họp khoá thứ 5 thông qua, căn bản là đúng.
+Những thành tích đó là kết quả của sự nỗ lực của nhân dân ta, nhất là của nhân dân lao động và sự giúp đỡ tận tâm của các nước bạn và các chuyên gia bạn.
+Bên cạnh những thành tích kể trên, việc lãnh đạo thi hành công cuộc khôi phục kinh tế có nhiều khuyết điểm: lãnh đạo sản xuất nông nghiệp không toàn diện; chưa chú ý đầy đủ công nghiệp nhẹ sản xuất hàng tiêu dùng; chưa sử dụng hết khả năng của thủ công nghiệp và công thương nghiệp tư doanh; đánh giá không đúng nhu cầu của nhân dân, do đó không đảm bảo cung cấp hàng hoá và nguyên liệu cần thiết; còn thiếu xót trong việc chấp hành các chính sách lao động, công tư và lao tư; phạm nhiều lãng phí trong việc quản lý tài sản Nhà nước, xây dựng cơ bản, sử dụng lao động, quản lý sản xuất và kinh doanh; công tác kinh tế miền núi và việc thực hiện quan hệ kinh tế Bắc Nam chưa được chú ý đúng mức.
+2) Hiện nay, nền kinh tế của ta chưa được hoàn toàn khôi phục, sản xuất tuy đã tăng nhiều, nhưng chưa đáp ứng đủ nhu cầu ngày càng phát triển của nhân dân, đời sống của nhân dân còn khó khăn.
+Căn cứ vào những thành tích đã đạt được, trước những khó khăn hiện tại trong nền kinh tế của ta, căn cứ vào nguyện vọng của nhân dân, Quốc hội tán thành những nhiệm vụ kinh tế của Chính phủ đề ra trong năm 1957: căn bản hoàn thành khôi phục kinh tế, củng cố và phát triển chế độ kinh tế dân chủ nhân dân.
+Quốc hội tán thành những phương châm của Chính phủ: phải đẩy mạnh sản xuất, lấy sản xuất làm trung tâm cho mọi công tác; đề cao tự lực cánh sinh; thực hiện tiết kiệm, chống lãng phí tham ô; mọi chính sách và công tác kinh tế tài chính cần thể hiện phương châm củng cố miền Bắc, đồng thời tranh thủ miền Nam, thể hiện chính sách Mặt trận và chính sách dân tộc; phân công phối hợp chặt chẽ giữa các thành phần kinh tế; đảm bảo phát triển ngày càng cân đối giữa các ngành.
+3) Quốc hội tin rằng, với lòng yêu nước nồng nàn, với truyền thống đoàn kết đấu tranh anh dũng, với tinh thần tự lực cánh sinh, nhân dân ta sẽ vượt mọi khó khăn, phát huy thành tích, đẩy mạnh sản xuất tiết kiệm, hoàn thành khôi phục kinh trong năm 1957, nâng cao dần đời sống của nhân dân, phát triển nền kinh tế dân chủ nhân dân, tiến dần từng bước lên chủ nghĩa xã hội.

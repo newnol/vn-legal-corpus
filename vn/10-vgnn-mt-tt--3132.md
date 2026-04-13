@@ -1,0 +1,62 @@
+---
+id: "3132"
+identifier: "vbpl-3132"
+title: "Thông tư liên tịch số 10/VGNN-MT/TT Quy định danh mục sản phẩm và dịch vụ do Bộ Mỏ và Than quyết định giá"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "10/VGNN-MT/TT"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "1985-05-03"
+effective_date: "1985-05-18"
+expiry_date: null
+public_date: null
+updated_date: "2026-01-10"
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Bộ Mỏ và Than"
+organization_name: "Bộ Công thương"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "37"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/3132"
+signers:
+  - "Nguyễn Chân"
+  - "Phan Văn Tiệm"
+job_titles:
+  - "Bộ trưởng"
+  - "Chủ nhiệm"
+---
+
+# Thông tư liên tịch số 10/VGNN-MT/TT Quy định danh mục sản phẩm và dịch vụ do Bộ Mỏ và Than quyết định giá
+
+THÔNG TƯ
+LIÊN BỘ UỶ BAN VẬT GIÁ NHÀ NƯỚC - BỘ MỎ VÀ THAN SỐ 10/VGNN-MT/TT NGÀY 3-5-1985 QUY ĐỊNH DANH MỤC SẢN PHẨM VÀ DỊCH VỤ DO BỘ MỎ VÀ THAN QUYẾT ĐỊNH GIÁ
+Căn cứ Nghị định số 33-HĐBT ngày 27-2-1984 của Hội đồng Bộ trưởng, ban hành Điều lệ quản lý giá; nay liên bộ quy định danh mục sản phẩm và dịch vụ do Bộ Mỏ và Than cụ thể hoá giá chuẩn của Hội đồng Bộ trưởng hoặc Uỷ ban Vật giá Nhà nước và quyết định giá như sau:
+I- DANH MỤC SẢN PHẨM DO BỘ MỎ VÀ THAN CỤ THỂ HOÁ GIÁ
+Căn cứ vào giá chuẩn và những điều ghi trong quyết định giá của Hội đồng Bộ trưởng và Uỷ ban Vật giá Nhà nước để quyết định giá:
+1- Than địa phương, than thu hồi do Bộ Mỏ và Than thu mua của các địa phương và các hộ dùng than (giá bán buôn xí nghiệp và giá bán buôn công nghiệp).
+2- Giá xuất khẩu than và nhập khẩu vật tư thiết bị chuyên dùng của ngành than tính bằng nguyên tệ theo khung giá do Hội đồng Bộ trưởng, Bộ Ngoại thương và các cơ quan có chức năng quy định (đối với thị trường khu vực II).
+3- Các máy móc, thiết bị chuyên dùng của ngành khai thác than mà Nhà nước chưa quy định giá chỉ đạo.
+4- Phụ tùng sữa chữa, thay thế các loại máy móc thiết bị khai thác than (ngoài số cụm, phụ tùng chủ yếu do Uỷ ban Vật giá quy định).
+5- Phế liệu của sản xuất từ các nguyên vật liệu do các Bộ khác cung ứng cho ngành than.
+6- Chiết khấu hay thặng số lưu thông vật tư, thiết bị chuyên ngành như: hoá chất mỏ, thiết bị lẻ... do các đơn vị trong Bộ Mỏ và Than đảm nhận cung ứng.
+II- DANH MỤC SẢN PHẨM VÀ DỊCH VỤ DO BỘ MỎ VÀ THAN QUYẾT ĐỊNH GIÁ
+1- Các loại diệp thạch, bã thải không phải là than tiêu chuẩn Việt Nam (giá bán buôn xí nghiệp, giá bán buôn công nghiệp, giá bán buôn vật tư).
+2- Những sản phẩm, phụ tùng, dịch vụ sửa chữa do các xí nghiệp trực thuộc Bộ sản xuất tiêu dùng trong ngành (ngoài những thứ trong các danh mục số 1 và số 2). Cụ thể là:
+- Những vật tư thiết bị chuyên ngành mỏ (choòng, răng gầu xe goòng, vì chống...).
+- Dịch vụ sửa chữa xe máy, thiết bị.
+- Cước vận tải trong nội bộ ngành.
+- Phế liệu của sản xuất từ các loại nguyên vật liệu do Bộ tự cung ứng. - Nửa thành phẩm trao đổi giữa các xí nghiệp, đơn vị trong ngành than. 3- Giá dự toán và quyết toán các công trình xây dựng cơ bản ngành than (trừ các công trình trọng điểm do Nhà nước quy định).
+Trong quá trình sản xuất, kinh doanh nếu phát sinh sản phẩm mới hoặc cần thay đổi quyền quyết định giá liên bộ sẽ tiếp tục bổ sung.

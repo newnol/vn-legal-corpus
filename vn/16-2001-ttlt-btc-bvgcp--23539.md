@@ -1,0 +1,82 @@
+---
+id: "23539"
+identifier: "vbpl-23539"
+title: "Thông tư liên tịch số 16/2001/TTLT/BTC-BVGCP Hướng dẫn việc thu, quản lý và sử dụng tiền xử phạt đối với hành vi vi phạm hành chính trong lĩnh vực giá cả"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "16/2001/TTLT/BTC-BVGCP"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "2001-03-21"
+effective_date: "2001-04-05"
+expiry_date: null
+public_date: null
+updated_date: "2026-03-27"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Tài chính"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: "16.2001.TTLT.BTC.BVGCP.doc"
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 16
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/23539"
+signers:
+  - "Trần Văn Tá"
+  - "Nguyễn Ngọc Vinh"
+job_titles:
+  - "Thứ trưởng"
+  - "Phó Trưởng ban"
+---
+
+# Thông tư liên tịch số 16/2001/TTLT/BTC-BVGCP Hướng dẫn việc thu, quản lý và sử dụng tiền xử phạt đối với hành vi vi phạm hành chính trong lĩnh vực giá cả
+
+THÔNG TƯ LIÊN TỊCH
+Hướng dẫn việc thu, quản lý và sử dụng tiền xử phạt
+đối với hành vi vi phạm hành chính trong lĩnh vực giá cả
+_____________________
+Căn cứ Nghị định số 44/2000/NĐ-CP ngày 1 tháng 9 năm 2000 của Chính phủ về xử phạt hành chính trong lĩnh vực giá cả;
+Liên tịch Bộ Tài chính, Ban Vật giá Chính phủ hướng dẫn việc thu, quản lý và sử dụng tiền xử phạt đối với hành vi vi phạm hành chính trong lĩnh vực giá cả như sau:
+I. QUY ĐỊNH CHUNG
+1. Phạm vi áp dụng
+Phạm vi áp dụng của Thông tư này là toàn bộ số tiền thu được từ việc áp dụng các hình thức xử phạt quy định tại khoản 1, khoản 2, khoản 3 và khoản 4 Điều 8 Nghị định số 44/2000/NĐ-CP ngày 1 tháng 9 năm 2000 của Chính phủ về xử phạt hành chính trong lĩnh vực giá cả (sau đây gọi tắt là Nghị định số 44/2000/NĐ-CP) do các cá nhân, cơ quan có thẩm quyền xử phạt hành vi vi phạm hành chính trong lĩnh vực giá cả phát hiện và xử lý.
+2. Các khoản thu từ xử phạt vi phạm hành chính trong lĩnh vực giá cả bao gồm:
+2.1- Tiền phạt do các tổ chức, cá nhân có hành vi vi phạm hành chính trong lĩnh vực giá cả nộp theo quyết định xử phạt hoặc quyết định xử lý khiếu nại (nếu có) của các cơ quan có thẩm quyền theo quy định của Nghị định số 44/2000/NĐ-CP và Thông tư số 04/2000/TT-BVGCP ngày 15 tháng 11 năm 2000 của Ban Vật giá Chính phủ hướng dẫn thi hành Nghị định số 44/2000/NĐ-CP ngày 1 tháng 9 năm 2000 của Chính phủ về xử phạt hành chính trong lĩnh vực giá cả;
+2.2- Tiền thu hồi tiền trợ giá, trợ cước vận chuyển hàng hoá, tiền hỗ trợ để thực hiện chính sách giá do khai man, khai khống hồ sơ chứng từ mà có được; tiền trợ giá, trợ cước vận chuyển hàng hoá, tiền hỗ trợ để thực hiện chính sách giá đã sử dụng sai mục đích;
+2.3- Tiền truy thu các khoản tiền phải nộp theo quy định để thực hiện chính sách giá đã trốn nộp;
+2.4- Tiền chênh lệch giá bị thu hồi do thực hiện giá sai so với quy định của Nhà nước.
+II. QUY ĐỊNH CỤ THỂ VỀ QUẢN LÝ, SỬ DỤNG NGUỒN THU TỪ XỬ PHẠT HÀNH CHÍNH TRONG LĨNH VỰC GIÁ CẢ
+1. Tập trung các khoản thu từ xử phạt hành chính trong lĩnh vực giá cả
+1.1. Toàn bộ nguồn thu từ xử phạt hành chính trong lĩnh vực giá cả được tập trung vào tài khoản tạm giữ nơi phát sinh vụ việc do cơ quan tài chính cấp tỉnh và cấp huyện mở tại Kho bạc Nhà nước. Kho bạc Nhà nước có trách nhiệm thu và tổ chức việc thu tiền phạt theo quyết định của cơ quan, cá nhân có thẩm quyền xử phạt.
+1.2. Căn cứ để thu tiền phạt và áp dụng các hình thức xử phạt quy định tại Điều 8 của Nghị định số 44/2000/NĐ-CP là quyết định xử phạt hoặc quyết định giải quyết khiếu nại (nếu có) của cơ quan, cá nhân có thẩm quyền theo quy định của Nghị định số 44/2000/NĐ-CP. Nghiêm cấm cơ quan, cá nhân có thẩm quyền ra quyết định xử phạt trực tiếp thu tiền phạt.
+Quyết định xử phạt thực hiện theo mẫu chung do Ban Vật giá Chính phủ quy định, trong đó phải ghi rõ ngày, tháng, năm ra Quyết định; họ tên, địa chỉ của cá nhân, tổ chức vi phạm; mức phạt...
+Tổ chức, cá nhân bị xử lý vi phạm hành chính, bị thu hồi tiền trợ giá tiền trợ cước vận chuyển hàng hoá, các khoản tiền hỗ trợ để thực hiện chính sách giá; bị tịch thu tiền chênh lệch giá; bị buộc phải bồi thường toàn bộ số tiền thất thoát do vi phạm hành chính; bị truy thu tiền phải nộp để thực hiện chính sách giá theo quy định phải nộp tiền tại nơi mà Quyết định xử phạt đã ghi.
+1.3. Chế độ quản lý biên lai thu tiền phạt được thực hiện theo các quy định hiện hành.
+2. Mở tài khoản tạm giữ
+2.1. Sở Tài chính - Vật giá các tỉnh, thành phố trực thuộc Trung ương mở tài khoản tạm giữ tại Kho bạc Nhà nước tỉnh để tập trung thu các khoản thu từ xử phạt hành chính trong lĩnh vực giá cả đối với những trường hợp vi phạm thuộc thẩm quyền xử lý của Chủ tịch Uỷ ban nhân dân cấp tỉnh.
+Cơ quan Tài chính cấp huyện (quận, thành phố trực thuộc tỉnh) mở tài khoản tạm giữ tại Kho bạc Nhà nước huyện để tập trung thu các khoản thu xử phạt hành chính trong lĩnh vực giá đối với những trường hợp do Chủ tịch Uỷ ban nhân dân quận, huyện, thị xã, thành phố trực thuộc tỉnh quyết định xử phạt và những trường hợp do Chủ tịch Uỷ ban nhân dân xã, phường, thị trấn quyết định, xử lý.
+Số tiền nộp vào tài khoản tạm giữ được Kho bạc Nhà nước mở sổ theo dõi chi tiết theo từng khoản thu nêu tại Điểm 2, Mục I để quản lý và sử dụng theo đúng quy định tại Thông tư này.
+2.2. Đối với những vụ việc do thanh tra viên chuyên ngành phát hiện, xử lý theo thẩm quyền quy định tại Điều 17 Nghị định số 44/2000/NĐ-CP thì các khoản tiền thu từ xử phạt hành chính trong lĩnh vực giá được nộp vào tài khoản tạm giữ mở tại Kho bạc Nhà nước nơi phát sinh vụ việc.
+3. Phân phối và sử dụng nguồn thu từ tài khoản tạm giữ
+3.1. Đối với khoản thu từ tiền thu hồi tiền trợ giá; trợ cước vận chuyển hàng hoá, tiền hỗ trợ để thực hiện chính sách giá do khai man, khai khống hồ sơ chứng từ mà có được; tiền trợ giá, trợ cước vận chuyển hàng hoá, tiền hỗ trợ để thực hiện chính sách giá đã sử dụng sai mục đích nêu tại tiết 2.2, Điểm 2, Mục I Thông tư này sẽ được hoàn trả ngân sách nhà nước theo nguyên tắc ngân sách cấp nào chi thì hoàn trả cho ngân sách cấp đó. Việc hoàn nộp ngân sách được thực hiện theo quy định hiện hành về hoàn nộp ngân sách.
+3.2. Đối với số truy thu tiền phải nộp để thực hiện chính sách giá theo quy định đã trốn nộp nêu tại tiết 2.3, Điểm 2, Mục I Thông tư này thì nộp vào ngân sách nhà nước theo quy định hiện hành đối với khoản nộp đó.
+3.3. Đối với khoản thu là tiền chênh lệch giá bị tịch thu do thực hiện sai các quy định về giá nêu tại tiết 2.4, Điểm 2, Mục I Thông tư này, nếu có quyết định của cơ quan chủ trì xử phạt đồng ý hoàn lại cho đối tượng bị hại, thì tiến hành hoàn lại cho đối tượng bị hại. Số tiền hoàn lại cho người bị hại không được vượt quá số chênh lệch giá đã bị tịch thu đối với từng vụ việc và thực nộp vào tài khoản tạm giữ. Trường hợp không hoàn lại thì thực hiện nộp vào ngân sách cấp tỉnh theo quyết định của cấp có thẩm quyền.
+3.4. Đối với toàn bộ số tiền xử phạt hành vi vi phạm hành chính trong lĩnh vực giá cả nêu tại tiết 2.1, Điểm 2, Mục I Thông tư này thu về được ngân sách nhà nước để lại để hỗ trợ hoạt động thanh tra trong lĩnh vực giá cả.
+Trên cơ sở số tiền xử phạt hành chính thực nộp vào tài khoản tạm giữ mở tại Kho bạc Nhà nước (trừ các khoản thu nêu tại tiết 2.2, 2.3 và 2.4 Điểm 2, Mục I) và đề nghị của đơn vị xử lý vi phạm, Giám đốc sở Tài chính - Vật giá trình Chủ tịch Uỷ ban nhân dân cấp tỉnh, Trưởng phòng Tài chính huyện trình Chủ tịch Uỷ ban nhân dân cấp huyện ra quyết định phân phối số tiền xử phạt hành chính theo định kỳ hàng tháng hoặc theo từng vụ việc cho đơn vị đã tham gia xử lý vi phạm để hỗ trợ cho hoạt động thanh tra trong lĩnh vực giá cả.
+Căn cứ quyết định của Chủ tịch Uỷ ban nhân dân cấp có thẩm quyền, cơ quan tài chính cùng cấp thực hiện việc chuyển tiền từ tài khoản tạm giữ về tài khoản đơn vị được hưởng và theo dõi việc quản lý và sử dụng theo hướng dẫn tại Thông tư số 52TC/CSTC ngày 12 tháng 9 năm 1996 của Bộ Tài chính hướng dẫn việc thu và sử dụng tiền xử phạt đối với hành vi vi phạm hành chính và Thông tư số 63TC/CSTC ngày 11 tháng 9 năm 1997 của Bộ Tài chính hướng dẫn bổ sung một số điểm của Thông tư số 52 TC/CSTC ngày 12 tháng 9 năm 1996 của Bộ Tài chính.
+4. Hạch toán, kế toán và quyết toán
+Các đơn vị tham gia xử phạt vi phạm hành chính trong lĩnh vực giá cả phải mở sổ sách kế toán để theo dõi các khoản thu, nộp từ xử phạt vi phạm hành chính hướng dẫn tại Thông tư này; theo dõi việc tiếp nhận, sử dụng và quyết toán kinh phí từ nguồn xử phạt vi phạm hành chính trong lĩnh vực giá cả; lập báo cáo tài chính và báo cáo quyết toán theo quy định của Luật Ngân sách nhà nước và các quy định về quản lý tài chính, kế toán hiện hành.
+Các đơn vị Kho bạc Nhà nước các cấp thực hiện hạch toán thu nộp và chi trả các khoản kinh phí xử phạt vi phạm hành chính trong lĩnh vực giá cả theo đúng Mục lục Ngân sách nhà nước và chế độ tài chính, kế toán hiện hành.
+III. TỔ CHỨC THỰC HIỆN
+Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày ký. Những vụ việc vi phạm hành chính đã phát hiện nhưng chưa xử lý tính đến ngày có hiệu lực của Thông tư này thì giải quyết theo quy định tại Thông tư này.
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các ngành, các cấp kịp thời báo cáo về Bộ Tài chính, Ban Vật giá Chính phủ để nghiên cứu, hướng dẫn bổ sung./.

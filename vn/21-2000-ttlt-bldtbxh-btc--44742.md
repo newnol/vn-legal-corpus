@@ -1,0 +1,63 @@
+---
+id: "44742"
+identifier: "vbpl-44742"
+title: "Thông tư liên tịch của Bộ Lao động - Thương binh và Xã hội - Bộ Tài chính số 21/2000/TTLT-BLĐTBXH-BTC ngày 25 tháng 9 năm 2000 hướng dẫn chế độ trợ cấp cho những người đã hết tuổi lao động tại thời điểm ngừng hưởng trợ cấp mất sức lao động hàng tháng"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "21/2000/TTLT-BLĐTBXH-BTC"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "2000-09-25"
+effective_date: "2000-07-01"
+expiry_date: null
+public_date: null
+updated_date: "2026-03-27"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Lao động - Thương binh và Xã hội"
+organization_name: "Bộ Nội vụ"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "42"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: "21.2000.TTLT.BLDTBXH.BTC.doc"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 19
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/44742"
+signers:
+  - "Lê Duy Ðồng"
+  - "Nguyễn Thị Hằng"
+job_titles:
+  - "Đang cập nhật"
+  - "Đang cập nhật"
+---
+
+# Thông tư liên tịch của Bộ Lao động - Thương binh và Xã hội - Bộ Tài chính số 21/2000/TTLT-BLĐTBXH-BTC ngày 25 tháng 9 năm 2000 hướng dẫn chế độ trợ cấp cho những người đã hết tuổi lao động tại thời điểm ngừng hưởng trợ cấp mất sức lao động hàng tháng
+
+THÔNG TƯ LIÊN TỊCH
+Hướng dẫn chế độ trợ cấp cho những người đã hết tuổi lao động tại thời điểm
+ngừng hưởng trợ cấp mất sức lao động hàng tháng
+___________________________
+Thi hành Quyết định số 91/2000/QĐ-TTg ngày 4 tháng 8 năm 2000 của Thủ tướng Chính phủ về việc trợ cấp đối với những người hết tuổi lao động tại thời điểm ngừng hưởng trợ cấp mất sức lao động hàng tháng, Liên Bộ Lao động - Thương binh và Xã hội - Bộ Tài chính hướng dẫn thực hiện như sau:
+# Chương I. ĐỐI TƯỢNG ÁP DỤNG:
+1- Người đang hưởng trợ cấp mất sức lao động hàng tháng có thời hạn theo quy định tại Quyết định 60/HĐBT ngày 1 tháng 3 năm 1990 của Hội đồng Bộ trưởng (nay là Chính phủ) mà tại thời điểm ngừng hưởng trợ cấp, đã hết tuổi lao động (nam đủ 60 tuổi trở lên, nữ đủ 55 tuổi trở lên) và có thời gian công tác thực tế đủ 15 năm trở lên (năm công tác tính theo lịch, không tính số năm được quy đổi thêm theo hệ số).
+2- Người đã ngừng hưởng trợ cấp mất sức lao động hàng tháng theo quy định tại Quyết định 60/HĐBT nói trên trong khoảng thời gian từ ngày 1 tháng 7 năm 1990 đến trước ngày 1 tháng 7 năm 2000, đến ngày 1 tháng 7 năm 2000 còn sống, mà tại thời điểm ngừng hưởng trợ cấp lúc đó đã hết tuổi lao động (nam đủ 60 tuổi trở lên, nữ đủ 55 tuổi trở lên) và có thời gian công tác thực tế đủ 15 năm trở lên (năm công tác tính theo lịch, không tính số năm được quy đổi theo hệ số). Không thực hiện trợ cấp quy định tại Thông tư này đối với những người thuộc diện được tiếp tục hưởng trợ cấp mất sức lao động hàng tháng quy định tại Điều 2 Quyết định 60/HĐBT ngày 1 tháng 3 năm 1990 của Hội đồng Bộ trưởng (nay là Chính phủ).
+# Chương II. MỨC TRỢ CẤP, CÁCH TÍNH HƯỞNG TRỢ CẤP:
+1- Mức trợ cấp: 100.000 đồng/tháng, áp dụng thống nhất cho các đối tượng nêu tại điểm 1, 2 mục I nói trên, không tính đến mức trợ cấp mất sức lao động đã hưởng trước đó. Ngoài mức trợ cấp 100.000 đồng/tháng, người hưởng trợ cấp còn được hưởng chế độ bảo hiểm y tế quy định tại Nghị định 58/1998/NĐ-CP ngày 13 tháng 8 năm 1998 của Chính phủ. Mức đóng bảo hiểm y tế cho mỗi người hưởng trợ cấp bằng 3% mức tiền lương tối thiểu và do ngân sách Nhà nước đảm bảo thông qua cơ quan Bảo hiểm xã hội Việt Nam. Khi người hưởng trợ cấp chết thì người lo mai táng được nhận mai táng phí bằng 8 tháng tiền lương tối thiểu, quy định tại Điều 31 Điều lệ Bảo hiểm xã hội ban hành kèm theo Nghị định 12/CP ngày 26 tháng 1 năm 1995 của Chính phủ.
+2- Cách tính hưởng trợ cấp a- Người đang hưởng trợ cấp mất sức lao động hàng tháng được tính hưởng khi đủ hai điều kiện sau: - Tại thời điểm ngừng hưởng trợ cấp mất sức lao động hàng tháng nam đủ 60 tuổi trở lên, nữ đủ 55 tuổi trở lên. - Có thời gian công tác thực tế đủ 15 năm trở lên (tính theo lịch). Thời điểm bắt đầu hưởng trợ cấp với mức 100.000 đồng/tháng, được tính từ tháng ngừng hưởng trợ cấp mất sức lao động theo quy định tại Quyết định 60/HĐBT ngày 1 tháng 3 năm 1990 của Hội đồng Bộ trưởng (nay là Chính phủ) . Ví dụ 1: Bà Nguyễn Thị A sinh tháng 9 năm 1945, có 15 năm công tác thực tế (được tính thêm 2 năm quy đổi theo hệ số, thành 17 năm) . Bà A nghỉ việc hưởng trợ cấp mất sức lao động hàng tháng từ tháng 3 năm 1992 với thời gian được hưởng trợ cấp là 8 năm 6 tháng, tháng 8 năm 2000 bà hưởng tháng trợ cấp mất sức lao động cuối cùng với mức 190.000 đồng. Theo quy định tại Quyết định 60/HĐBT ngày 1 tháng 3 năm 1990 thì tháng 9 năm 2000 bà A ngừng hưởng trợ cấp mất sức lao động, nhưng vì tại thời điểm ngừng hưởng trợ cấp mất sức lao động bà A đã đủ 55 tuổi, cho nên bà A được hưởng trợ với mức 100.000 đồng/tháng từ tháng 9 năm 2000. Ví dụ 2: Ông Trần Văn B sinh tháng 4 năm 1942, có 16 năm công tác thực tế (được tính thêm 2 năm 6 tháng quy đổi theo hệ số thành 18 năm 6 tháng). Ông B nghỉ việc hưởng trợ cấp mất sức lao động tháng 6 năm 1991 với thời gian được hưởng trợ cấp là 9 năm 3 tháng, tháng 8 năm 2000 ông B hưởng tháng trợ cấp cuối cùng, tại thời điểm tháng 9 năm 2000 là thời điểm ngừng trợ cấp, ông B chưa hết tuổi lao động (58 tuổi), vì vậy ông B không được hưởng trợ cấp 100.000 đồng/tháng. Ví dụ 3: Ông Nguyễn Văn C sinh tháng 7 năm 1940, có 15 năm công tác thực tế (không có thời gian được quy đổi). Ông B nghỉ việc hưởng trợ cấp mất sức lao động hàng tháng từ tháng 2 năm 1993, với thời gian được hưởng trợ cấp là 7 năm 6 tháng, tháng 7 năm 2000 ông C hưởng tháng trợ cấp mất sức lao động cuối cùng với mức 240.000 đồng/tháng, tháng 8 năm 2000 tại thời điểm ngừng hưởng trợ cấp ông B đã hết tuổi lao động (đủ 60 tuổi), vì vậy ông C được hưởng trợ cấp với mức 100.000 đồng/tháng kể từ tháng 8 năm 2000. Ví dụ 4: Bà Bùi Thị N sinh tháng 4 năm 1944, có 14 năm công tác thực tế (được tính thêm 1 năm 8 tháng quy đổi theo hệ số thành 15 năm 8 tháng). Bà N nghỉ việc hưởng trợ cấp mất sức lao động từ tháng 6 năm 1993 với thời gian được hưởng trợ cấp là 7 năm 10 tháng, tháng 3 năm 2001 bà N hưởng tháng trợ cấp cuối cùng, tại thời điểm tháng 4 năm 2001 là thời điểm ngừng hưởng trợ cấp, bà N đã hết tuổi lao động, nhưng vì chưa đủ 15 năm công tác thực tế cho nên bà N không được hưởng trợ cấp 100.000 đồng/tháng . b- Người đã ngừng hưởng trợ cấp mất sức lao động hàng tháng trong thời gian từ ngày 1 tháng 7 năm 1990 đến trước ngày 1 tháng 7 năm 2000, đến ngày 1 tháng 7 năm 2000 còn sống, nếu có đủ các điều kiện như nêu tại tiết a trên thì được hưởng trợ cấp. Thời điểm hưởng trợ cấp được tính từ ngày 1 tháng 7 năm 2000. Ví dụ 1: Ông Nguyễn Văn D sinh tháng 5 năm 1934, có 15 năm công tác thực tế (được tính thêm 3 năm quy đổi, thành 18 năm). Ông D nghỉ việc hưởng trợ cấp mất sức lao động hàng tháng từ tháng 5 năm 1986, tháng 4 năm 1994 ông hưởng tháng trợ cấp mất sức lao động cuối cùng với mức 170.000 đồng, tháng 5 năm 1994 khi thôi hưởng trợ cấp mất sức lao động thì ông D đã hết tuổi lao động (đủ 60 tuổi). Đến ngày 1 tháng 7 năm 2000 ông D còn sống. Trường hợp ông D đủ điều kiện để hưởng trợ cấp với mức 100.000 đồng/tháng kể từ ngày 1 tháng 7 năm 2000. Ví dụ 2: Bà Phan Thanh H sinh tháng 9 năm 1940, có 15 năm công tác thực tế (được tính thêm 2 năm quy đổi theo hệ số, thành 17 năm). Bà H nghỉ việc hưởng trợ cấp mất sức lao động hàng tháng từ tháng 3 năm 1986 với thời gian được hưởng trợ cấp là 8 năm 6 tháng trợ cấp, tháng 8 năm 1994 bà H hưởng tháng trợ cấp cuối cùng với mức 190.000 đồng, tháng 9 năm 1994 tại thời điểm ngừng hưởng trợ cấp mất sức lao động bà H chưa hết tuổi lao động (54 tuổi). Đến ngày 1 tháng 7 năm 2000 bà H còn sống. Trường hợp bà H, tuy có đủ 15 năm công tác thực tế nhưng tại thời điểm ngừng hưởng trợ cấp mất sức lao động bà H chưa hết tuổi lao động. Bà H không đủ điều kiện để hưởng trợ cấp quy định tại điểm 1 mục này . Ví dụ 3: Ông Nguyễn Văn K sinh tháng 4 năm 1936, có 13 năm 6 tháng công tác thực tế (được tính thêm 1 năm 10 tháng quy đổi theo hệ số, thành 15 năm 4 tháng). Ông K nghỉ việc hưởng trợ cấp mất sức lao động hàng tháng từ tháng 8 năm 1989 với thời gian được hưởng trợ cấp là 7 năm 2 tháng, tháng 9 năm 1996 ông hưởng tháng trợ cấp mất sức lao động cuối cùng, tại thời điểm tháng 10 năm 1996 là thời điểm ngừng trợ cấp mất sức lao động ông K đã hết tuổi lao động (đủ 60 tuổi). Đến ngày 1 tháng 7 năm 2000 ông K còn sống. Trường hợp ông K, tuy hết tuổi lao động tại thời điểm ngừng hưởng trợ cấp mất sức lao động nhưng thời gian công tác chưa đủ 15 năm thực tế, nên ông K không đủ điều kiện để hưởng trợ cấp quy định tại điểm 1 nêu trên.
+# Chương III. HỒ SƠ VÀ THỦ TỤC XÉT HƯỞNG TRỢ CẤP:
+1- Hồ sơ hưởng trợ cấp gồm có: - Đơn xin hưởng trợ cấp có xác nhận của chính quyền địa phương nơi cư trú (đối với người đã ngừng hưởng trợ cấp mất sức lao động từ ngày 1 tháng 7 năm 1990 đến trước ngày 1 tháng 7 năm 2000). - Hồ sơ hưởng trợ cấp mất sức lao động . - Quyết định thôi hưởng trợ cấp mất sức lao động - Quyết định của Giám đốc Bảo hiểm xã hội tỉnh, thành phố trực thuộc trung ương về trợ cấp đối với người hết tuổi lao động tại thời điểm ngừng hưởng trợ cấp mất sức lao động hàng tháng.
+2- Thủ tục xét hưởng: - Đối với người đang hưởng trợ cấp mất sức lao động hàng tháng, Bảo hiểm xã hội tỉnh, thành phố có trách nhiệm rà soát hồ sơ đang quản lý, lập danh sách những người đủ điều kiện hưởng trợ cấp quy định tại mục I Thông tư này. Giám đốc bảo hiểm xã hội tỉnh, thành phố trực thuộc trung ương thẩm định và ra quyết định điều chỉnh từ mức trợ cấp mất sức lao động đang hưởng sang mức trợ cấp 100.000 đồng/tháng . - Đối với người đã ngừng hưởng trợ cấp mất sức lao động trong khoảng từ ngày 1 tháng 7 năm 1990 đến trước ngày 1 tháng 7 năm 2000, Bảo hiểm xã hội quận, huyện, thị xã căn cứ quyết định thôi hưởng trợ cấp, lập danh sách những người đến ngày 1 tháng 7 năm 2000 đang còn sống và rà soát, đối chiếu với hồ sơ mất sức lao động do cơ quan Bảo hiểm xã hội đang quản lý để xác định đúng những người được hưởng trợ cấp. Giám đốc Bảo hiểm xã hội tỉnh, thành phố trực thuộc trung ương thẩm định, ra quyết định hưởng trợ cấp với mức 100.000 đồng/tháng cho những người này và chịu trách nhiệm về các quyết định đó.
+# Chương IV. KINH PHÍ ĐẢM BẢO THỰC HIỆN TRỢ CẤP: . Kinh phí thực hiện trợ cấp cho các đối tượng quy định tại mục I Thông tư này do Ngân sách trung ương đảm bảo chi trả qua cơ quan Bảo hiểm xã hội .
+# Chương V. TỔ CHỨC THỰC HIỆN
+1- Uỷ ban Nhân dân tỉnh, thành phố trực thuộc Trung ương chỉ đạo chính quyền các cấp, Sở Lao động-Thương binh và Xã hội, Sở Tài chính Vật giá và các Sở, Ban, Ngành liên quan kiểm tra việc thực hiện Quyết định số 91/2000/QĐ-TTg ngày 4 tháng 8 năm 2000 của
+2- Bộ Tài chính cấp kinh phí từ Ngân sách Trung ương để chi cho các đối tượng nêu tại mục I Thông tư này theo phương thức cấp trực tiếp cho Bảo hiểm xã hội Việt Nam trên cơ sở dự toán hàng năm của Bảo hiểm xã hội Việt Nam.
+3- Bảo hiểm xã hội Việt Nam tổ chức thực hiện và chỉ đạo Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương căn cứ vào hồ sơ mất sức lao động đang quản lý để thực hiện trợ cấp đối với các đôí tượng quy định tại Thông tư này; tổng hợp, báo cáo số đối tượng được hưởng trợ cấp và kinh phí chi trả (do cơ quan Bảo hiểm xã hội các tỉnh, thành phố thực hiện) cho Bộ Lao động - Thương binh và Xã hội và Bộ Tài chính để làm căn cứ cấp kinh phí từ ngân sách Nhà nước và hàng năm quyết toán với Bộ Tài chính theo quy chế hiện hành.
+4- Sở Lao động -Thương binh và Xã hội phối hợp với cơ quan Bảo hiểm xã hội các tỉnh, thành phố trực thuộc trung ương trình Uỷ ban Nhân dân xem xét, quyết định trợ cấp khó khăn đối với những người đã thôi hưởng trợ cấp mất sức lao động hàng tháng, nhưng không thuộc đối tượng được hưởng trợ cấp quy định tại điểm 1, 2 mục I Thông tư này, khi hết tuổi lao động (nam đủ 60 tuổi trở lên và nữ đủ 55 tuổi trở lên) mà đời sống có nhiều khó khăn. Mức trợ cấp khó khăn do Chủ tịch Uỷ ban Nhân tỉnh, thành phố trực thuộc trung ương quy định trên cơ sở khả năng cân đối ngân sách của địa phương. Thông tư này có hiệu lực thi hành kể từ ngày 1 tháng 7 năm 2000. Những đối tượng đủ điều kiện hưởng trợ cấp theo quy định tại tiết a, tiết b điểm 2 mục II nêu trên, nếu do quá trình làm thủ tục mà nhận trợ cấp chậm, thì được truy lĩnh kể từ thời điểm được hưởng trợ cấp quy định tại Thông tư này. Trong quá trình thực hiện, nếu có vướng mắc đề nghị phản ánh về Bộ Lao động - Thương binh và Xã hội và Bộ Tài chính để giải quyết.

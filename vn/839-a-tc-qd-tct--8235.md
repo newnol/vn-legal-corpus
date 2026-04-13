@@ -1,0 +1,90 @@
+---
+id: "8235"
+identifier: "vbpl-8235"
+title: "Quyết định số 839/a-TC-QĐ-TCT về việc ban hành in ấn, quản lý sử dụng tem hàng nhập khẩu"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "839/a-TC-QĐ-TCT"
+doc_type: "Quyết định"
+rank: "quyet-dinh"
+issue_date: "1997-10-31"
+effective_date: "1997-11-15"
+expiry_date: null
+public_date: null
+updated_date: "2026-04-03"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Tài chính"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 23
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/8235"
+signers:
+  - "Vũ Mộng Giao"
+job_titles:
+  - "Thứ trưởng"
+---
+
+# Quyết định số 839/a-TC-QĐ-TCT về việc ban hành in ấn, quản lý sử dụng tem hàng nhập khẩu
+
+BỘ TÀI CHÍNH CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+BỘ TÀI CHÍNH
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+Số: 839/a-TC/QĐ/TCT Hà Nội, ngày 31 tháng 10 năm 1997
+Số: 839/a-TC/QĐ/TCT
+Hà Nội, ngày 31 tháng 10 năm 1997
+QUYẾT ĐỊNH
+Quyết định về việc ban hành in ấn, quản lý sử dụng tem hàng nhập khẩu
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ Pháp lệnh kế toán Thống kê ngày 20-5-1988.
+Căn cứ Nghị định số 15-CP ngày 2-3-1993 của Chính phủ về nhiệm vụ, quyền hạn và trách nhiệm quản lý Nhà nước của Bộ, cơ quan ngang Bộ,
+Căn cứ Nghị định số 178-CP ngày 28-10-1994 của Chính phủ quy định chức năng, nhiệm vụ và tổ chức bộ máy của Bộ Tài chính.
+Thi hành Chỉ thị số 853/1997/CT-TTg ngày 11-10-1997 của Thủ tướng Chính phủ về đấu tranh chống buôn lậu trong tình hình mới.
+Căn cứ Công văn số: 5422/KTTH ngày 28-10-1997 của Văn phòng Chính phủ thông báo ý kiến chỉ đạo của Thủ tướng Chính phủ về việc dán tem thuế.
+Sau khi thống nhất với Bộ Thương mại, Bộ Nội vụ và Tổng cục Hải quan
+QUYẾT ĐỊNH
+## Điều 1: Ban hành kèm theo Quyết định này "Quy chế in ấn, phát hành, quản lý sử dụng tem hàng nhập khẩu gồm: tem xe đạp nhập khẩu, tem rượu nhập khẩu và tem quạt điện nhập khẩu, gọi chung là tem hàng nhập khẩu".
+## Điều 2: Các loại tem hàng nhập khẩu ban hành kèm theo Quyết định này có hiệu lực thi hành kể từ ngày 15-11-1997.
+## Điều 3: Các tổ chức có liên quan đến việc in ấn, phát hành, quản lý, sử dụng tem hàng nhập khẩu có trách nhiệm thi hành Quyết định này./.
+KT. BỘ TRƯỞNG THỨ TRƯỞNG (Đã ký) Vũ Mộng Giao
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+(Đã ký)
+Vũ Mộng Giao
+QUY ĐỊNH
+IN ẤN, PHÁT HÀNH VÀ QUẢN LÝ SỬ DỤNG TEM HÀNG NHẬP KHẨU (Ban hành kèm theo Quyết định số 839a TC/QĐ/TCT ngày 31 tháng 10 năm 1997 của Bộ trưởng Bộ Tài chính).
+Điều 1 : Ban hành 3 mẫu tem hàng nhập khẩu sau đây:
+1. Tem xe đạp nhập khẩu
+Tem được in bằng giấy bóc dán, trên giấy có nền in hoa văn xanh lam và Quốc huy nước CHXHCN Việt Nam, khung tem trang trí hoa văn màu xanh nhạt, tem có keo dán sẵn.
+Kích thước tem 2 cm x 4,8 cm
+2. Tem rượu nhập khẩu
+Tem được in trên giấy bóc dán, có in nền hoa văn vàng cam nhạt, và Quốc huy nước CHXHCN Việt Nam, khung tem trang trí hoa văn màu xanh nhạt, tem có keo dán sẵn.
+Kích thước tem 12 cm x 1,3 cm
+3. Tem quạt điện nhập khẩu
+Tem được in trên giấy bóc dán, có in nền hoa văn màu xanh nhạt và có Quốc huy nước CHXHCN Việt Nam, khung tem trang trí hoa văn màu xanh nhạt, có keo dán sẵn.
+Kích thước tem 2 cm x 3,5 cm.
+Các loại tem hàng nhập khẩu nêu trên được in bằng kỹ thuật bảo vệ đặc biệt và có dãy số phát quang khi kiểm tra bằng đèn cực tím. Tem có in sê-ry và đánh số theo thứ tự liên tục, mỗi sê-ry có từ số 000.001 đến số 999.000.
+## Điều 2: Tổng cục Thuế - Bộ Tài chính có trách nhiệm tổ chức việc in ấn, phát hành quản lý sử dụng tem hàng nhập khẩu theo Điều 1 nói trên trong phạm vi toàn quốc.
+## Điều 3: Cấp phát quản lý và sử dụng
+Cục Thuế các tỉnh, thành phố có trách nhiệm cấp phát tem hàng nhập khẩu cho Cục Hải quan các tỉnh, thành phố trực thuộc Trung ương và các Chi cục Thuế quận, huyện, thị xã sử dụng.
+Cục Thuế các tỉnh, thành phố từ Thừa Thiên - Huế trở ra nhận tại Tổng cục Thuế, 123 Lò Đúc, quận Hai Bà Trưng, T.P Hà Nội.
+Cục thuế các tỉnh, thành phố từ T.P Đà Nẵng trở vào, nhận tại Đại diện Tổng cục Thuế, 138 Nguyễn Thị Minh Khai, quận 3, T.P Hồ Chí Minh.
+Hàng tháng theo dõi, thông báo và xử lý tổn thất tem nếu có, báo cáo kết quả việc dán tem, quản lý tem với Bộ Tài chính (Tổng cục Thuế) theo chế độ hiện hành.
+Đối với các mặt hàng nhập khẩu phải dán tem đang còn tồn lại đến ngày 30-11-1997, tổ chức, cá nhân kinh doanh hàng nhập khẩu không phải trả tiền chi phí dán tem.
+Riêng đối với các mặt hàng nhập khẩu phải dán tem, các tổ chức, cá nhân kinh doanh có nhập khẩu hàng hoá theo quy định phải dán tem do cơ quan Hải quan dán tem. Các đơn vị, cá nhân kinh doanh hàng nhập khẩu dán tem phải nộp một khoản chi phí dán tem. Mức cụ thể do Bộ Tài chính thống nhất với Tổng cục Hải quan quy định.
+## Điều 4: Xử lý bồi hoàn vật chất
+Đối với tem hàng nhập khẩu bị mất, cơ quan quản lý và sử dụng tem hàng nhập khẩu phải báo cáo với cơ quan Thuế về số lượng, ký hiệu và số tem bị mất để cơ quan Thuế kiểm tra và thông báo mất và xử lý kịp thời.
+Các tổ chức, cá nhân làm mất tem hàng nhập khẩu, ngoài xử lý hành chính còn bị xử phạt bằng 1 lần giá trị hàng hoá nhập khẩu.
+## Điều 5: Việc quản lý và sử dụng tem hàng nhập khẩu thực hiện theo đúng chế độ quản lý ấn chỉ, ban hành kèm theo Quyết định số 529 TC/QĐ ngày 22-12-1992 và Quyết định số: 544 TC/QĐ/CĐKT ngày 2-8-1997 của Bộ trưởng Bộ Tài chính về việc ban hành chế độ thống nhất phát hành và quản lý các loại biểu mẫu chứng từ thu, chi Ngân sách Nhà nước.

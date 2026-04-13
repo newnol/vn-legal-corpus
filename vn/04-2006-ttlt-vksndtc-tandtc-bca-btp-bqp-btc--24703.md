@@ -1,0 +1,174 @@
+---
+id: "24703"
+identifier: "vbpl-24703"
+title: "Thông tư liên tịch số 04/2006/TTLT/VKSNDTC-TANDTC-BCA-BTP-BQP-BTC Hướng dẫn thi hành một số quy định của Nghị quyết số 388/NQ-UBTVQH11 ngày 17/3/2003 của Ủy ban Thường vụ Quốc hội về bồi thường thiệt hại cho người bị oan do người có thẩm quyền trong hoạt động tố tụng hình sự gây ra"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "04/2006/TTLT/VKSNDTC-TANDTC-BCA-BTP-BQP-BTC"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "2006-11-22"
+effective_date: "2006-12-20"
+expiry_date: "2012-12-17"
+public_date: null
+updated_date: "2026-01-10"
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Viện trưởng Viện kiểm sát nhân dân tối cao"
+organization_name: "Viện Kiểm sát nhân dân tối cao"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "55"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: "04.2006.TTLT-VKSNDTC-TANDTC-BCA-BTP-BQP-BTC.doc"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/24703"
+signers:
+  - "Trần Thu"
+  - "Đặng Quang Phương"
+  - "Lê Thế Tiệm"
+  - "Đinh Trung Tụng"
+  - "Nguyễn Văn Được"
+  - "Trần Văn Tá"
+job_titles:
+  - "Phó Viện trưởng"
+  - "Phó Chánh án"
+  - "Thứ trưởng"
+  - "Thứ trưởng"
+  - "Thứ trưởng"
+  - "Thứ trưởng"
+---
+
+# Thông tư liên tịch số 04/2006/TTLT/VKSNDTC-TANDTC-BCA-BTP-BQP-BTC Hướng dẫn thi hành một số quy định của Nghị quyết số 388/NQ-UBTVQH11 ngày 17/3/2003 của Ủy ban Thường vụ Quốc hội về bồi thường thiệt hại cho người bị oan do người có thẩm quyền trong hoạt động tố tụng hình sự gây ra
+
+THÔNG TƯ LIÊN TỊCH
+Hướng dẫn thi hành một số quy định của Nghị quyết số 388/NQ-UBTVQH11
+ngày 17/3/2003 của Ủy ban Thường vụ Quốc hội về bồi thường thiệt hại
+cho người bị oan do người có thẩm quyền trong hoạt động
+tố tụng hình sự gây ra
+______________________
+Ngày 17/3/2003, Ủy ban Thường vụ Quốc hội đã thông qua Nghị quyết số 388/NQ-UBTVQH11 ngày 17/3/2003 của Ủy ban Thường vụ Quốc hội về bồi thùơng thiệt hại cho người bị oan do người có thẩm quyền trong hoạt động tố tụng hình sự gây ra (sau đây viết tắt là Nghị quyết số 388).
+Để thi hành đúng và thống nhất các quy định của Nghị quyết nói trên, Viện Kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao, Bộ Công an, Bộ Tư pháp, Bộ Quốc phòng, Bộ Tài chính thống nhất hướng dẫn một số điểm như sau:
+I. VỀ NHỮNG QUY ĐỊNH CHUNG
+1. Các trường hợp được bồi thường thiệt hại
+Điều 1 của Nghị quyết số 388 quy định cụ thể những trường hợp được bồi thường thiệt hại, tuy nhiên khi thi hành quy định của Điều này cần chú ý:
+1.1. Người bị tạm giữ quy định tại điểm a khoản 1 Điều 1 của Nghị quyết số 388 được bồi thường thiệt hại khi họ không thực hiện bất kỳ hành vi vi phạm pháp luật nào và có quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự hủy bỏ quyết định tạm giữ.
+Ví dụ 1: Công an huyện T tạm giữ Nguyễn Văn A cùng 8 người khác trong vụ đánh bạc tại nhà C. Qua điều tra đã xác định tại thời điểm đó A sang nhà C để trả nợ rồi bị tạm giữ, nên Cơ quan Điều tra đã ra quyết định hủy bỏ quyết định tạm giữ đối với A. Trong trường hợp này Nguyễn Văn A được bồi thường thiệt hại.
+Ví dụ 2: Bộ đội Biên phòng Đồn 56 huyện A bắt quả tang 10 người Việt Nam đang vận chuyển trái phép hàng hóa qua biên giới từ Trung Quốc về Việt Nam và ra lệnh tạm giữ họ. Qua điều tra xác định được giá trị hàng hóa chưa đến mức phải truy cứu trách nhiệm hình sự, vì vậy đã hủy bỏ lệnh tạm giữ để xử lý họ về hành chính. Trong trường hợp này họ đã có hành vi vi phạm pháp luật (vận chuyển trái phép hàng hóa qua biên giới), nên không được bồi thường thiệt hại.
+1.2. Người bị tạm giữ mà có quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự hủy bỏ quyết định tạm giam vì người đó không thực hiện hành vi phạm tội hoặc người đã chấp hành xong hoặc đang chấp hành hình phạt tù có thời hạn, tù chung thân, đã bị kết án tử hình mà có bản án, quyết định của Tòa án có thẩm quyền xác định người đó không thực hiện hành vi phạm tội thì được bồi thường thiệt hại.
+1.3. Người bị khởi tố, truy tố, xét xử, nếu trong quá trình tiến hành tố tụng hình sự không bị tạm giữ, không bị tạm giam mà có bản án, quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự xác định họ không thực hiện hành vi phạm tội, thì được bồi thường thiệt hại.
+1.4. Người bị khởi tố, truy tố, xét xử về nhiều tội trong cùng một vụ án, đã chấp hành hình phạt tù mà sau đó có bản án, quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự xác định người đó bị oan về một hoặc một số tội và hình phạt của những tội còn lại ít hơn thời gian đã bị tạm giam, chấp hành hình phạt tù, thì được bồi thường thiệt hại do tổn thất về tinh thần và thu nhập thực tế bị mất, tương ứng với thời gian đã bị tạm giam, chấp hành hình phạt tù vượt quá, so với mức hình phạt của những tội mà người đó phải chấp hành.
+1.5. Người bị khởi tố, truy tố, xét xử về nhiều tội trong cùng một vụ án, bị kết án tử hình nhưng chưa thi hành mà sau đó có bản án, quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự xác định người đó bị oan về tội đã bị kết án tử hình và tổng hợp hình phạt của những tội còn lại ít hơn thời gian đã bị tạm giam, thì được bồi thường thiệt hại do tổn thất về tinh thần và thu nhập thực tế bị mất, tương ứng với thời gian đã bị tạm giam vượt quá, so với mức hình phạt chung của những tội mà người đó phải chấp hành.
+1.6. Người bị xét xử bằng nhiều bản án, tòa án đã tổng hợp hình phạt của nhiều bản án đó, mà sau đó có bản án, quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự xác định người đó bị oan về một hoặc một số tội và hình phạt của những tội còn lại ít hơn thời gian đã bị tạm giam, chấp hành hình phạt tù, thì được bồi thường thiệt hại do tổn thất về tinh thần và thu nhập thực tế bị mất, tương ứng với thời gian đã bị tạm giam, chấp hành hình phạt tù vượt quá, so với mức hình phạt của những tội mà người đó phải chấp hành.
+1.7. Những người thuộc các trường hợp quy định tại khoản 1 Điều 1 của Nghị quyết số 388 nếu có tài sản bị thu giữ, tạm giữ, kê biên, tịch thu mà bị thiệt hại thì được bồi thường thiệt hại theo quy định của Nghị quyết số 388. Đối với tài sản bị tạm giữ, thu giữ, kê biên, tịch thu của những người khác không thuộc các trường hợp nêu trên, thì không giải quyết việc bồi thường thiệt hại theo Nghị quyết số 388 mà được giải quyết theo thủ tục chung.
+2. Các trường hợp không được bồi thường thiệt hại
+Các trường hợp không được bồi thường thiệt hại được quy định tại Điều 2 của Nghị quyết số 388; cần chú ý là những trường hợp cụ thể sau đây cũng thuộc trường hợp không được bồi thường thiệt hại:
+2.1. Người bị khởi tố, truy tố trong vụ án hình sự được khởi tố theo yêu cầu của người bị hại, nhưng vụ án đã được đình chỉ do người đã yêu cầu khởi tố rút yêu cầu trước ngày mở phiên tòa sơ thẩm, trừ trường hợp hành vi vi phạm pháp luật của họ chưa cấu thành tội phạm;
+2.2. Người bị khởi tố, truy tố, xét xử là đúng với các văn bản quy phạm pháp luật tại thời điểm khởi tố, truy tố, xét xử, nhưng nay theo các văn bản quy phạm pháp luật mới được ban hành và có hiệu lực sau ngày khởi tố, truy tố, xét xử đó họ không phải chịu trách nhiệm hình sự;
+2.3. Người thực hiện hành vi vi phạm pháp luật, hành vi phạm tội đã bị tạm giữ, bị khởi tố, bị tạm giam, bị truy tố, xét xử, thi hành án mà có quyết định, bản án của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự hủy bỏ quyết định, bản án đó chỉ vì lý do căn cứ vào kết luận của Hội đồng giám định pháp y là tại thời điểm thực hiện hành vi vi phạm pháp luật, hành vi phạm tội người đó không có năng lực trách nhiệm hình sự.
+2.4. Người bị khởi tố, truy tố, xét xử về nhiều tội trong cùng một vụ án, hoặc tòa án quyết định tổng hợp hình phạt của nhiều bản án, đã bị tạm giữ, bị tạm giam, đã chấp hành hình phạt tù, hoặc đã bị kết án tử hình nhưng chưa thi hành mà sau đó có bản án, quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự xác định người đó bị oan về một hoặc một số tội mà không thuộc trường hợp quy định tại tiểu mục 1.4; 1.5; 1.6 mục 1 phần này thì không được bồi thường.
+2.5. Đối với những người bị oan đã được cơ quan nhà nước có thẩm quyền áp dụng các quy định của pháp luật tại thời điểm giải quyết bồi thường để bồi thường thiệt hại từ trước ngày Nghị quyết 388 có hiệu lực, thì không áp dụng Nghị quyết này để giải quyết bồi thường thiệt hại.
+II. XÁC ĐỊNH THIỆT HẠI VÀ MỨC BỒI THƯỜNG THIỆT HẠI
+1. Thiệt hại do tổn thất về tinh thần
+1.1. Khi xác định thiệt hại do tổn thất về tinh thần đối với người bị oan bị tạm giữ, tạm giam, chấp hành hình phạt tù hoặc tại ngoại cần chú ý:
+- a) Phải tính cụ thể số ngày bị oan cho người bị oan kể từ ngày có quyết định khởi tố bị can cho đến ngày có bản án, quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự xác định người đó không thực hiện hành vi phạm tội, trong đó cần xác định số ngày bị tạm giữ, tạm giam, chấp hành hình phạt tù và số ngày tại ngoại (kể cả những ngày bị tạm giữ trước khi có quyết định khởi tố bị can). Sau khi xác định được số ngày bị tạm giữ, tạm giam, chấp hành hình phạt tù và số ngày được tại ngoại, căn cứ vào khoản 1 và khoản 3 Điều 5 của Nghị quyết số 388 để tính số ngày lương tính theo mức lương tối thiểu mà người bị oan được bồi thường.
+Ví dụ: Ngày 01/12/2003 M bị tạm giữ và bị khởi tố bị can; hết thời hạn tạm giữ 3 ngày tiếp tục bị tạm giam. Ngày 01/3/2004 M được tại ngoại. Ngày 20/3/2004 Cơ quan điều tra ra quyết định đình chỉ điều tra đối với M với lý do M không thực hiện hành vi phạm tội. Trong trường hợp này xác định số ngày mà M được bồi thường do bị oan như sau:
+- Số ngày bị tạm giữ, tạm giam là: 31 ngày của tháng 12/2003 + 31 ngày của tháng 01/2004 + 29 ngày của tháng 02/2004 = 91 ngày.
+- Số ngày không bị tạm giữ, tạm giam (tại ngoại) là: 20 ngày (từ ngày 01 đến ngày 20 tháng 3 năm 2004).
+- Số ngày lương tính theo mức lương tối thiểu được bồi thường là:
+(91 ngày x 3) + 20 ngày = 293 ngày.
+- b) Một ngày lương tối thiểu tính theo mức lương tối thiểu chung do Nhà nước quy định tại thời điểm giải quyết bồi thường được xác định bằng việc lấy mức lương tối thiểu do Nhà nước quy định tại thời điểm giải quyết bồi thường chia cho 22 là số ngày làm việc bình quân của mỗi tháng.
+Ví dụ: Tại thời điểm ban hành Thông tư liên tịch này thì mức lương tối thiểu chung do Nhà nước quy định là 450.000 đồng, do đó một ngày lương tối thiểu sẽ là: 450.000 đồng : 22 = 20.454 đồng.
+1.2. Khi giải quyết việc bồi thường chung một khoản tiền bù đắp về tinh thần trong trường hợp người bị oan chết cần chú ý:
+- a) Chỉ giải quyết việc bồi thường chung một khoản tiền bù đắp về tinh thần nếu người bị oan chết trong thời gian bị tạm giữ, tạm giam, chấp hành hình phạt tù mà không phải do lỗi của chính họ hoặc không do sự kiện bất khả kháng.
+- b) Khoản tiền bù đắp về tinh thần ba trăm sáu mươi tháng lương tính theo mức lương tối thiểu chung do Nhà nước quy định tại thời điểm giải quyết bồi thường là khoản bồi thường chung cho những người có quan hệ thân thích gần gũi với người bị oan chết gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi, người trực tiếp nuôi dưỡng người bị oan, không phụ thuộc vào số người được bù đắp về tinh thần nhiều hay ít và thời gian bị tạm giữ, tạm giam, chấp hành hình phạt tù là bao nhiêu. Trong trường hợp này không được tính bồi thường thiệt hại do tổn thất về tinh thần theo quy định tại khoản 1 và khoản 3 Điều 5 của Nghị quyết số 388 và theo hướng dẫn tại tiểu mục 1.1 mục 1 này.
+- c) Trường hợp người bị oan chết trong thời gian bị tạm giữ, tạm giam, chấp hành hình phạt tù mà do lỗi của chính họ hoặc do sự kiện bất khả kháng thì những người có quan hệ thân thích, gần gũi với người bị oan bao gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi, người trực tiếp nuôi dưỡng người bị oan không được bồi thường chung một khoản tiền bù đắp về tinh thần là ba trăm sáu mươi tháng lương tính theo mức lương tối thiểu chung do Nhà nước quy định tại thời điểm giải quyết bồi thường. Trong trường hợp này người bị oan được bồi thường thiệt hại do tổn thất về tinh thần theo quy định tại khoản 1 và khoản 3 Điều 5 của Nghị quyết số 388 và theo hướng dẫn tại tiểu mục 1.1 mục 1 này.
+1.3. Thiệt hại do tổn thất về tinh thần được bồi thường là thiệt hại độc lập với các thiệt hại quy định tại các Điều 6, 7, 8 và 9 của Nghị quyết số 388.
+2. Thiệt hại về vật chất
+2.1. Chi phí hợp lý quy định tại các khoản 1, 2 Điều 6 và các khoản 1, 2 Điều 7 của Nghị quyết số 388 là chi phí thực tế cần thiết, phù hợp với tính chất, mức độ của thiệt hại, phù hợp với giá trung bình ở từng địa phương tại thời điểm chi, cụ thể như sau:
+- a) Chi phí hợp lý cho việc cứu chữa, bồi dưỡng, chăm sóc người bị oan trước khi chết quy định tại khoản 1 Điều 6 của Nghị quyết số 388 bao gồm: tiền thuê phương tiện đưa người bị oan đi cấp cứu tại cơ sở y tế; tiền thuốc và tiền mua các thiết bị y tế; chi phí chiếu, chụp X quang, chụp cắt lớp, siêu âm, xét nghiệm, mổ, truyền máu theo chỉ định của bác sỹ; tiền viện phí; tiền mua thuốc bổ, tiếp đạm, tiền bồi dưỡng phục hồi sức khỏe cho người bị oan theo chỉ định của bác sỹ; các chi phí thực tế, cần thiết khác trước khi người bị oan chết (nếu có).
+- b) Chi phí hợp lý cho việc mai táng người bị oan chết, quy định tại khoản 2 Điều 6 của Nghị quyết số 388 bao gồm: chi phí mua quan tài, hương, hoa, nến, vải liệm, thuê xe tang và các khoản chi phí khác phục vụ cho việc chôn cất hoặc hỏa táng người bị oan chết theo thông lệ chung. Không chấp nhận yêu cầu bồi thường chi phí cúng tế, lễ bái, ăn uống linh đình, xây mộ, bốc mộ…
+- c) Chi phí hợp lý cho việc cứu chữa, bồi dưỡng, phục hồi sức khỏe và chức năng bị mất, bị giảm sút của người bị oan theo quy định tại khoản 1 Điều 7 của Nghị quyết số 388 bao gồm: các chi phí được hướng dẫn tại điểm a tiểu mục 2.1 này và các chi phí cho việc lắp chân giả, tay giả, mắt giả, mua xe lăn, xe đẩy, nạng chống và khắc phục thẩm mỹ… để hỗ trợ hoặc thay thế một phần chức năng của cơ thể bị mất hoặc bị giảm sút của người bị oan (nếu có).
+2.2. Người bị oan hoặc người thân thích của họ được bồi thường thiệt hại về vật chất được hướng dẫn tại tiểu mục 2.1 mục 2 này nếu họ là người đã thanh toán các chi phí hợp lý đo. Trong trường hợp các cơ quan nhà nước đã chi trả một phần hoặc toàn bộ các chi phí này, thì họ không được bồi thường các chi phí mà cơ quan nhà nước đã chi trả.
+2.3. Chi phí hợp lý và thu nhập thực tế bị mất của người chăm sóc người bị oan trong thời gian điều trị quy định tại khoản 2 Điều 7 của Nghị quyết số 388 được xác định như sau:
+- a) Chi phí hợp lý cho người chăm sóc người bị oan trong thời gian điều trị bao gồm tiền tàu, xe, tiền thuê nhà trọ theo giá trung bình ở địa phương (nếu có) của một trong những người thân thích của người bị oan do cần thiết hoặc do cơ sở y tế yêu cầu phải có người chăm sóc người bị oan trong thời gian điều trị.
+- b) Thu nhập thực tế bị mất của người chăm sóc người bị oan trong thời gian điều trị được xác định như sau:
+b.1. Nếu người chăm sóc người bị oan có thu nhập ổn định từ tiền lương trong biên chế, tiền công từ hợp đồng lao động thì căn cứ vào mức lương, tiền công của tháng liền kề trước khi người đó phải đi chăm sóc người bị oan để xác định khoản thu nhập thực tế bị mất.
+b.2. Nếu người chăm sóc người bị oan có làm việc và hàng tháng có thu nhập ổn định, nhưng có mức thu nhập khác nhau thì lấy mức thu nhập trung bình của 6 tháng liền kề trước khi người đó phải đi chăm sóc người bị oan làm căn cứ để xác định khoản thu nhập thực tế bị mất.
+b.3. Nếu người chăm sóc người bị oan chưa có việc làm, hoặc có tháng có làm việc, có tháng không, do đó hàng tháng không có thu nhập ổn định thì được hưởng tiền công chăm sóc bằng mức lương tối thiểu chung do Nhà nước quy định tại thời điểm người đó chăm sóc người bị oan.
+b.4. Trong thời gian chăm sóc người bị oan, nếu người chăm sóc vẫn được cơ quan, người sử dụng lao động trả lương, trả tiền công lao động theo quy định của pháp luật lao động, bảo hiểm xã hội thì họ không được nhận khoản tiền bồi thường tương ứng.
+2.4. Người bị oan mất khả năng lao động và cần có người thường xuyên chăm sóc là người không còn khả năng thực hiện hoạt động sản xuất vật chất do bị liệt cột sống, mù hai mắt, liệt hai chi, bị tâm thần nặng và các trường hợp khác do cơ quan nhà nước có thẩm quyền quy định. Chi phí hợp lý cho người thường xuyên chăm sóc người bị oan mất khả năng lao động quy định tại khoản 3 Điều 7 của Nghị quyết số 388 được tính bằng mức tiền công trung bình trả cho người chăm sóc người bị tàn tật ở địa phương nơi người bị oan cư trú.
+2.5. Khi giải quyết việc bồi thường thiệt hại do thu nhập thực tế bị mất của người bị oan quy định tại Điều 9 của Nghị quyết số 388 cần chú ý:
+- a) Người bị oan (kể cả trường hợp đã chết) chỉ được bồi thường khoản thu nhập thực tế bị mất trong thời gian họ bị tạm giữ, tạm giam, chấp hành hình phạt tù.
+- b) Thu nhập ổn định thực tế bị mất của người bị oan được xác định như sau:
+b.1. Trường hợp trước khi bị tạm giữ, tạm giam, chấp hành hình phạt tù mà người bị oan có thu nhập ổn định từ tiền lương trong biên chế, tiền công từ hợp đồng lao động, thì căn cứ vào mức lương, tiền công của tháng liền kề trước khi người đó bị tạm giữ, tạm giam, chấp hành hình phạt tù để xác định khoản thu nhập thực tế bị mất;
+b.2. Trường hợp trước khi tạm giữ, tạm giam, chấp hành hình phạt tù mà người bị oan có làm việc và hàng tháng có thu nhập ổn định nhưng có mức thu nhập khác nhau, thì lấy mức thu nhập trung bình của 6 tháng liền kề trước khi bị tạm giữ, tạm giam, chấp hành hình phạt tù làm căn cứ để xác định khoản thu nhập thực tế bị mất.
+b.3. Trường hợp trước khi bị tạm giữ, tạm giam, chấp hành hình phạt tù mà người bị oan là nông dân, ngư dân, người làm muối, người trồng rừng, người làm thuê, người buôn bán nhỏ, thợ thủ công, lao động khác thực tế có thu nhập nhưng theo mùa vụ hoặc không liên tục thì lấy mức bình quân thu nhập thực tế chứng minh được của 6 tháng liền kề trước khi bị tạm giữ, tạm giam, chấp hành hình phạt tù; nếu không xác định được mức bình quân thu nhập thực tế đó thì lấy mức lương tối thiểu do Nhà nước quy định tại thời điểm giải quyết bồi thường làm căn cứ để xác định khoản thu nhập thực tế bị mất.
+- c) Trong thời gian bị tạm giữ, tạm giam, nếu người bị oan vẫn được cơ quan, người sử dụng lao động trả lương, trả tiền công lao động theo quy định của pháp luật lao động, bảo hiểm xã hội, thì họ không được nhận khoản tiền bồi thường tương ứng.
+2.6. Chỉ phải bồi thường khoản tiền cấp dưỡng cho những người mà người bị oan đang thực hiện nghĩa vụ cấp dưỡng quy định tại khoản 3 Điều 6 và khoản 3 Điều 7 của Nghị quyết số 388 nếu trước khi bị tạm giữ, tạm giam, chấp hành hình phạt tù mà người bị oan thực tế đang có thực hiện nghĩa vụ cấp dưỡng, nhưng trong thời gian bị tạm giữ, tạm giam, chấp hành hình phạt tù bị chết, bị tổn hai về sức khỏe dẫn đến mất khả năng lao động. Những người đang được người bị oan cấp dưỡng được bồi thường khoản tiền cấp dưỡng tương ứng đó. Mức cấp dưỡng, phương thức, thời gian cấp dưỡng căn cứ vào các quy định của pháp luật về hôn nhân và gia đình.
+III. VỀ TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI CHO NGƯỜI BỊ OAN
+1. Việc bồi thường thiệt hại cần được giải quyết kịp thời, công khai và đúng pháp luật. Các thiệt hại mà người bị oan hoặc thân nhân của họ được bồi thường theo quy định của Nghị quyết số 388 phải được bồi thường một lần, trừ trường hợp pháp luật có quy định khác hoặc các bên có thỏa thuận khác. Đối với khoản cấp dưỡng cho những người mà người bị oan đang thực hiện nghĩa vụ cấp dưỡng quy định tại khoản 3 Điều 6 và khoản 3 Điều 7 của nghị quyết số 388 nếu người được cấp dưỡng đồng ý nhận một lần thì bồi thường một lần cho họ; nếu họ không đồng ý nhận một lần thì cấp dưỡng hàng tháng trong thời gian họ được cấp dưỡng.
+2. Việc xác định cơ quan có trách nhiệm bồi thường thiệt hại phải căn cứ vào Điều 10 của Nghị quyết số 388. Việc xác định cơ quan có trách nhiệm bồi thường thiệt hại trong một số trường hợp cụ thể như sau:
+2.1. Cơ quan đã ra lệnh tạm giữ, tạm giam có phê chuẩn của Viện Kiểm sát, nhưng hết thời hạn tạm giữ, tạm giam có phê chuẩn của Viện Kiểm sát mà vẫn tiếp tục tạm giữ, tạm giam không có lệnh tạm giữ, tạm giam hoặc tuy có lệnh tạm giữ, tạm giam song không được Viện Kiểm sát phê chuẩn có trách nhiệm bồi thường toàn bộ thiệt hại, trong trường hợp việc tạm giữ bị hủy bỏ vì người bị tạm giữ không có hành vi vi phạm pháp luật hoặc việc tạm giam bị hủy bỏ vì người bị tạm giam không thực hiện hành vi phạm tội, trừ thiệt hại do tài sản bị xâm phạm.
+2.2. Khi xác định được một người bị oan thì cơ quan có trách nhiệm bồi thường thiệt hại là cơ quan đã gây ra oan sau cùng, không phụ thuộc có cơ quan tiến hành tố tụng trước đó có xử lý oan một phần.
+Ví dụ 1: Cơ quan Điều tra có kết luận điều tra đề nghị Viện Kiểm sát truy tố về nhiều tội, nhưng Viện Kiểm sát chỉ truy tố về một tội, song khi xét xử Tòa án cấp sơ thẩm tuyên bố bị cáo không có tội vì không thực hiện hành vi phạm tội thì Viện Kiểm sát có trách nhiệm bồi thường toàn bộ thiệt hại, trừ thiệt hại do tài sản bị xâm phạm.
+Ví dụ 2: Viện Kiểm sát truy tố bị can về nhiều tội, nhưng Tòa án cấp sơ thẩm chỉ xét xử và tuyên bố bị cáo phạm một tội, song khi xét xử phúc thẩm Tòa án cấp phúc thẩm tuyên bố bị cáo không phạm tội vì không thực hiện hành vi phạm tội thì Tòa án cấp sơ thẩm có trách nhiệm bồi thường toàn bộ thiệt hại, trừ thiệt hại do tài sản bị xâm phạm.
+Ví dụ 3: Tòa án cấp sơ thẩm tuyên bố bị cáo có tội, Tòa án cấp phúc thẩm hoặc cấp giám đốc thẩm, tái thẩm quyết định hủy bản án sơ thẩm để điều tra lại; sau khi điều tra lại mà dẫn đến việc Cơ quan điều tra đình chỉ điều tra bị can hoặc Viện Kiểm sát đình chỉ vụ án đối với bị can vì người đó không thực hiện hành vi phạm tội thì Tòa án cấp sơ thẩm có trách nhiệm bồi thường toàn bộ thiệt hại, trừ thiệt hại do tài sản bị xâm phạm, mà không phụ thuộc vào việc Cơ quan điều tra đã có kết luận điều tra hoặc Viện Kiểm sát đã có Cáo trạng truy tố.
+2.3. Nếu sau khi thụ lý vụ án mà Tòa án cấp sơ thẩm ra quyết định tạm giam bị can (hoặc bị cáo) để hoàn thành việc xét xử sơ thẩm, nhưng khi xét xử Tòa án cấp sơ thẩm tuyên bố bị cáo không phạm tội và đình chỉ vụ án vì người đó không thực hiện hành vi phạm tội, bản án đã có hiệu lực pháp luật thì Viện Kiểm sát ra quyết định truy tố có trách nhiệm bồi thường toàn thiệt hại, trừ thiệt hại do tài sản bị xâm phạm.
+2.4. Nếu sau khi thụ lý vụ án mà Tòa án cấp phúc thẩm ra quyết định tạm giam bị cáo để hoàn thành việc xét xử phúc thẩm, nhưng khi xét xử Tòa án cấp phúc thẩm hủy bản án sơ thẩm, tuyên bố bị cáo không phạm tội và đình chỉ vụ án vì người đó không thực hiện hành vi phạm tội thì Tòa án cấp sơ thẩm có trách nhiệm bồi thường toàn bộ thiệt hại, trừ thiệt hại do tài sản bị xâm phạm.
+2.5. Đối với tài sản của những người thuộc các trường hợp quy định tại khoản 1 Điều 1 của Nghị quyết số 388 bị thu giữ, tạm giữ, kê biên, tịch thu mà bị thiệt hại, thì cơ quan đã ra quyết định thu giữ, tạm giữ, kê biên, tịch thu tài sản có trách nhiệm bồi thường.
+IV. VIỆC CẤP, GỬI QUYẾT ĐỊNH, BẢN ÁN
+1. Quyết định xác định người bị tạm giữ không thực hiện hành vi vi phạm pháp luật; quyết định, bản án xác định người bị khởi tố, bị tạm giam, chấp hành hình phạt tù không thực hiện hành vi phạm tội phải được cấp hoặc gửi cho những người được bồi thường, cơ quan có trách nhiệm bồi thường theo quy định của Nghị quyết số 388 và hướng dẫn trong Thông tư liên tịch này.
+2. Việc cấp, gửi quyết định xác định người bị tạm giữ không thực hiện hành vi vi phạm pháp luật; quyết định, bản án xác định người bị khởi tố, bị tạm giam, chấp hành hình phạt tù không thực hiện hành vi phạm tội phải được thực hiện trong thời hạn do Bộ luật tố tụng hình sự quy định. Đối với trường hợp pháp luật tố tụng hình sự không có quy định, thì thời hạn đó là 10 ngày, kể từ ngày ra quyết định, bản án.
+3. Trong trường hợp quyết định xác định người bị tạm giữ không thực hiện hành vi vi phạm pháp luật, quyết định, bản án xác định người bị khởi tố, bị tạm giam, chấp hành hình phạt tù không thực hiện hành vi phạm tội có khiếu nại, đề nghị, yêu cầu cơ quan có thẩm quyền xem xét lại, thì cơ quan có thẩm quyền phải khẩn trương xem xét giải quyết trong thời hạn 30 ngày, kể từ ngày nhận được khiếu nại, đề nghị, yêu cầu và thông báo kết quả giải quyết cho người có khiếu nại, đề nghị, yêu cầu biết. Nếu cơ quan có thẩm quyền xem xét giải quyết khiếu nại, đề nghị, yêu cầu vẫn giữ nguyên quyết định, bản án đó thì việc bồi thường thiệt hại phải được thực hiện ngay.
+V. VỀ THỦ TỤC KHÔI PHỤC DANH DỰ, YÊU CẦU BỒI THƯỜNG THIỆT HẠI, THẨM QUYỀN VÀ THỦ TỤC GIẢI QUYẾT BỒI THƯỜNG THIỆT HẠI TẠI TÒA ÁN
+1. Thủ tục khôi phục danh dự
+1.1. Cơ quan có trách nhiệm bồi thường thiệt hại cho người bị oan phải tiến hành việc xin lỗi, cải chính công khai trong thời hạn ba mươi ngày, kể từ ngày nhận được bản án, quyết định có hiệu lực pháp luật của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự xác định người đó bị oan.
+1.2. Người đại diện của cơ quan có trách nhiệm bồi thường thiệt hại xin lỗi người bị oan là: Thủ trưởng, Phó Thủ trưởng cơ quan điều tra; Viện trưởng, Phó Viện trưởng Viện Kiểm sát nhân dân (ở Viện Kiểm sát nhân dân tối cao là Vụ trưởng, Phó viện trưởng Viện kiểm sát Quân sự Trung ương được Viện trưởng Viện Kiểm sát nhân dân tối cao ủy quyền); Chánh án, Phó Chánh án Tòa án nhân dân (ở Tòa án nhân dân tối cao là Chánh tòa Tòa phúc thẩm hoặc Chánh tòa Tòa hình sự Tòa án nhân dân tối cao, Phó Chánh án Tòa án Quân sự Trung ương được Chánh án Tòa án nhân dân tối cao ủy quyền).
+Địa điểm tiến hành xin lỗi là nơi cư trú hoặc tại nơi làm việc của người bị oan. Cơ quan có trách nhiệm bồi thường phải thông báo thời gian, địa điểm tiến hành xin lỗi cho cơ quan nơi người bị oan làm việc, chính quyền địa phương nơi người bị oan cư trú và tổ chức chính trị - xã hội mà người bị oan là thành viên để các cơ quan, tổ chức này cử người đại diện tham dự.
+1.3. Cơ quan có trách nhiệm bồi thường thiệt hại phải trực tiếp xin lỗi người bị oan và đăng cải chính trên một tờ báo trung ương (Báo Nhân dân hoặc báo Quân đội nhân dân) và một tờ báo địa phương (Báo của cơ quan Đảng bộ tỉnh, thành phố trực thuộc Trung ương) trong ba số liên tiếp, trừ trường hợp người bị oan hoặc đại diện hợp pháp của họ có yêu cầu không đăng báo.
+2. Thủ tục yêu cầu bồi thường thiệt hại
+2.1. Người bị oan, thân nhân của người bị oan hoặc người đại diện hợp pháp của họ, quy định tại khoản 2 Điều 5 của Nghị quyết số 388 phải có đơn yêu cầu bồi thường thiệt hại. Đơn yêu cầu bồi thường thiệt hại phải ghi rõ các khoản thiệt hại có yêu cầu bồi thường, mức bồi thường để làm căn cứ cho việc thương lượng và các nội dung khác theo Mẫu đơn số 01a, 01b kèm theo Thông tư liên tịch này. Kèm theo đơn yêu cầu phải có các giấy tờ sau đây:
+- a) Quyết định, bản án đã có hiệu lực pháp luật xác định người bị oan;
+- b) Bản sao hợp lệ một trong các loại giấy tờ tùy thân của người bị oan hoặc chứng minh quan hệ của họ đối với người bị oan như hộ khẩu, giấy đăng ký kết hôn, giấy khai sinh, chứng minh thư nhân dân… hoặc xác nhận của chính quyền địa phương nơi người bị oan cư trú hoặc cơ quan, tổ chức nơi người bị oan làm việc;
+- c) Các chứng từ hợp lệ về các khoản chi phí hợp lý, về thu nhập của người bị oan trước khi bị tạm giữ, tạm giam, chấp hành hình phạt tù.
+Cơ quan có trách nhiệm bồi thường thiệt hại phải nhận đơn, các giấy tờ tài liệu kèm theo đơn và ghi vào sổ nhận đơn. Trong thời hạn 30 ngày, kể từ ngày nhận đơn, Thủ trưởng cơ quan có trách nhiệm bồi thường thiệt hại tự mình hoặc ủy quyền cho người khác tiến hành thương lượng với người bị oan hoặc thân nhân của họ về việc bồi thường thiệt hại.
+2.2. Trong trường hợp người bị oan chết mà có nhiều thân nhân thì cần yêu cầu họ cử một người đại diện để tiến hành thương lượng về việc bồi thường thiệt hại. Việc cử người đại diện phải được lập thành văn bản. Nếu các thân nhân của người bị oan chết không cử được ai làm đại diện thì phải tiến hành thương lượng trực tiếp với họ.
+2.3. Thủ trưởng cơ quan có trách nhiệm bồi thường thiệt hại hoặc người được ủy quyền hợp pháp tiến hành việc thương lượng bồi thường thiệt hại tại trụ sở cơ quan. Khi tiến hành thương lượng phải xem xét các khoản thiệt hại có yêu cầu bồi thường trong đơn yêu cầu, các giấy tờ, tài liệu kèm theo đơn. Căn cứ vào các khoản thiệt hại được bồi thường quy định tại các Điều 5, 6, 7, 8 và 9 của Nghị quyết số 388; các quy định khác về chế độ, tiêu chuẩn, định mức do Nhà nước quy định (nếu có) và hướng dẫn trong Thông tư liên tịch này để thương lượng về khoản thiệt hại nào được bồi thường, mức bồi thường.
+2.4. Khi tiến hành thương lượng phải lập biên bản ghi lại đầy đủ diễn biến quá trình thương lượng. Trong trường hợp thương lượng thành, thì chậm nhất là bảy ngày, kể từ ngày lập biên bản thương lượng thành Thủ trưởng cơ quan có trách nhiệm bồi thường thiệt hại phải ra quyết định bồi thường thiệt hại. Quyết định bồi thường thiệt hại phải ghi rõ các khoản tiền được bồi thường thiệt hại và người được bồi thường thiệt hại theo kết quả thương lượng thành được ghi trong biên bản (theo Mẫu 03a, 03b kèm theo Thông tư liên tịch này).
+3. Thẩm quyền và thủ tục giải quyết bồi thường thiệt hại tại Tòa án
+3.1. Người bị oan, thân nhân của người bị oan hoặc người đại diện hợp pháp của họ có quyền yêu cầu Tòa án có thẩm quyền giải quyết bồi thường thiệt hại trong thời hạn 30 ngày, kể từ ngày cơ quan có trách nhiệm bồi thường thiệt hại lập biên bản về việc thương lượng bồi thường thiệt hại không thành.
+Trường hợp thương lượng không thành là trường hợp sau khi cơ quan có trách nhiệm bồi thường tiếp nhận đơn yêu cầu bồi thường của người bị oan, hoặc thân nhân của người bị oan và đã tiến hành thương lượng bồi thường thiệt hại theo quy định tại các Điều 5, 6, 7, 8 và 9 của Nghị quyết số 388, nhưng không có kết quả và không lập được biên bản thương lượng thành.
+Trong trường hợp có sự kiện bất khả kháng làm cho người có quyền yêu cầu bồi thường không thể thực hiện việc yêu cầu trong thời hạn 30 ngày, thì thời gian có sự kiện bất khả kháng không tính vào thời hạn yêu cầu Tòa án có thẩm quyền giải quyết.
+3.2. Tòa án có thẩm quyền thụ lý giải quyết yêu cầu bồi thường thiệt hại là Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh hoặc tương đương nơi người bị oan cư trứ hoặc làm việc. Trong trường hợp Tòa án có thẩm quyền giải quyết bồi thường thiệt hại, đồng thời là cơ quan chịu trách nhiệm bồi thường thiệt hại, thì cần phân công thành phần Hội đồng xét xử là những người không có liên quan đến việc làm oan. Thủ tục giải quyết bồi thường thiệt hại tại Tòa án được thực hiện theo quy định của pháp luật tố tụng dân sự.
+VI. VỀ KINH PHÍ VÀ CHI TRẢ BỒI THƯỜNG THIỆT HẠI
+1. Dự toán kinh phí bồi thường thiệt hại
+Hàng năm, căn cứ thực tế bồi thường thiệt hại cho người bị oan do người có thẩm quyền trong hoạt động tố tụng hình sự gây ra trong năm trước, cơ quan có thẩm quyền trong hoạt động tố tụng hình sự ở Trung ương (Bộ Công an, Viện Kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao, Bộ Quốc phòng bao gồm cả Bộ đội biên phòng, lực lượng Cảnh sát biển, Bộ Tư pháp và các cơ quan được giao quyền hạn điều tra như: Hải quan, Kiểm lâm…) phối hợp với Bộ Tài chính lập dự toán kinh phí bồi thường cho người bị oan để tổng hợp vào dự toán ngân sách Nhà nước trình Quốc hội.
+2. Thủ tục chi trả tiền bồi thường thiệt hại
+2.1. Trong thời hạn 2 ngày kể từ khi có quyết định bồi thường thiệt hại trong trường hợp thương lượng thành hoặc có bản án, quyết định của Tòa án về việc bồi thường thiệt hại có hiệu lực pháp luật, cơ quan có trách nhiệm bồi thường thiệt hại phải chuyển ngay hồ sơ đề nghị bồi thường về cơ quan chủ quản ở Trung ương bằng mọi hình thức; có thể bằng hình thức phát chuyển nhanh để đề nghị Bộ Tài chính cấp kinh phí bồi thường thiệt hại.
+Hồ sơ đề nghị bồi thường thiệt hại gồm:
+- a) Văn bản đề nghị bồi thường có ghi đầy đủ cụ thể người được bồi thường thiệt hại, các khoản tiền bồi thường đối với các khoản thiệt hại cụ thể và tổng số tiền đề nghị Bộ Tài chính cấp để thực hiện việc bồi thường thiệt hại.
+- b) Bản án, quyết định của cơ quan có thẩm quyền trong hoạt động tố tụng hình sự xác định người được bồi thường bị oan.
+- c) Quyết định của cơ quan có trách nhiệm bồi thường thiệt hại trong trường hợp thương lượng thành hoặc bản án, quyết định của tòa án về việc bồi thường thiệt hại đã có hiệu lực pháp luật.
+2.2. Trong thời hạn 2 ngày kể từ ngày nhận được hồ sơ đề nghị bồi thường, cơ quan chủ quản ở Trung ương phải có văn bản đề nghị Bộ Tài chính cấp kinh phí bồi thường.
+2.3. Trong thời hạn 5 ngày, kể từ ngày nhận được đề nghị cấp kinh phí bồi thường thiệt hại, Bộ Tài chính cấp kinh phí cho cơ quan có trách nhiệm bồi thường thiệt hại để chi trả cho người bị oan.
+2.4. Sau khi nhận được kinh phí do Bộ Tài chính cấp, cơ quan có trách nhiệm bồi thường thiệt hại phải thực hiện ngay việc chi trả bồi thường cho người bị oan hoặc thân nhân của người bị oan theo quy định của pháp luật về ngân sách nhà nước.
+2.5. Trường hợp cơ quan chủ quản ở Trung ương hoặc Bộ Tài chính từ chối đề nghị cấp kinh phí bồi thường thì phải có thông báo đến cơ quan đã đề nghị, người bị oan và nêu rõ lý do của việc từ chối.
+3. Quyết toán kinh phí bồi thường thiệt hại
+Kết thúc năm tài chính, các cơ quan có trách nhiệm bồi thường thiệt hại cho người bị oan lập quyết toán kinh phí đã chi trả bồi thường thiệt hại báo cáo với cơ quan chủ quản ở Trung ương.
+Cơ quan chủ quản ở Trung ương tổng hợp quyết toán kinh phí chi trả bồi thường thiệt hại trong toàn ngành để quyết toán với Bộ Tài chính theo quy định của pháp luật về ngân sách nhà nước.
+Bộ Tài chính tổng hợp quyết toán kinh phí bồi thường thiệt hại cho người bị oan do người có thẩm quyền trong hoạt động tố tụng hình sự gây ra vào tổng quyết toán ngân sách nhà nước trình Quốc hội theo quy định của pháp luật về ngân sách nhà nước.
+VII. GIẢI QUYẾT TRANH CHẤP VỀ TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI GIỮA CÁC CƠ QUAN CÓ THẨM QUYỀN TRONG HOẠT ĐỘNG TỐ TỤNG HÌNH SỰ
+Trong quá trình thực hiện giải quyết bồi thường thiệt hại cho người bị oan do người có thẩm quyền trong hoạt động tố tụng hình sự gây ra, nếu có tranh chấp trong nội bộ ngành, thì Thủ trưởng cấp trên trực tiếp của ngành xem xét giải quyết; nếu có tranh chấp giữa các ngành thì Thủ trưởng của các ngành liên quan phối hợp với nhau để xem xét giải quyết.
+VIII. VỀ HIỆU LỰC CỦA THÔNG TƯ
+Thông tư liên tịch này có hiệu lực sau 15 ngày, kể từ ngày đăng Công báo.
+Thông tư liên tịch này thay thế Thông tư liên tịch số 01/2004/TTLT-VKSNDTC-BCA-TANDTC-BTP-BQP-BTC ngày 25/3/2004.
+Trong quá trình thực hiện, nếu có vướng mắc hoặc chưa được hướng dẫn cần phải giải thích, hướng dẫn bổ sung, thì phản ánh cho Viện Kiểm sát nhân dân tối cao, Bộ Công an, Tòa án nhân dân tối cao, Bộ Tư pháp, Bộ Quốc phòng và Bộ Tài chính để có sự giải thích hoặc hướng dẫn bổ sung kịp thời./.

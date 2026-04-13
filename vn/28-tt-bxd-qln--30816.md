@@ -1,0 +1,91 @@
+---
+id: "30816"
+identifier: "vbpl-30816"
+title: "Thông tư số 28/TT-BXD-QLN Hướng dẫn quản lý hoạt động của doanh nghiệp dịch vụ cho người nước ngoài thuê nhà"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "28/TT-BXD-QLN"
+doc_type: "Thông tư"
+rank: "thong-tu"
+issue_date: "1995-11-16"
+effective_date: "1995-11-17"
+expiry_date: null
+public_date: null
+updated_date: "2026-04-02"
+status: "Publish"
+effective_status: "Chưa xác định"
+agency_name: "Bộ Xây dựng"
+organization_name: "Bộ Xây dựng"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "48"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 3
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/30816"
+signers:
+  - "Nguyễn Mạnh Kiểm"
+job_titles:
+  - "Đang cập nhật"
+---
+
+# Thông tư số 28/TT-BXD-QLN Hướng dẫn quản lý hoạt động của doanh nghiệp dịch vụ cho người nước ngoài thuê nhà
+
+THÔNG TƯ
+Hướng dẫn quản lý hoạt động của doanh nghiệp dịch vụ cho người nước ngoài thuê nhà
+________________________
+Căn cứ Quy chế cho người nước ngoài, người Việt Nam định cư ở nước ngoài thuê nhà tại Việt Nam ban hành theo Nghị định số 56/CP ngày 18-9-1995 của Chính phủ: Bộ Xây dựng hướng dẫn quản lý hoạt động của doanh nghiệp dịch vụ cho người nước ngoài thuê nhà như sau:
+I. QUY ĐỊNH CHUNG
+1. Doanh nghiệp dịch vụ cho người nước ngoài thuê nhà (sau đây gọi tắt là Doanh nghiệp dịch vụ) là tổ chức kinh tế Nhà nước do uỷ ban Nhân dân Tỉnh, Thành phố trực thuộc Trung ương (sau đây gọi tắt là Uỷ ban Nhân dân Tỉnh) thành lập nhằm thực hiện các hoạt động dịch vụ cho người nước ngoài thuê nhà tại địa phương.
+Doanh nghiệp dịch vụ là đơn vị có tư cách pháp nhân; có tổ chức phù hợp với chức năng môi giới, dịch vụ cho thuê nhà; có các quyền và nghĩa vụ trong hoạt động kinh doanh theo quy định của pháp luật.
+Doanh nghiệp dịch vụ phải được thành lập và đăng ký kinh doanh theo đúng quy định của pháp luật.
+2. Doanh nghiệp dịch vụ cần phải đáp ứng các yêu cầu cơ bản sau đây:
+a. Có cơ cấu tổ chức và biên chế theo quy định của Uỷ ban Nhân dân Tỉnh;
+b. Có đội ngũ cán bộ và nhân viên nắm vững các nguyên tắc hoạt động kinh tế, am hiểu pháp luật và các chế độ, chính sách về quản lý sử dụng nhà đất và lĩnh vực xây dựng; thông thạo nghiệp vụ về môi giới cho thuê nhà và thuê nhà;
+c. Lực lượng cán bộ, nhân viên trực tiếp làm nhiệm vụ giao dịch phải thông thạo ngoại ngữ, hiểu biết về nguyên tắc giao tiếp cũng như phong tục tập quán và thị hiếu của người nước ngoài.
+d. Có đủ phương tiện làm việc cần thiết theo yêu cầu chuyên môn.
+3. Hoạt động dịch vụ cho người nước ngoài thuê nhà bao gồm toàn bộ các nội dung liên quan tới việc môi giới, dịch vụ, thông tin, tư vấn, nhằm đáp ứng yêu cầu của cả bên cho thuê và bên thuê nhà và các hoạt động nghiệp vụ về tiếp thị, quảng cáo, tìm hiểu nhu cầu, thị hiếu của khách hàng cũng như các hoạt động cần thiết khác phù hợp theo quy định của pháp luật.
+II. QUY ĐỊNH CỤ THỂ
+1. Thủ tục xin thành lập doanh nghiệp dịch vụ được thực hiện theo quy định tại chương III của Luật doanh nghiệp Nhà nước, cụ thể như sau:
+a. Thủ trưởng cơ quan sáng lập doanh nghiệp dịch vụ là người đề nghị thành lập và tổ chức thực hiện các thủ tục đề nghị thành lập doanh nghiệp dịch vụ.
+b. Người đề nghị thành lập doanh nghiệp dịch vụ phải lập và gửi hồ sơ đề nghị thành lập doanh nghiệp dịch vụ đến Uỷ ban Nhân dân Tỉnh. Hồ sơ gồm có:
+- Tờ trình đề nghị thành lập doanh nghiệp dịch vụ;
+- Đề án thành lập doanh nghiệp;
+- Dự kiến mức vốn điều lệ;
+- Dự thảo điều lệ của doanh nghiệp.
+c. Cơ quan sáng lập doanh nghiệp dịch vụ nêu tại Tiết a, Điểm 1, Mục II là cơ quan có chức năng quản lý nhà đất.
+2. Thủ tục đăng ký kinh doanh của doanh nghiệp dịch vụ thực hiện theo quy định tại chương III Luật doanh nghiệp Nhà nước, cụ thể như sau:
+a. Doanh nghiệp thực hiện đăng ký kinh doanh tại uỷ ban kế hoạch tỉnh, nơi doanh nghiệp đặt trụ sở chính.
+Hồ sơ đăng ký kinh doanh gồm có:
+- Quyết định thành lập doanh nghiệp;
+- Điều lệ doanh nghiệp;
+- Giấy chứng nhận trụ sở chính của doanh nghiệp;
+- Quyết định bổ nhiệm Giám đốc doanh nghiệp.
+b. Trong thời hạn không quá 60 ngày kể từ ngày có quyết định thành lập, doanh nghiệp phải đăng ký kinh doanh.
+c. Kể từ ngày được cấp giấy chứng nhận đăng ký kinh doanh, doanh nghiệp dịch vụ mới có tư cách pháp nhân và được chính thức hoạt động.
+3. Hoạt động dịch vụ cho người nước ngoài thuê nhà là việc đảm nhận thay mặt bên cho thuê nhà thực hiện toàn bộ các hoạt động về cho thuê nhà (nhận uỷ thác) hoặc thực hiện một hay một số nội dung công việc cụ thể liên quan tới hoạt động về thuê nhà hoặc cho thuê nhà sau đây:
+- Tư vấn về pháp luật theo yêu cầu của khách hàng (bên cho thuê nhà hoặc bên thuê nhà);
+- Thông tin, giới thiệu theo yêu cầu của khách hàng về nhà cần thuê hoặc cần cho thuê;
+- Thực hiện các thủ tục pháp lý theo yêu cầu của khách hàng đối với hoạt động thuê nhà hoặc cho thuê nhà, bao gồm các công việc như: làm thủ tục xin cấp giấy phép cho thuê nhà, làm thủ tục xin thuê nhà hoặc các thủ tục cần thiết khác theo quy định của pháp luật .
+4. Hoạt động dịch vụ thuê nhà và cho thuê nhà phải được thực hiện thông qua hợp đồng được ký kết giữa hai bên: doanh nghiệp dịch vụ và khách hàng.
+Hợp đồng cần phải nêu được các nội dung chủ yếu sau đây:
+a. Tên địa chỉ của hai bên;
+b. Nội dung công việc hợp đồng;
+c. Trách nhiệm, quyền lợi mỗi bên; d. Thời hạn hiệu lực của hợp đồng;
+e. Kinh phí và thể thức thanh toán giữa hai bên.
+5. Doanh nghiệp dịch vụ có nghĩa vụ thực hiện nghiêm chỉnh chế độ kế toán, thống kê theo quy định của Pháp lệnh kế toán thống kê, thực hiện kê khai, đăng ký nộp thuế với cơ quan thuế theo đúng quy định hiện hành.
+Trong quá trình hoạt động dịch vụ theo yêu cầu của khách hàng, doanh nghiệp dịch vụ có trách nhiệm thực hiện đúng nội dung đã ký với khách hàng; không được gây phiền hà đối với bên cho thuê nhà, bên thuê nhà và không được thu thêm bất kỳ khoản thu nào khác ngoài các khoản thu về lệ phí, dịch vụ phí (hoặc phí uỷ thác) theo quy định của Bộ Tài chính.
+6. Cơ quan cấp giấy phép cho thuê nhà và các cơ quan khác tại địa phương có trách nhiệm tạo điều kiện để doanh nghiệp dịch vụ thực hiện đúng chức năng hoạt động theo quy định của pháp luật; đảm bảo thời hạn cấp giấy phép cho thuê nhà theo đúng quy định (tối đa không quá 30 ngày); không được gây phiền hà đối với bên cho thuê nhà, bên thuê nhà và doanh nghiệp dịch vụ; không được thu thêm bất kỳ chi phí nào khác ngoài khoản thu hợp lệ theo quy định của Bộ Tài chính.
+7. Các vi phạm của doanh nghiệp dịch vụ trong quá trình thực hiện hoạt động cho người nước ngoài thuê nhà sẽ bị xử lý theo pháp luật hiện hành.
+III. TỔ CHỨC THỰC HIỆN
+Uỷ ban Nhân dân Tỉnh, Thành phố trực thuộc Trung ương có trách nhiệm sắp xếp lại các đơn vị dịch vụ cho người nước ngoài thuê nhà trên địa bàn lãnh thổ; đình chỉ hoạt động của các tổ chức, cơ quan địa phương trái với quy định của Quy chế ban hành kèm theo Nghị định 56/CP và nội dung hướng dẫn của Thông tư này; xem xét quyết định thành lập doanh nghiệp dịch vụ hoặc giao cho doanh nghiệp Nhà nước chuyên kinh doanh nhà đảm nhận các hoạt động dịch vụ cho người nước ngoài thuê nhà cho phù hợp với tình hình thực tế tại địa phương.
+Thông tư này thay thế những hướng dẫn trước đây về hoạt động dịch vụ cho người nước ngoài thuê nhà và có hiệu lực kể từ ngày ban hành.
+Trong quá trình thực hiện nếu gặp khó khăn, vướng mắc đề nghị các ngành và địa phương phản ánh kịp thời về Bộ Xây dựng để phối hợp nghiên cứu giải quyết.

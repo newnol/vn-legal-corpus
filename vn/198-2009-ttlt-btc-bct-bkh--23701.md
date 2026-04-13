@@ -1,0 +1,137 @@
+---
+id: "23701"
+identifier: "vbpl-23701"
+title: "Thông tư liên tịch số 198/2009/TTLT/BTC-BCT-BKH hướng dẫn việc trao đổi, cung cấp thông tin liên quan đến người nộp thuế trong lĩnh vực quản lý nhà nước về thuế, hải quan, đầu tư, thương mại và công nghiệp."
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "198/2009/TTLT/BTC-BCT-BKH"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "2009-10-09"
+effective_date: "2009-11-23"
+expiry_date: null
+public_date: null
+updated_date: "2026-03-12"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Tài chính"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "VanBanGoc_198-2009-TTLT-BTC-BCT-BKH_198-2009-TTLT-BTC-BCT-BKH.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 33
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/23701"
+signers:
+  - "Đỗ Hoàng Anh Tuấn"
+  - "Nguyễn Cẩm Tú"
+  - "Cao Viết Sinh"
+job_titles:
+  - "Thứ trưởng"
+  - "Thứ trưởng"
+  - "Thứ trưởng"
+---
+
+# Thông tư liên tịch số 198/2009/TTLT/BTC-BCT-BKH hướng dẫn việc trao đổi, cung cấp thông tin liên quan đến người nộp thuế trong lĩnh vực quản lý nhà nước về thuế, hải quan, đầu tư, thương mại và công nghiệp.
+
+THÔNG TƯ LIÊN TỊCH
+Hướng dẫn việc trao đổi, cung cấp thông tin liên quan đến người nộp thuế
+trong lĩnh vực quản lý nhà nước về thuế, hải quan, đầu tư, thương mại và công nghiệp
+____________________
+Căn cứ Luật Quản lý thuế số 78/2006/QH11 ngày 29 tháng 11 năm 2006;
+Căn cứ Luật Hải quan số 29/2001/QH10 ngày 29 tháng 6 năm 2001; Luật sửa đổi, bổ sung một số điều của Luật Hải quan ngày 14 tháng 06 năm 2005;
+Liên Bộ Tài chính, Công Thương, Kế hoạch và Đầu tư hướng dẫn việc trao đổi, cung cấp thông tin, tài liệu liên quan đến người nộp thuế (NNT) trong lĩnh vực quản lý nhà nước về thuế, hải quan, đầu tư, thương mại và công nghiệp như sau:
+I. QUY ĐỊNH CHUNG
+## Điều 1. Phạm vi điều chỉnh
+Thông tư này hướng dẫn việc trao đổi, cung cấp thông tin, tài liệu liên quan đến người nộp thuế trong lĩnh vực quản lý nhà nước về thuế, hải quan, đầu tư, thương mại và công nghiệp giữa cơ quan Thuế, cơ quan Hải quan trực thuộc Bộ Tài chính với các đơn vị thuộc, trực thuộc Bộ Công Thương, Bộ Kế hoạch và Đầu tư nhằm mục đích phục vụ công tác quản lý nhà nước (sau đây thống nhất gọi chung là các bên).
+## Điều 2. Nguyên tắc trao đổi, cung cấp và sử dụng thông tin, tài liệu
+1. Thông tin, tài liệu (sau đây gọi chung là thông tin) yêu cầu trao đổi, cung cấp phải xuất phát từ nhu cầu quản lý phù hợp với chức năng, nhiệm vụ, quyền hạn của các bên và sử dụng đúng mục đích, tuân thủ các quy định của pháp luật.
+2. Việc trao đổi, cung cấp thông tin phải đảm bảo kịp thời, chính xác theo yêu cầu của các bên.
+3. Các bên có trách nhiệm trao đổi, cung cấp, quản lý, sử dụng và phản hồi thông tin theo đúng quy định của Pháp lệnh Bảo vệ bí mật Nhà nước. Tuyệt đối không sử dụng thông tin ngoài mục đích phục vụ quản lý nhà nước.
+4. Thông tin trao đổi, cung cấp giữa các bên được trao đổi ngang cấp. Việc trao đổi, cung cấp khác cấp được thực hiện trong trường hợp bên ngang cấp không trực tiếp nắm giữ thông tin.
+5. Các bên cung cấp thông tin có quyền từ chối cung cấp thông tin ngoài phạm vi quy định tại Điều 1 Thông tư này.
+II. QUY ĐỊNH CỤ THỂ
+## Điều 3. Danh mục thông tin trao đổi, cung cấp giữa các bên
+1. Các thông tin có liên quan đến hoạt động quản lý nhà nước của cơ quan Hải quan, cơ quan Thuế trực thuộc Bộ Tài chính; Bộ Công Thương; Bộ Kế hoạch và Đầu tư được các bên trao đổi, cung cấp để phục vụ mục đích quản lý nhà nước theo Danh mục thông tin trao đổi, cung cấp giữa các bên được quy định chi tiết tại Phụ lục đính kèm Thông tư này.
+2. Căn cứ nhu cầu cụ thể, các bên thỏa thuận bằng văn bản về việc sửa đổi, bổ sung Danh mục thông tin trao đổi, cung cấp cho phù hợp và coi đó là phần không tách rời của Thông tư này.
+## Điều 4. Hình thức, thời hạn trao đổi, cung cấp thông tin
+1. Hình thức trao đổi, cung cấp thông tin
+a. Trao đổi, cung cấp trực tiếp và bằng văn bản:
+Văn bản yêu cầu cung cấp thông tin ghi rõ tên nội dung thông tin đề nghị cung cấp, thời điểm cung cấp, địa điểm cung cấp, hình thức văn bản (bản chính; bản sao; bản photocopy; bản in từ máy tính; …) và mục đích đề nghị cung cấp thông tin, tài liệu.
+Khi nhận được yêu cầu cung cấp thông tin thì cơ được yêu cầu cung cấp thông tin căn cứ vào nội dung yêu cầu, thời hạn cung cấp để tổ chức thu thập thông tin và cung cấp cho bên yêu cầu.
+Người được giao nhiệm vụ đến trao đổi, nhận thông tin phải có giấy giới thiệu do người có thẩm quyền quy định tại Điều 6 Thông tư này ký, kèm theo văn bản yêu cầu cung cấp thông tin.
+b. Trao đổi, cung cấp thông tin qua giao dịch điện tử:
+Trong trường hợp cơ sở hạ tầng cho phép, việc trao đổi, cung cấp có thể thực hiện qua đường điện tử (truyền file, email, …)
+Việc trao đổi, cung cấp dữ liệu điện tử cần tuân thủ các quy định tương tự trao đổi, cung cấp thông tin bằng văn bản nhưng bằng hình thức điện tử để đảm bảo tính pháp lý của việc cung cấp và trao đổi thông tin, tránh cung cấp thông tin không đúng quy định.
+Áp dụng việc xác thực điện tử vào nội dung này theo quy định.
+2. Thời hạn trao đổi, cung cấp thông tin
+a. Đối với thông tin cung cấp định kỳ (tháng, quý, năm).
+Thông tin, tài liệu được tổng hợp và gửi chậm nhất là ngày thứ hai mươi (20) của tháng tiếp theo đối với định kỳ tháng; chậm nhất là ngày thứ ba mươi (30) của quý tiếp theo đối với định kỳ quý và chậm nhất là ngày thứ chín mươi (90) của năm tiếp theo đối với định kỳ năm.
+Tùy theo tính chất từng loại thông tin và điều kiện cụ thể, các bên có thể thỏa thuận thay đổi thời gian cung cấp.
+b. Đối với thông tin cung cấp không định kỳ
+- Đối với yêu cầu cung cấp thông tin bằng hình thức trực tiếp thì cơ quan được yêu cầu có trách nhiệm cung cấp phải cung cấp ngay trong ngày. Trường hợp chưa thể cung cấp ngay được, thì cơ quan được yêu cầu cung cấp thông tin phải có giấy hẹn cung cấp, thời hạn cung cấp tối đa không quá 05 (năm) ngày làm việc, kể từ ngày nhận được yêu cầu.
+- Đối với yêu cầu cung cấp thông tin bằng văn bản thì cơ quan được yêu cầu có trách nhiệm cung cấp cho cơ quan yêu cầu theo đúng thời hạn ghi trong văn bản yêu cầu hoặc chậm nhất là 10 (mười) ngày làm việc, kể từ ngày nhận được yêu cầu. Trường hợp không thể đáp ứng được yêu cầu cung cấp thông tin thì cơ quan được yêu cầu phải có văn bản thông báo, nêu rõ lý do trong thời hạn 03 (ba) ngày làm việc kể từ khi nhận được yêu cầu.
+- Đối với yêu cầu cần đọc, nghiên cứu thông tin tại chỗ, thì bên được yêu cầu có trách nhiệm cung cấp ngay trong ngày sau khi có sự phê duyệt của người có thẩm quyền. Trường hợp không đáp ứng được ngay thì bên được yêu cầu phải nêu rõ lý do.
+## Điều 5. Đầu mối trao đổi, cung cấp thông tin
+Đơn vị được giao là đầu mối trao đổi, cung cấp thông tin của mỗi bên được quy định dưới đây được quyền trực tiếp yêu cầu cung cấp thông tin, tham mưu, chỉ đạo, điều phối việc cung cấp thông tin cho bên yêu cầu trong phạm vi thẩm quyền được giao và chịu trách nhiệm đảm bảo việc trao đổi, cung cấp thông tin giữa các bên được thông suốt, kịp thời.
+Các đơn vị đầu mối trao đổi, cung cấp thông tin ở 03 (ba) cấp của các bên bao gồm:
+1. Bộ Tài chính:
+a. Cấp Trung ương:
+- Cục Điều tra chống buôn lậu trực thuộc Tổng cục Hải quan.
+- Ban Kê khai và Kế toán thuế, Ban Cải cách - Hiện đại hóa trực thuộc Tổng cục Thuế.
+b. Cấp tỉnh, thành phố trực thuộc Trung ương:
+- Cục Hải quan tỉnh, thành phố (trực tiếp Phòng Tham mưu xử lý vi phạm và thu thập, xử lý thông tin nghiệp vụ hải quan hoặc Tổ Tham mưu xử lý vi phạm và thu thập, xử lý thông tin nghiệp vụ hải quan đối với nơi không có Phòng).
+- Cục Thuế các tỉnh, thành phố trực thuộc Trung ương (trực tiếp Phòng Kê khai - Kế toán thuế).
+c. Cấp quận, huyện, thị xã, thành phố trực thuộc tỉnh:
+- Chi cục Hải quan trực thuộc Cục Hải quan tỉnh, thành phố.
+- Chi cục Thuế các quận, huyện, thị xã và thành phố trực thuộc tỉnh (trực tiếp Đội Kê khai - Kế toán thuế và tin học).
+2. Bộ Kế hoạch và Đầu tư:
+a. Cấp Trung ương:
+- Ban Biên tập Cổng thông tin điện tử Bộ Kế hoạch và Đầu tư;
+- Cục Phát triển doanh nghiệp;
+- Cục Đầu tư nước ngoài.
+b. Cấp tỉnh, thành phố trực thuộc Trung ương:
+- Sở Kế hoạch và Đầu tư tỉnh, thành phố;
+- Cơ quan đăng ký kinh doanh cấp tỉnh (Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư).
+3. Bộ Công Thương:
+a. Cấp Trung ương:
+- Vụ Kế hoạch.
+b. Cấp tỉnh, thành phố trực thuộc Trung ương:
+- Sở Công Thương tỉnh, thành phố.
+## Điều 6. Người có thẩm quyền yêu cầu và cung cấp thông tin
+1. Người có thẩm quyền yêu cầu và cung cấp thông tin bao gồm:
+a. Bộ Tài chính:
+- Bộ trưởng, các Thứ trưởng;
+- Tổng cục trưởng, Phó Tổng cục trưởng Tổng cục Hải quan, Cục trưởng và Phó cục trưởng Cục Điều tra chống buôn lậu, Cục trưởng và Phó cục trưởng Cục Hải quan tỉnh, thành phố; Chi cục trưởng và Phó chi cục trưởng Chi cục Hải quan.
+- Tổng cục trưởng, Phó Tổng cục trưởng Tổng cục Thuế, Trưởng ban, Phó trưởng Ban Kê khai và Kế toán thuế, Ban Cải cách - Hiện đại hóa, Cục trưởng và Phó Cục trưởng Cục Thuế, Chi Cục trưởng và Phó Chi cục trưởng Chi cục Thuế.
+b. Bộ Kế hoạch và Đầu tư:
+- Bộ trưởng, các Thứ trưởng;
+- Chánh văn phòng, Phó chánh văn phòng Bộ;
+- Giám đốc, Phó giám đốc Sở Kế hoạch và Đầu tư tỉnh, thành phố;
+- Cục trưởng, Phó cục trưởng Cục Đầu tư nước ngoài;
+- Cục trưởng, Phó cục trưởng Cục Phát triển doanh nghiệp;
+- Trưởng phòng, Phó trưởng Phòng Đăng ký kinh doanh cấp tỉnh.
+c. Bộ Công Thương:
+- Bộ trưởng, các Thứ trưởng;
+- Cục trưởng và Phó Cục trưởng Cục Quản lý thị trường;
+- Giám đốc, Phó Giám đốc Sở Công Thương tỉnh, thành phố;
+- Chi cục trưởng và Phó Chi cục trưởng Chi cục Quản lý thị trường.
+2. Người có thẩm quyền yêu cầu cung cấp thông tin được quyền yêu cầu các đơn vị thuộc, trực thuộc các bên cung cấp thông tin theo quy định tại Thông tư này.
+3. Đối với các đơn vị khác của các bên khi có nhu cầu cung cấp thông tin thì phải báo cáo người có thẩm quyền quy định tại khoản 1 Điều này hoặc thông qua đầu mối trao đổi, cung cấp thông tin.
+## Điều 7. Trách nhiệm trao đổi, cung cấp thông tin
+Các đơn vị thuộc, trực thuộc các bên, theo phạm vi thẩm quyền được giao, có trách nhiệm cung cấp thông tin cho bên yêu cầu theo quy định tại Thông tư này.
+## Điều 8. Điều kiện bảo đảm về cơ sở vật chất kỹ thuật và kinh phí
+- Các bên được trang bị phương tiện, trang thiết bị kỹ thuật hiện đại để phục vụ việc bảo đảm thực hiện công tác trao đổi, cung cấp thông tin.
+- Kinh phí bảo đảm việc trao đổi, cung cấp thông tin theo quy định tại Thông tư này được bố trí trong dự toán kinh phí hoạt động thường xuyên hàng năm của mỗi Bộ, ngành do Nhà nước giao.
+III. TỔ CHỨC THỰC HIỆN
+1. Thông tư liên tịch này có hiệu lực thi hành sau 45 ngày kể từ ngày ký ban hành.
+2. Trong quá trình triển khai thực hiện, nếu có vấn đề phát sinh hoặc khó khăn, vướng mắc đề nghị phản ánh kịp thời về đầu mối trao đổi, cung cấp thông tin tại các Bộ được quy định tại Điều 5 Thông tư này để được hướng dẫn, giải quyết./.

@@ -1,0 +1,55 @@
+---
+id: "8657"
+identifier: "vbpl-8657"
+title: "Quyết định số 178/LĐTBXH-QĐ Về việc in, phát hành và quản lý giấy phép lao động cấp cho người nước ngoài"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "178/LĐTBXH-QĐ"
+doc_type: "Quyết định"
+rank: "quyet-dinh"
+issue_date: "1997-03-18"
+effective_date: "1997-04-02"
+expiry_date: null
+public_date: null
+updated_date: "2026-01-09"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Lao động - Thương binh và Xã hội"
+organization_name: "Bộ Nội vụ"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "42"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 15
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/8657"
+signers:
+  - "Trần Đình Hoan"
+job_titles:
+  - "Bộ trưởng"
+---
+
+# Quyết định số 178/LĐTBXH-QĐ Về việc in, phát hành và quản lý giấy phép lao động cấp cho người nước ngoài
+
+QUYẾT ĐỊNH CỦA BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+Về việc in, phát hành và quản lý giấy phép lao động cấp cho người nước ngoài
+BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+Căn cứ Nghị định số 15/CP ngày 2/3/1993 của Chính phủ về nhiệm vụ, quyền hạn và trách nhiệm quản lý Nhà nước của Bộ, cơ quan ngang Bộ;
+Căn cứ Nghị định số 96/CP ngày 7/12/1993 của Chính phủ về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Lao động - Thương binh và Xã hội;
+Căn cứ Nghị định số 58/CP ngày 3/10/1996 của Chính phủ về cấp giấy phép lao động cho người nước ngoài làm việc tại doanh nghiệp, tổ chức ở Việt Nam;
+Xét đề nghị của ông Vụ trưởng Vụ Tổng hợp và Pháp chế,
+QUYẾT ĐỊNH:
+## Điều 1. Nay ban hành kèm theo Quyết định này mẫu giấy phép lao động để cấp cho người nước ngoài làm việc tại Việt Nam.
+## Điều 2. Giấy phép lao động có kích thước 11x15cm gồm 4 trang; trang 1 và trang 4 có màu xanh hoà bình, tráng nhựa. Nội dung của trang 1 từ trên xuống như sau: ở trên là quốc hiệu; dưới là hình quốc huy; tiếp theo là dòng chữ: giấy phép lao động bằng tiếng Việt (ở trên) và tiếng Anh (ở dưới); ở dưới cùng là dòng chữ: Bộ Lao động - Thương binh và Xã hội bằng tiếng Việt (ở trên), tiếng Anh (ở dưới). Trang 2 và trang 3 có nền màu trắng, hoa văn màu xanh nhạt, ở giữa có hình ngôi sao. Trang trí và nội dung cụ thể của giấy phép lao động theo mẫu kèm theo Quyết định này.
+## Điều 3. Giao cho Vụ Tổng hợp và Pháp chế in ấn giấy phép lao động theo mẫu ban hành kèm theo Quyết định này, mẫu hồ sơ xin cấp giấy phép lao động, thống nhất quản lý giấy phép lao động và cấp phát cho các Sở Lao động - Thương binh và Xã hội.
+Việc cấp phát mẫu giấy phép lao động, mẫu hồ sơ được thu phí, bao gồm: giá thành in giấy phép và vận chuyển.
+## Điều 4. Quyết định này có hiệu lực từ ngày 2 tháng 04 năm 1997.
+Bãi bỏ các mẫu thẻ nhân viên, thẻ lao động do Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương hoặc do Sở Lao động - Thương binh và Xã hội ban hành trước ngày Thông tư này có hiệu lực./.

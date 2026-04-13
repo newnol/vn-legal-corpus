@@ -1,0 +1,146 @@
+---
+id: "78642"
+identifier: "vbpl-78642"
+title: "Thông tư liên tịch số 66/2003/TTLT-BTC-BNNPTNT Hướng dẫn quản lý, cấp phát và quyết toán  kinh phí chương trình mục tiêu quốc gia nước sạch và vệ sinh môi trường nông thôn"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "66/2003/TTLT-BTC-BNNPTNT"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "2003-07-03"
+effective_date: "2003-08-04"
+expiry_date: "2007-08-12"
+public_date: null
+updated_date: "2026-03-29"
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Bộ Tài chính"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 13
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/78642"
+signers:
+  - "Lê Huy Ngọ"
+  - "Nguyễn Sinh Hùng"
+job_titles:
+  - "Đang cập nhật"
+  - "Đang cập nhật"
+---
+
+# Thông tư liên tịch số 66/2003/TTLT-BTC-BNNPTNT Hướng dẫn quản lý, cấp phát và quyết toán  kinh phí chương trình mục tiêu quốc gia nước sạch và vệ sinh môi trường nông thôn
+
+Bộ Nông nghiệp và Phát triển nông thôn - Bộ Tài chính
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+Số: 66/2003/TTLT-BTC-BNNPTNT
+Hà Nội, ngày 03 tháng 7 năm 2003
+THÔNG TƯ LIÊN TỊCH
+Hướng dẫn quản lý, cấp phát và quyết toán kinh phí chương trình
+mục tiêu quốc gia nước sạch và vệ sinh môi trường nông thôn
+______________________________
+Thực hiện Quyết định số 237/198/QĐ-TTg ngày 03/12/1998 của Thủ tướng Chính phủ về phê duyệt Chương trình mục tiêu Quốc gia nước sạch và vệ sinh môi trường nông thôn.
+Căn cứ Quyết định số 71/2000/QĐ-TTg ngày 04/5/2001 của Thủ tướng Chính phủ về các Chương trình mục tiêu quốc gia giai đoạn 2001 - 2005.
+Căn cứ Quyết định số 104/2000/QĐ-TTg ngày 25/8/2000 của Thủ tướng Chính phủ về việc phê duyệt Chiến lược quốc gia về cấp nước sạch và vệ sinh môi trường nông thôn đến năm 2010.
+Căn cứ Quyết định số 42/2002/QĐ-TTg ngày 19/3/2002 của Thủ tướng Chính phủ về việc quản lý và điều hành các chương trình mục tiêu quốc gia.
+Căn cứ Luật ngân sách nhà nước và các văn bản hướng dẫn hiện hành.
+I. NHỮNG QUY ĐỊNH CHUNG:
+1. Nguồn vốn cho Chương trình bao gồm:
+- Vốn ngân sách Nhà nước (bao gồm cả vốn vay nợ và viện trợ)
+- Các nguồn vốn khác: vốn huy động trong dân, vốn của các thành phần kinh tế khác.
+2. Nguyên tắc đầu tư:
+- Chương trình tập trung ưu tiên đầu tư cho vùng biên giới, hải đảo, dân tộc ít người và các vùng nông thôn khó khăn khác.
+- Việc bố trí kinh phí thực hiện Chương trình phải theo dự án được duyệt và theo nguyên tắc Nhà nước và nhân dân cùng làm.
+- Việc bố trí kinh phí cho Chương trình hàng năm căn cứ vào khả năng của ngân sách Nhà nước và các nguồn huy động khác.
+3. Kinh phí Chương trình quốc gia nước sạch và vệ sinh môi trường nông thôn phải được quản lý chi tiêu đúng mục đích, đúng đối tượng, đúng chế độ. Báo cáo và quyết toán theo qui định hiện hành.
+# Chương II. NHỮNG QUY ĐỊNH CỤ THỂ:
+A. NỘI DUNG CHI VÀ MỨC CHI:
+1. Chi từ nguồn kinh phí sự nghiệp:
+1. 1. Nội dung chi:
+- Chi hỗ trợ xây dựng mô hình hố xí hợp vệ sinh.
+- Chi hỗ trợ xây dựng mô hình xử lý chất thải chuồng trại chăn nuôi. - Chi truyền thông vận động xã hội, tập huấn nghiệp vụ.
+- Chi ứng dụng tiến bộ khoa học kỹ thuật vào chương trình (nếu có).
+- Chi phát sinh đột xuất theo Quyết định của cấp có thẩm quyền phê duyệt.
+Đối với khoản chi quản lý chỉ đạo của Ban chủ nhiệm chương trình thực hiện theo qui định tại Thông tư số 78/2000/TT-BTC ngày 27/7/2000 của Bộ Tài chính về hướng dẫn kinh phí hoạt động của Ban chủ nhiệm các chương trình mục tiêu quốc gia.
+1. 2. Mức chi:
+a. Dự án mô hình hố xí hợp vệ sinh:
+- Mức hỗ trợ từ ngân sách trung ương cho một xã để thực hiện mô hình điểm tối đa là 100 triệu đồng. - Nội dung chi cụ thể cho một mô hình bao gồm:
++ Chi chọn điểm xây dựng dự án, phỏng vấn, xử lý lấy số liệu;
++ Chi phí cán bộ chỉ đạo kỹ thuật mức tối đa là 200.000 đồng/tháng (26 ngày) cho những ngày chỉ đạo trực tiếp mô hình (trong trường hợp thuê người không phải là cán bộ biên chế của Nhà nước); Đối với cán bộ biên chế của Nhà nước thì được thanh toán chế độ công tác phí theo qui định tại Thông tư số 94/1998/TT-BTC ngày 30/6/1998 của Bộ Tài chính quy định chế độ công tác phí cho cán bộ, công chức nhà nước đi công tác trong nước;
++ Chi tuyên truyền vận động xã hội, hướng dẫn kỹ thuật cho dân;
++ Chi kiểm tra, nghiệm thu dự án;
++ Chi hỗ trợ một phần vật tư (xi măng, gạch, cát...) cho người dân tham gia mô hình, nội dung chi này chiếm khoảng 70% đến 80% kinh phí cho một mô hình, cụ thể: Đối với các hộ thuộc các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa và xã biên giới theo các Quyết định của
+b. Dự án xây dựng mô hình xử lý chất thải chuồng trại chăn nuôi hợp vệ sinh:
+- Mức hỗ trợ của Ngân sách Trung ương cho một xã để thực hiện mô hình điểm tối đa là 100 triệu đồng.
+- Nội dung chi cho mô hình: Giống như mô hình dự án hố xí hợp vệ sinh tại điểm a trên đây. Riêng chi phí hỗ trợ của Nhà nước cho các hộ nông dân tham gia mô hình áp dụng như sau:
++ Loại chuồng từ 10 con trở xuống: Mức hỗ trợ của ngân sách Trung ương tối đa là 200.000 đồng/hộ. + Loại chuồng trại trên 10 con: Mức hỗ trợ của ngân sách Trung ương tối đa là 300.000 đồng/hộ. Trường hợp có lắp đặt biogas thì được hỗ trợ thêm 100 000 đồng/hộ.
+Đối với các hộ thuộc các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa và xã biên giới theo các Quyết định của Thủ tướng Chính phủ thì được tính mức hỗ trợ thêm 20% so với mức hỗ trợ trên.
+Nếu một xã triển khai lồng ghép mô hình hố xí hợp vệ sinh và mô hình xử lý chất thải chuồng trại chăn nuôi hợp vệ sinh, thì mức hỗ trợ của ngân sách Trung ương cho mô hình lồng ghép tối đa là 100 triệu đồng.
+c. Chi truyền thông vận động xã hội bao gồm: Đưa tin trên các phương tiện thông tin đại chúng như: Đài phát thanh, truyền hình, báo và phương tiện thông tin khác; In ấn các tài liệu chuyên môn nghiệp vụ, tờ rơi, áp phích, phim ảnh. Mức chi cụ thể căn cứ vào các chế độ qui định hiện hành.
+d. Tập huấn nghiệp vụ:
+- Chi tài liệu giáo trình cho lớp học; - Chi trả thù lao cho giảng viên dạy lý thuyết tối đa 20.000đồng/tiết, hướng dẫn viên thực hành tối đa 15.000đồng/tiết; - Chi mua dụng cụ, vật tư thực hành (nếu có); - Chi quản lý lớp học: nước uống, thuê hội trường, xăng xe đi lại cho giảng viên và cán bộ tổ chức lớp; Hỗ trợ tiền ăn, ngủ, đi lại cho học viên trong thời gian tập huấn theo qui định tại Thông tư số 93/1998/TT-BTC ngày 30/6/1998 của Bộ Tài chính qui định chế độ chi tiêu hội nghị.
+e. Chi ứng dụng tiến bộ khoa học kỹ thuật vào chương trình (nếu có): Trên cơ sở kết quả nghiên cứu khoa học đã thành công về các giải pháp, công nghệ về vệ sinh môi trường nông thôn, chương trình đưa ra các ứng dụng tiến bộ kỹ thuật thông qua mô hình cụ thể nhằm đảm bảo phù hợp khả năng kinh tế của người dân và điều kiện từng vùng sinh thái.
+2. Chi từ nguồn vốn đầu tư xây dựng cơ bản:
+2. 1. Nội dung chi:
+- Chi hỗ trợ xây dựng công trình cung cấp nước sạch, kể cả công trình cấp nước cho trường học, cơ sở giáo dục, nhà trẻ, bệnh viện, trạm xá, chợ nông thôn.
+- Chi hỗ trợ xử lý nước thải làng nghề.
+- Vốn qui hoạch, chuẩn bị đầu tư.
+- Chi ứng dụng tiến bộ khoa học kỹ thuật vào chương trình (nếu có)
+2. 2. Mức chi cụ thể:
+2. 2.1. Công trình cung cấp nước sạch:
+a. Công trình cấp nước tập trung:
+- Ngân sách Trung ương hỗ trợ một phần xi măng, gạch, cát, thiết bị cho hạng mục công trình đầu nguồn, trạm xử lý nước, đường ống dẫn chính.
+- Mức hỗ trợ cụ thể như sau:
++ Đối với công trình cấp nước cho 1 thôn (bản, ấp): Ngân sách Trung ương hỗ trợ với tỷ lệ không quá 40% giá trị công trình được cấp có thẩm quyền duyệt.
+Riêng vùng núi cao, hải đảo, xã biên giới, ngân sách Trung ương hỗ trợ cho dự án của 1 thôn (bản, ấp) với tỷ lệ tối đa không quá 60% giá trị công trình được cấp có thẩm quyền phê duyệt. Đối với các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa áp dụng theo qui định tại Thông tư số 416/1999/TTLT/BKH-UBDTMN-TC-XD ngày 29/4/1999 của Liên tịch Bộ Kế hoạch và Đầu tư - Uỷ Ban dân tộc và miền núi (nay là Uỷ ban dân tộc) - Bộ Tài chính - Bộ Xây dựng về hướng dẫn quản lý đầu tư và xây dựng công trình hạ tầng ở các xã đặc biệt khó khăn miền núi và vùng sâu vùng xa theo Quyết định số 135/1998/QĐ-TTg ngày 31/7/1998 của Thủ tướng Chính phủ về việc phê duyệt Chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu vùng xa.
++ Dự án cấp nước tập trung hệ tự chảy (chỉ thực hiện ở vùng núi cao): Ngân sách Trung ương hỗ trợ không quá 90% giá trị công trình được cấp có thẩm quyền phê duyệt.
+Căn cứ mức hỗ trợ cho 1 đơn vị thôn (bản, ấp) nêu trên; Các Bộ, ngành, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương phê duyệt mức hỗ trợ cho các dự án liên thôn (liên bản, liên ấp), xã, thực hiện dự án cho phù hợp với khả năng kinh phí được phân bổ hàng năm.
+b. Công trình cấp nước phân tán:
+- Ngân sách Trung ương hỗ trợ cho người nghèo và gia đình chính sách xã hội, hộ gia đình ở các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa, xã biên giới, vùng núi cao, hải đảo.
+- Ngân sách Trung ương hỗ trợ một phần vật tư như: ống nhựa, bơm tay, xi măng, máng thu hứng nước mưa tuỳ theo từng loại hình cấp nước.
+- Mức hỗ trợ cụ thể như sau:
++ Loại giếng khoan đường kính nhỏ: Ngân sách Trung ương hỗ trợ tối đa 300.000 đồng/hộ.
++ Loại giếng đào: Ngân sách Trung ương hỗ trợ tối đa 200.000đồng/hộ.
++ Bể chứa nước mưa (4m3): Ngân sách Trung ương hỗ trợ tối đa 300.000đồng/hộ; Lu chứa nước mưa (2m3) Ngân sách Trung ương hỗ trợ tối đa 200.000đồng/hộ (cho vùng khó khăn thiếu nước).
+Riêng đối với gia đình bà mẹ Việt Nam anh hùng, gia đình liệt sĩ, gia đình có công với cách mạng thực sự khó khăn thì ngoài mức hỗ trợ của ngân sách Trung ương (nêu trên), ngân sách địa phương có thể xem xét hỗ trợ phần giá trị còn lại của công trình.
+2. 2.2. Dự án công trình xử lý chất thải làng nghề:
+- Nội dung hỗ trợ: Ngân sách Trung ương hỗ trợ một phần vật tư như xi măng, gạch, cát cho cụm công trình xử lý hoặc kênh dẫn chính, thiết bị.
+- Mức hỗ trợ cụ thể: Ngân sách Trung ương hỗ trợ không quá 40% giá trị công trình được cấp có thẩm quyền phê duyệt cho 1 thôn (bản, ấp)
+Căn cứ mức hỗ trợ cho 1 đơn vị thôn (bản, ấp) nêu trên; Các Bộ, ngành, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương phê duyệt mức hỗ trợ cho các dự án liên thôn (liên bản, liên ấp), xã, thực hiện dự án cho phù hợp với khả năng kinh phí được phân bổ hàng năm.
+2. 2.3. Vốn qui hoạch, chuẩn bị đầu tư: Ngân sách nhà nước cấp theo dự án, luận chứng kinh tế kỹ thuật được cấp có thẩm quyền phê duyệt.
+2. 2.4. Chi ứng dụng tiến bộ khoa học kỹ thuật vào chương trình (nếu có): Trên cơ sở kết quả nghiên cứu khoa học đã thành công về các giải pháp, công nghệ cung cấp nước sạch và vệ sinh môi trường nông thôn, chương trình đưa ra các ứng dụng tiến bộ kỹ thuật thông qua mô hình cụ thể nhằm đảm bảo phù hợp khả năng kinh tế của người dân và điều kiện từng vùng sinh thái.
+Đối với các công trình cung cấp nước sạch thuộc diện dự án nước ngoài tài trợ có nội dung và địa chỉ cụ thể thì bố trí kinh phí theo dự án được duyệt.
+B. CÔNG TÁC QUẢN LÝ TÀI CHÍNH CỦA CHƯƠNG TRÌNH:
+1. Lập dự toán và phân bổ kinh phí:
+- Hàng năm căn cứ vào chỉ thị của Thủ tướng Chính phủ về xây dựng kế hoạch phát triển kinh tế xã hội, Bộ Nông nghiệp và PTNT (Cơ quan quản lý Chương trình) có trách nhiệm lập kế hoạch về nhiệm vụ, mục tiêu và nhu cầu kinh phí, đề xuất các giải pháp để thực hiện chương trình gửi Bộ Kế hoạch đầu tư, Bộ Tài chính tổng hợp trình Chính phủ. Căn cứ tổng mức kinh phí của chương trình được cấp có thẩm quyền thông báo, cơ quan quản lý chương trình chủ trì phối hợp với Bộ Kế hoạch-Đầu tư, Bộ Tài chính dự kiến phân bổ kinh phí của chương trình cho các Bộ, cơ quan Trung ương và các tỉnh, thành phố trực thuộc trung ương phù hợp với mục tiêu, nhiệm vụ đã được duyệt. Bảng phân bổ vốn và mục tiêu, nhiệm vụ của chương trình được gửi về Bộ Kế hoạch và Đầu tư, Bộ Tài chính để tổng hợp vào ngân sách của các Bộ, cơ quan trung ương và các tỉnh, thành phố trình Thủ tướng Chính phủ quyết định.
+- Đối với các Bộ, cơ quan trung ương: Căn cứ vào kinh phí chương trình được Thủ tướng Chính phủ đã giao, các Bộ, cơ quan trung ương phân bổ giao nhiệm vụ cho các đơn vị trực thuộc phù hợp với mục tiêu, nội dung của chương trình gửi Bộ Tài chính theo qui định để làm căn cứ cấp phát kinh phí.
+- Đối với các địa phương: Căn cứ tổng kinh phí của tất các chương trình mục tiêu quốc gia được Chính phủ giao cho địa phương, Uỷ ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách nhiệm chủ động lồng ghép các chương trình mục tiêu trên địa bàn, bố trí mức kinh phí cho chương trình mục tiêu quốc gia nước sạch và vệ sinh môi trường nông thôn và gửi kế hoạch phân bổ cho Bộ Tài chính, Bộ Kế hoạch - Đầu tư, Bộ Nông nghiệp và Phát triển nông thôn để theo dõi và kiểm tra thực hiện.
+2. Cấp phát kinh phí:
+- Ở trung ương: Bộ Tài chính cấp vốn thanh toán trực tiếp cho các chủ dự án thuộc các Bộ, cơ quan trung ương theo các qui định hiện hành về vốn đầu tư XDCB (đối với vốn đầu tư xây dựng cơ bản) và cấp bằng hạn mức cho các Bộ, cơ quan trung ương tham gia thực hiện chương trình theo dự toán và tiến độ thực hiện (đối với vốn sự nghiệp)
+- Ở địa phương: Bộ Tài chính cấp bổ sung có mục tiêu cho các tỉnh, thành phố trực thuộc trung ương để thực hiện nhiệm vụ của chương trình do địa phương quản lý (kể cả vốn sự nghiệp và vốn đầu tư xây dựng cơ bản)
+3. Công tác kiểm tra và quyết toán kinh phí:
+- Công tác kiểm tra: Bộ Nông nghiệp và Phát triển nông thôn, Ban chủ nhiệm Chương trình quốc gia về nước sạch và vệ sinh môi trường nông thôn phối hợp với cơ quan tài chính tiến hành kiểm tra thường xuyên hoặc đột xuất về việc chấp hành chính sách chế độ của Nhà nước về tình hình sử dụng kinh phí ở cả trung ương và địa phương.
+- Về quyết toán: Các đơn vị có sử dụng kinh phí Chương trình mục tiêu quốc gia nước sạch và vệ sinh môi trường nông thôn phải báo cáo tình hình thực hiện (quí, năm) và quyết toán kinh phí của Chương trình theo đúng chế độ kế toán đơn vị HCSN ban hành kèm theo Quyết định số 999/TC-QĐ-CĐKT ngày 2/11/1996 của Bộ trưởng Bộ Tài chính và chế độ báo cáo quyết toán qui định tại Thông tư số 103/1998/TT-BTC ngày 18/7/1998 của Bộ Tài chính; Đối với vốn đầu tư XDCB quyết toán theo Thông tư số 45/2003/TT-BTC ngày 15/5/2003 của Bộ Tài chính hướng dẫn quyết toán vốn đầu tư.
+III. TỔ CHỨC THỰC HIỆN:
+1. Các đơn vị tham gia thực hiện Chương trình nước sạch và VSMT nông thôn có trách nhiệm sử dụng kinh phí đúng mục đích, đúng đối tượng, theo đúng chế độ qui định tại Thông tư này và các chế độ hiện hành khác; định kỳ (quí, năm) báo cáo tình hình sử dụng kinh phí với cơ quan chủ quản dự án, đồng gửi cơ quan tài chính đồng cấp.
+2. Các Bộ, ngành, cơ quan TW tham gia Chương trình có trách nhiệm kiểm tra các đơn vị cấp dưới thực hiện đầy đủ các qui định về quản lý tài chính và định kỳ (quí, năm) báo cáo Bộ Nông nghiệp và Phát triển nông thôn (Ban chủ nhiệm Chương trình Trung ương), Bộ Tài chính, Bộ Kế hoạch và Đầu tư về tiến độ thực hiện công việc và tổng hợp tình hình sử dụng kinh phí tham gia thực hiện Chương trình. Ở địa phương: Ban chỉ đạo Chương trình cấp tỉnh, thành phố có trách nhiệm đôn đốc, kiểm tra các đơn vị tham gia Chương trình thực hiện đầy đủ các qui định về quản lý tài chính, định kỳ (quí, năm) báo cáo Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương, Bộ Nông nghiệp và Phát triển nông thôn (Ban chủ nhiệm Chương trình quốc gia nước sạch và vệ sinh môi trường nông thôn), Bộ Tài chính, Bộ Kế hoạch và Đầu tư về tiến độ thực hiện công việc được giao và tổng hợp tình hình sử dụng kinh phí tham gia thực hiện Chương trình.
+3. Bộ Nông nghiệp và Phát triển nông thôn (Ban chủ nhiệm Chương trình nước sạch và VSMT nông thôn Trung ương) có trách nhiệm đôn đốc, kiểm tra các Bộ, ngành, địa phương tham gia Chương trình thực hiện đầy đủ các qui định về quản lý tài chính, phối hợp với Bộ Tài chính, Bộ Kế hoạch - Đầu tư kiểm tra thường xuyên hoặc đột xuất về kết quả đạt được của Chương trình ở các Bộ, ngành và địa phương về nội dung và tiến độ thực hiện Chương trình và định kỳ (quí, năm) báo cáo Bộ Kế hoạch và Đầu tư, Bộ Tài chính về tiến độ thực hiện và tình hình sử dụng kinh phí của toàn bộ Chương trình.
+4. Thông tư này được áp dụng sau 15 ngày kể từ ngày đăng công báo và thay thế Thông tư số 103/1999/TTLT/BTC-NN&PTNT ngày 21/8/1999 của Liên tịch Bộ Tài chính - Bộ Nông nghiệp và PTNT hướng dẫn quản lý, cấp phát và quyết toán kinh phí chương trình quốc gia nước sạch và vệ sinh môi trường nông thôn. Trong quá trình thực hiện, nếu có vướng mắc phát sinh đề nghị các đơn vị phản ánh về Liên Bộ để nghiên cứu sửa đổi cho phù hợp.
+Trong quá trình thực hiện, nếu có vướng mắc phát sinh đề nghị các đơn vị phản ánh về Liên Bộ để nghiên cứu sửa đổi cho phù hợp.
+ĐANG CẬP NHẬT
+(Đã ký)
+Nguyễn Sinh Hùng
+ĐANG CẬP NHẬT
+(Đã ký)
+Lê Huy Ngọ
