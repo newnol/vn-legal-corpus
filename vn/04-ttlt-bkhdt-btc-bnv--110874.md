@@ -1,0 +1,204 @@
+---
+id: "110874"
+identifier: "vbpl-110874"
+title: "Thông tư liên tịch số 04/TTLT-BKHĐT-BTC-BNV Ban hành Quy chế phối hợp mẫu giữa các cơ quan chức năng trên địa bàn tỉnh, thành phố trực thuộc Trung ương trong quản lý nhà nước đốỉ với doanh nghiệp sau đăng ký thành lập"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "04/TTLT-BKHĐT-BTC-BNV"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "2015-05-28"
+effective_date: "2015-07-31"
+expiry_date: null
+public_date: null
+updated_date: "2026-04-04"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Kế hoạch và Đầu tư"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "VanBanGoc_04-TTLT-BKHĐT-BTC-BNV_04-TTLT-BKHĐT-BTC-BNV.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 18
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/110874"
+signers:
+  - "Đặng Huy Đông"
+  - "Bộ Tài chính"
+  - "Đỗ Hoàng Anh Tuấn"
+job_titles:
+  - " "
+  - " "
+  - " "
+---
+
+# Thông tư liên tịch số 04/TTLT-BKHĐT-BTC-BNV Ban hành Quy chế phối hợp mẫu giữa các cơ quan chức năng trên địa bàn tỉnh, thành phố trực thuộc Trung ương trong quản lý nhà nước đốỉ với doanh nghiệp sau đăng ký thành lập
+
+BỘ KẾ HOẠCH VÀ ĐẦU TƯ - BỘ TÀI CHÍNH - BỘ NỘI VỤ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+BỘ KẾ HOẠCH VÀ ĐẦU TƯ - BỘ TÀI CHÍNH - BỘ NỘI VỤ --------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+Số: 04/2015/TTLT-BKHĐT-BTC-BNV Hà Nội, ngày 28 tháng 5 năm 2015
+Số: 04/2015/TTLT-BKHĐT-BTC-BNV
+Hà Nội, ngày 28 tháng 5 năm 2015
+THÔNG TƯ LIÊN TỊCH
+Ban hành Quy chế phối hợp mẫu giữa các cơ quan chức năng trên địa bàn tỉnh, thành phố trực thuộc Trung ương trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng 11 năm 2003;
+Căn cứ Luật Doanh nghiệp ngày 29 tháng 11 năm 2005;
+Căn cứ Luật Đầu tư ngày 29 tháng 11 năm 2005;
+Căn cứ Luật Quản lý thuế ngày 29 tháng 11 năm 2006 và Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế ngày 20 tháng 11 năm 2012;
+Căn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010;
+Căn cứ Nghị định số 24/2014/NĐ-CP ngày 04 tháng 4 năm 2014 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương;
+Căn cứ Nghị định số 116/2008/NĐ-CP ngày 14 tháng 11 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư;
+Căn cứ Nghị định số 58/2014/NĐ-CP ngày 16 tháng 6 năm 2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ;
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Bộ trưởng Bộ Kế hoạch và Đầu tư, Bộ trưởng Bộ Tài chính, Bộ trưởng Bộ Nội vụ ban hành Thông tư liên tịch về Quy chế phối hợp mẫu giữa các cơ quan chức năng trên địa bàn tỉnh, thành phố trực thuộc Trung ương trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập.
+Điều 1 . Ban hành kèm theo Thông tư này Quy chế phối hợp mẫu giữa các cơ quan chức năng trên địa bàn tỉnh, thành phố trực thuộc Trung ương trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập.
+Điều 2 . Điều khoản thi hành
+Thông tư này có hiệu lực thi hành kể từ ngày 31 tháng 7 năm 2015.
+Căn cứ Quy chế phối hợp mẫu ban hành kèm theo Thông tư này và đặc điểm, điều kiện, tình hình phát triển kinh tế xã hội của từng địa phương, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương ban hành Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn địa phương mình trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập trước ngày 01 tháng 9 năm 2015.
+Điều 3 . Trách nhiệm thi hành
+Chánh Văn phòng, Thủ trưởng các đơn vị có liên quan thuộc Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Nội vụ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+KT. BỘ TRƯỞNG BỘ NỘI VỤ THỨ TRƯỞNG (Đã ký) Trần Anh Tuấn KT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG (Đã ký) Đỗ Hoàng Anh Tuấn KT. BỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ THỨ TRƯỞNG (Đã ký) Đặng Huy Đông
+KT. BỘ TRƯỞNG BỘ NỘI VỤ THỨ TRƯỞNG (Đã ký) Trần Anh Tuấn
+KT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG (Đã ký) Đỗ Hoàng Anh Tuấn
+KT. BỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ THỨ TRƯỞNG (Đã ký) Đặng Huy Đông
+Nơi nhận: - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Tổng Bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng Trung ương Đảng, các Ban của Đảng; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; - Cục Kiểm tra văn bản thuộc Bộ Tư pháp; - Công báo; - Các Cổng TTĐT: CP, Bộ KH&ĐT, Bộ TC, Bộ NV; - Các đơn vị thuộc Bộ KH&ĐT, Bộ TC, Bộ NV; - Lưu: Bộ KH&ĐT (VT, ĐKKD 2b), Bộ TC (VT, TCT 2b), Bộ NV (VT, TCBC 2b) (312 bản).
+Nơi nhận: - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Tổng Bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng Trung ương Đảng, các Ban của Đảng; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; - Cục Kiểm tra văn bản thuộc Bộ Tư pháp; - Công báo; - Các Cổng TTĐT: CP, Bộ KH&ĐT, Bộ TC, Bộ NV; - Các đơn vị thuộc Bộ KH&ĐT, Bộ TC, Bộ NV; - Lưu: Bộ KH&ĐT (VT, ĐKKD 2b), Bộ TC (VT, TCT 2b), Bộ NV (VT, TCBC 2b) (312 bản).
+QUY CHẾ PHỐI HỢP MẪU
+GIỮA CÁC CƠ QUAN CHỨC NĂNG TRÊN ĐỊA BÀN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG TRONG QUẢN LÝ NHÀ NƯỚC ĐỐI VỚI DOANH NGHIỆP SAU ĐĂNG KÝ THÀNH LẬP (Ban hành kèm theo Thông tư liên tịch số 04/2015/TTLT-BKHĐT-BTC-BNV ngày 28 tháng 5 năm 2015 của Bộ Kế hoạch và Đầu tư, Bộ Tài chính và Bộ Nội vụ)
+# Chương I
+QUY ĐỊNH CHUNG
+## Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định mục tiêu, nguyên tắc, nội dung và trách nhiệm phối hợp giữa các cơ quan chức năng trên địa bàn tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là tỉnh, thành phố) trong việc: trao đổi, cung cấp, công khai thông tin doanh nghiệp; thanh tra, kiểm tra doanh nghiệp; thu hồi giấy chứng nhận đăng ký doanh nghiệp; xử lý doanh nghiệp có hành vi vi phạm quy định về ngành, nghề kinh doanh có điều kiện; báo cáo tình hình thực hiện quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập.
+## Điều 2. Đối tượng áp dụng
+1. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cấp tỉnh).
+2. Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh.
+3. Cơ quan quản lý chuyên ngành, lĩnh vực thuộc cơ quan quản lý nhà nước cấp Trung ương đặt tại tỉnh, thành phố.
+4. Ủy ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện).
+## Điều 3. Giải thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+1. Cung cấp thông tin doanh nghiệp là việc cơ quan nhà nước được yêu cầu, trong phạm vi chức năng quản lý của mình và theo quy định của pháp luật, gửi thông tin doanh nghiệp có nội dung, phạm vi xác định tới cơ quan yêu cầu để phục vụ công tác quản lý nhà nước về doanh nghiệp.
+2. Trao đổi thông tin doanh nghiệp là việc hai hay nhiều cơ quan chức năng cung cấp thông tin doanh nghiệp thuộc phạm vi quản lý cho nhau một cách liên tục hoặc theo định kỳ.
+3. Công khai thông tin doanh nghiệp là việc cơ quan nhà nước, căn cứ vào chức năng quản lý của mình và theo quy định của pháp luật, cung cấp, phổ biến thông tin doanh nghiệp một cách rộng rãi, không thu phí.
+4. Thanh tra doanh nghiệp là việc xem xét, đánh giá, xử lý theo trình tự, thủ tục được quy định tại Luật Thanh tra của cơ quan nhà nước có thẩm quyền đối với việc thực hiện pháp luật, chính sách, quyền hạn, nghĩa vụ của doanh nghiệp và cá nhân, tổ chức có liên quan.
+5. Kiểm tra doanh nghiệp là việc cơ quan nhà nước có thẩm quyền xem xét, đánh giá việc thực hiện pháp luật, chính sách, quyền hạn, nghĩa vụ của doanh nghiệp và cá nhân, tổ chức có liên quan.
+6. Cơ quan chức năng là cơ quan quy định tại các Khoản 2, 3 và 4 Điều 2 Quy chế này .
+7. Đơn vị trực thuộc doanh nghiệp là chi nhánh, văn phòng đại diện, địa điểm kinh doanh do doanh nghiệp thành lập.
+## Điều 4. Mục tiêu của việc phối hợp trong quản lý doanh nghiệp sau đăng ký thành lập
+1. Nâng cao hiệu lực, hiệu quả của quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập tại địa phương theo hướng:
+- a) Tăng cường sự phối hợp giữa các cơ quan trong quản lý nhà nước đối với doanh nghiệp;
+- b) Phân định trách nhiệm giữa các cơ quan trong quản lý nhà nước đối với doanh nghiệp;
+- c) Tăng cường vai trò giám sát của xã hội đối với doanh nghiệp.
+2. Phát hiện và xử lý kịp thời những doanh nghiệp có hành vi vi phạm pháp luật, ngăn chặn và hạn chế những tác động tiêu cực do doanh nghiệp gây ra cho xã hội.
+3. Góp phần xây dựng môi trường kinh doanh thuận lợi.
+## Điều 5. Nguyên tắc phối hợp
+1. Trách nhiệm quản lý nhà nước đối với doanh nghiệp phải được phân định rõ ràng phù hợp với chức năng, nhiệm vụ, quyền hạn của từng cấp, từng cơ quan quản lý nhà nước cụ thể. Các cơ quan nhà nước quản lý doanh nghiệp theo từng ngành, lĩnh vực hoạt động kinh doanh của doanh nghiệp. Doanh nghiệp kinh doanh đa ngành, nghề chịu sự quản lý của nhiều cơ quan nhà nước; mỗi cơ quan chịu trách nhiệm quản lý hoạt động của doanh nghiệp theo từng ngành, lĩnh vực tương ứng.
+2. Trao đổi, cung cấp, công khai thông tin doanh nghiệp phải đảm bảo chính xác, đầy đủ, kịp thời. Yêu cầu trao đổi, cung cấp thông tin doanh nghiệp phải căn cứ vào nhu cầu quản lý nhà nước phù hợp với chức năng, nhiệm vụ, quyền hạn của cơ quan yêu cầu. Việc sử dụng thông tin doanh nghiệp phải tuân thủ theo quy định của pháp luật.
+3. Phối hợp trong thanh tra, kiểm tra doanh nghiệp phải bảo đảm chính xác, khách quan, trung thực, công khai, dân chủ, kịp thời; không trùng lặp về phạm vi, đối tượng, nội dung thanh tra, kiểm tra trong cùng thời gian giữa các cơ quan thực hiện thanh tra, kiểm tra; giảm thiểu đến mức tối đa sự phiền hà, cản trở hoạt động bình thường của doanh nghiệp.
+4. Không làm phát sinh thủ tục hành chính đối với doanh nghiệp và tạo thuận lợi cho doanh nghiệp hoạt động bình thường.
+# Chương II
+TRAO ĐỔI, CUNG CẤP, CÔNG KHAI THÔNG TIN DOANH NGHIỆP
+## Điều 6. Nội dung thông tin doanh nghiệp
+1. Thông tin đăng ký doanh nghiệp, bao gồm: tên doanh nghiệp; mã số doanh nghiệp; địa chỉ trụ sở chính; ngành, nghề kinh doanh; thông tin về người đại diện theo pháp luật; vốn điều lệ, điều lệ công ty; danh sách thành viên, cổ đông sáng lập, người đại diện theo ủy quyền; thông tin về đơn vị trực thuộc và các thông tin đăng ký doanh nghiệp khác theo quy định của pháp luật.
+2. Thông tin về tình trạng hoạt động của doanh nghiệp, bao gồm các tình trạng: đang hoạt động; đang làm thủ tục giải thể; đã giải thể; bị thu hồi giấy chứng nhận đăng ký doanh nghiệp; tạm ngừng kinh doanh; đã chấm dứt hoạt động (đối với đơn vị trực thuộc doanh nghiệp).
+3. Thông tin về tình hình hoạt động sản xuất kinh doanh của doanh nghiệp, bao gồm: báo cáo tình hình hoạt động sản xuất kinh doanh, báo cáo tài chính, doanh thu, sản lượng, số lao động, xuất khẩu, nhập khẩu và các thông tin về tình hình hoạt động sản xuất kinh doanh khác của doanh nghiệp theo quy định của pháp luật.
+4. Thông tin về xử lý doanh nghiệp có hành vi kinh doanh vi phạm pháp luật, bao gồm: kết luận và kết quả xử lý của cơ quan có thẩm quyền đối với doanh nghiệp có hành vi vi phạm quy định của pháp luật về doanh nghiệp, về đầu tư, về quản lý thuế và pháp luật chuyên ngành khác.
+## Điều 7. Trách nhiệm của các cơ quan trong việc trao đổi, cung cấp, công khai thông tin đăng ký doanh nghiệp
+1. Sở Kế hoạch và Đầu tư là đầu mối cung cấp thông tin đăng ký doanh nghiệp trên địa bàn tỉnh, thành phố.
+Căn cứ vào chức năng, nhiệm vụ, quyền hạn, cơ quan chức năng có thể yêu cầu Sở Kế hoạch và Đầu tư cung cấp thông tin đăng ký doanh nghiệp. Sở Kế hoạch và Đầu tư ban hành Quy trình cung cấp thông tin đăng ký doanh nghiệp cho các cơ quan quản lý nhà nước trên địa bàn tỉnh, thành phố.
+Trường hợp phát hiện thông tin đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư cung cấp chưa chính xác hoặc chưa đầy đủ so với tình trạng thực tế của doanh nghiệp, cơ quan chức năng có trách nhiệm thông báo bằng văn bản cho Sở Kế hoạch và Đầu tư để yêu cầu doanh nghiệp thực hiện đăng ký thay đổi hoặc hiệu đính thông tin đăng ký doanh nghiệp theo quy định. Sau khi doanh nghiệp đăng ký thay đổi hoặc hiệu đính thông tin, Sở Kế hoạch và Đầu tư có trách nhiệm thông báo kết quả cho cơ quan chức năng có liên quan.
+2. Sở Kế hoạch và Đầu tư là đầu mối công khai thông tin đăng ký doanh nghiệp trên địa bàn tỉnh, thành phố. Nội dung thông tin đăng ký doanh nghiệp công khai gồm:
+- a) Tên, mã số, địa chỉ trụ sở chính, tên người đại diện theo pháp luật của doanh nghiệp;
+- b) Tên, mã số, địa chỉ trụ sở, tên người đứng đầu đơn vị trực thuộc doanh nghiệp;
+- c) Tên, mã số, địa chỉ trụ sở chính, tên người đại diện theo pháp luật của doanh nghiệp đã hoàn tất thủ tục giải thể;
+- d) Tên, mã số, địa chỉ trụ sở, tên người đứng đầu đơn vị trực thuộc doanh nghiệp chấm dứt hoạt động.
+## Điều 8. Trách nhiệm của các cơ quan trong việc trao đổi, cung cấp, công khai thông tin về tình trạng hoạt động của doanh nghiệp
+1. Trên cơ sở khai thác từ Hệ thống thông tin đăng ký doanh nghiệp quốc gia, Sở Kế hoạch và Đầu tư là đầu mối cung cấp, công khai thông tin về tình trạng hoạt động của doanh nghiệp trên địa bàn tỉnh, thành phố.
+2. Sở Kế hoạch và Đầu tư định kỳ đối chiếu thông tin trên Hệ thống thông tin đăng ký doanh nghiệp quốc gia với thông tin cơ quan thuế cung cấp về tình trạng hoạt động của doanh nghiệp, đối với doanh nghiệp ngừng hoạt động quá một năm không thông báo với cơ quan thuế hoặc cơ quan đăng ký kinh doanh, Sở Kế hoạch và Đầu tư tiến hành thanh tra, kiểm tra, xử phạt theo chức năng, nhiệm vụ, quyền hạn và quy định của pháp luật.
+## Điều 9. Trách nhiệm của các cơ quan trong việc trao đổi, cung cấp, công khai thông tin về tình hình hoạt động sản xuất kinh doanh của doanh nghiệp
+1. Các cơ quan chức năng chủ động xây dựng cơ sở dữ liệu về doanh nghiệp hoạt động trong ngành, lĩnh vực quản lý nhà nước được giao; chủ động xây dựng phương án, công cụ trao đổi thông tin doanh nghiệp với Sở Kế hoạch và Đầu tư, Cục Thuế và các cơ quan đầu mối thông tin doanh nghiệp khác để phục vụ nhiệm vụ quản lý nhà nước của mình.
+2. Khuyến khích các cơ quan chức năng trao đổi thông tin doanh nghiệp, chia sẻ cơ sở dữ liệu về doanh nghiệp nhằm nâng cao hiệu lực, hiệu quả của công tác quản lý nhà nước đối với doanh nghiệp, đồng thời giảm thiểu nghĩa vụ kê khai, báo cáo của doanh nghiệp.
+3. Cơ quan chức năng thực hiện công khai thông tin về tình hình hoạt động sản xuất kinh doanh của doanh nghiệp theo quy định của pháp luật chuyên ngành.
+## Điều 10. Trách nhiệm của các cơ quan trong việc công khai thông tin về xử lý doanh nghiệp có hành vi vi phạm pháp luật
+1. Sở Kế hoạch và Đầu tư là đầu mối công khai thông tin doanh nghiệp có hành vi vi phạm pháp luật về doanh nghiệp và đầu tư. Thông tin công khai bao gồm: tên, mã số, địa chỉ trụ sở chính, tên người đại diện theo pháp luật của doanh nghiệp.
+2. Cục Thuế công khai danh sách các doanh nghiệp, đơn vị trực thuộc doanh nghiệp trên địa bàn tỉnh, thành phố có hành vi vi phạm pháp luật về thuế theo quy định của Luật Quản lý thuế và theo hướng dẫn của Tổng cục Thuế.
+3. Cơ quan chức năng khác, ngoài các cơ quan quy định tại Khoản 1 và Khoản 2 Điều này, có trách nhiệm công khai doanh nghiệp, đơn vị trực thuộc doanh nghiệp có hành vi vi phạm, bị xử phạt vi phạm hành chính theo quy định của pháp luật chuyên ngành thuộc phạm vi quản lý. Thông tin công khai gồm: tên, mã số, địa chỉ trụ sở chính, tên người đại diện theo pháp luật, người đứng đầu đơn vị trực thuộc doanh nghiệp, hành vi vi phạm pháp luật, hình thức xử phạt và biện pháp khắc phục hậu quả.
+## Điều 11. Hình thức, phương tiện trao đổi, cung cấp, công khai thông tin doanh nghiệp
+1. Khuyến khích các cơ quan chức năng ứng dụng công nghệ thông tin để thực hiện trao đổi, cung cấp, công khai thông tin doanh nghiệp qua mạng điện tử.
+2. Ủy ban nhân dân cấp tỉnh quyết định hình thức, phương tiện trao đổi, cung cấp, công khai thông tin doanh nghiệp của cơ quan quy định tại Khoản 2 và Khoản 4 Điều 2 Quy chế này .
+3. Cơ quan quản lý nhà nước cấp Trung ương quyết định hoặc trình cơ quan có thẩm quyền quyết định hình thức, phương tiện trao đổi, cung cấp, công khai thông tin doanh nghiệp của cơ quan quy định tại Khoản 3 Điều 2 Quy chế này .
+# Chương III
+THANH TRA, KIỂM TRA DOANH NGHIỆP, THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP VÀ XỬ LÝ DOANH NGHIỆP CÓ HÀNH VI VI PHẠM QUY ĐỊNH VỀ NGÀNH, NGHỀ KINH DOANH CÓ ĐIỀU KIỆN
+## Điều 12. Nội dung phối hợp trong công tác thanh tra, kiểm tra, thu hồi giấy chứng nhận đăng ký doanh nghiệp và xử lý doanh nghiệp vi phạm quy định về ngành, nghề kinh doanh có điều kiện
+1. Nội dung phối hợp trong thanh tra, kiểm tra doanh nghiệp bao gồm: phối hợp xây dựng kế hoạch thanh tra, kiểm tra doanh nghiệp; phối hợp tổ chức thực hiện công tác thanh tra, kiểm tra doanh nghiệp.
+2. Nội dung phối hợp trong thu hồi giấy chứng nhận đăng ký doanh nghiệp bao gồm: phối hợp xác định hành vi vi phạm thuộc trường hợp thu hồi giấy chứng nhận đăng ký doanh nghiệp và thực hiện thu hồi giấy chứng nhận đăng ký doanh nghiệp.
+3. Nội dung phối hợp trong xử lý doanh nghiệp vi phạm quy định về ngành, nghề kinh doanh có điều kiện gồm: phối hợp xử phạt doanh nghiệp; yêu cầu doanh nghiệp tạm ngừng kinh doanh ngành, nghề kinh doanh có điều kiện.
+## Điều 13. Trách nhiệm của các cơ quan trong việc phối hợp xây dựng kế hoạch thanh tra, kiểm tra doanh nghiệp
+1. Thanh tra tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Thanh tra tỉnh) là cơ quan đầu mối xây dựng kế hoạch thanh tra, kiểm tra doanh nghiệp của tỉnh, thành phố trên cơ sở tổng hợp yêu cầu về thanh tra, kiểm tra doanh nghiệp của các cơ quan quy định tại Khoản 2 và Khoản 4 Điều 2 Quy chế này ; theo dõi, tổng hợp kế hoạch thanh tra, kiểm tra doanh nghiệp đã được cấp trên phê duyệt của các cơ quan để báo cáo Ủy ban nhân dân cấp tỉnh.
+Kế hoạch thanh tra, kiểm tra doanh nghiệp có thể được xây dựng độc lập hoặc là một trong các nội dung của kế hoạch thanh tra, kiểm tra của tỉnh, thành phố.
+2. Các cơ quan chức năng có trách nhiệm phối hợp triển khai kế hoạch thanh tra, kiểm tra doanh nghiệp hàng năm trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình. Trong kế hoạch thanh tra, kiểm tra doanh nghiệp hàng năm của mình, cơ quan chức năng phải xác định cụ thể doanh nghiệp, đơn vị trực thuộc doanh nghiệp dự kiến thanh tra, kiểm tra.
+- a) Trước ngày 15 tháng 11 hàng năm, các cơ quan quy định tại Khoản 2 và Khoản 4 Điều 2 Quy chế này gửi kế hoạch thanh tra, kiểm tra năm sau liền kề của mình cho Thanh tra tỉnh.
+Căn cứ vào định hướng, chương trình kế hoạch công tác thanh tra của Thanh tra Chính phủ, Thanh tra tỉnh tổng hợp nhu cầu thanh tra, kiểm tra doanh nghiệp của các cơ quan quy định tại Khoản 2 và Khoản 4 Điều 2 Quy chế này , trình Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt.
+Chậm nhất vào ngày 25 tháng 11 hàng năm, Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt kế hoạch thanh tra, kiểm tra doanh nghiệp năm sau liền kề của tỉnh, thành phố mình.
+- b) Các cơ quan quản lý chuyên ngành, lĩnh vực thuộc cơ quan quản lý nhà nước cấp Trung ương đặt tại địa phương có trách nhiệm đối chiếu với kế hoạch thanh tra, kiểm tra của các cơ quan chức năng khác trên địa bàn khi xây dựng kế hoạch thanh tra, kiểm tra của mình để giảm thiểu trùng lặp; gửi cho Thanh tra tỉnh kế hoạch thanh tra, kiểm tra doanh nghiệp năm sau liền kề đã được cấp trên phê duyệt.
+3. Thanh tra tỉnh thông báo bằng văn bản tới các cơ quan chức năng có kế hoạch thanh tra, kiểm tra cùng một hoặc một số doanh nghiệp đề nghị các cơ quan này trao đổi, thỏa thuận thành lập đoàn thanh tra, kiểm tra doanh nghiệp liên ngành do một cơ quan chủ trì. Trường hợp do yêu cầu đặc thù phải thực hiện thanh tra, kiểm tra độc lập, Thủ trưởng cơ quan chức năng phải báo cáo Ủy ban nhân dân cấp tỉnh bằng văn bản.
+## Điều 14. Trách nhiệm của các cơ quan trong việc phối hợp tổ chức thực hiện công tác thanh tra, kiểm tra doanh nghiệp
+1. Các cơ quan chức năng có trách nhiệm tổ chức thực hiện công tác thanh tra, kiểm tra doanh nghiệp theo kế hoạch thanh tra, kiểm tra doanh nghiệp đã được cấp có thẩm quyền phê duyệt.
+Trường hợp thành lập đoàn thanh tra liên ngành, Thanh tra tỉnh có trách nhiệm chủ trì, các cơ quan liên quan cử cán bộ tham gia. Kết quả thanh tra liên ngành phải được gửi cho các cơ quan chức năng tham gia. Hành vi vi phạm của doanh nghiệp trong từng lĩnh vực được xử lý theo quy định của pháp luật chuyên ngành. Căn cứ kết luận của đoàn thanh tra liên ngành, Thủ trưởng cơ quan thanh tra chuyên ngành ra quyết định hoặc kiến nghị cơ quan có thẩm quyền ra quyết định xử lý theo quy định.
+Trường hợp thành lập đoàn kiểm tra liên ngành, các cơ quan liên quan thống nhất cử một cơ quan chủ trì, các cơ quan liên quan khác cử cán bộ tham gia. Kết quả kiểm tra liên ngành phải được gửi cho các cơ quan tham gia. Hành vi vi phạm của doanh nghiệp trong từng lĩnh vực được xử lý theo quy định của pháp luật chuyên ngành. Căn cứ kết luận của đoàn kiểm tra liên ngành, Thủ trưởng cơ quan chuyên ngành ra quyết định hoặc kiến nghị cơ quan có thẩm quyền ra quyết định xử lý vi phạm hành chính theo quy định.
+2. Trường hợp trong quá trình chuẩn bị hoặc trong quá trình thanh tra, kiểm tra doanh nghiệp, cơ quan chức năng phát hiện hoặc nhận thấy dấu hiệu doanh nghiệp có hành vi vi phạm pháp luật ngoài phạm vi chức năng, nhiệm vụ, quyền hạn được giao có trách nhiệm thông báo, đề nghị cơ quan có thẩm quyền phối hợp hoặc thực hiện thanh tra, kiểm tra độc lập.
+3. Thanh tra tỉnh là cơ quan tham mưu, giúp Ủy ban nhân dân cấp tỉnh trong việc theo dõi, đôn đốc thực hiện kế hoạch thanh tra, kiểm tra doanh nghiệp của tỉnh, thành phố; tổng hợp kết quả thực hiện kế hoạch thanh tra, kiểm tra doanh nghiệp của các cơ quan chức năng báo cáo Ủy ban nhân dân cấp tỉnh.
+4. Kết quả thanh tra, kiểm tra doanh nghiệp phải được công khai theo quy định của pháp luật.
+## Điều 15. Trách nhiệm của các cơ quan trong phối hợp thu hồi giấy chứng nhận đăng ký doanh nghiệp
+1. Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư có trách nhiệm thu hồi giấy chứng nhận đăng ký doanh nghiệp theo quy định của Luật Doanh nghiệp .
+2. Trong thời hạn 05 ngày làm việc kể từ ngày xác định hành vi vi phạm của doanh nghiệp theo quy định phải thu hồi giấy chứng nhận đăng ký doanh nghiệp, cơ quan chức năng có trách nhiệm thông báo bằng văn bản cho Sở Kế hoạch và Đầu tư.
+3. Trường hợp nhận được thông tin về hành vi vi phạm của doanh nghiệp thuộc trường hợp thu hồi giấy chứng nhận đăng ký doanh nghiệp, nếu xét thấy cần thiết phải xác minh thông tin, Sở Kế hoạch và Đầu tư kiểm tra doanh nghiệp theo thẩm quyền hoặc đề nghị cơ quan nhà nước có thẩm quyền kiểm tra doanh nghiệp, cá nhân, tổ chức có liên quan. Kết quả xác minh thông tin về hành vi vi phạm của doanh nghiệp thuộc trường hợp thu hồi giấy chứng nhận đăng ký doanh nghiệp phải được thể hiện bằng văn bản. Trách nhiệm cụ thể:
+- a) Ủy ban nhân dân cấp huyện có trách nhiệm xác minh việc tổ chức hoạt động sản xuất kinh doanh của doanh nghiệp tại địa bàn quản lý;
+- b) Các cơ quan quy định tại Khoản 2 và Khoản 3 Điều 2 Quy chế này có trách nhiệm xác minh hành vi kinh doanh ngành, nghề cấm kinh doanh của doanh nghiệp thuộc phạm vi quản lý;
+- c) Công an tỉnh, thành phố có trách nhiệm xác minh nội dung kê khai trong hồ sơ đăng ký doanh nghiệp là giả mạo;
+- d) Cơ quan, tổ chức quản lý người thành lập doanh nghiệp thuộc đối tượng bị cấm thành lập doanh nghiệp theo quy định của Luật Doanh nghiệp có trách nhiệm xác minh lý lịch của người thành lập doanh nghiệp đó.
+4. Khi nhận được văn bản của cơ quan chức năng xác định hành vi vi phạm của doanh nghiệp thuộc trường hợp thu hồi giấy chứng nhận đăng ký doanh nghiệp, Sở Kế hoạch và Đầu tư chỉ đạo Phòng Đăng ký kinh doanh thu hồi giấy chứng nhận đăng ký doanh nghiệp của doanh nghiệp theo quy định, đồng thời thông báo cho cơ quan chức năng đã có yêu cầu thu hồi.
+## Điều 16. Trách nhiệm của các cơ quan trong phối hợp xử lý doanh nghiệp có hành vi vi phạm quy định về ngành, nghề kinh doanh có điều kiện
+1. Trường hợp phát hiện doanh nghiệp có hành vi vi phạm quy định về ngành, nghề kinh doanh có điều kiện, cơ quan chức năng quyết định xử phạt theo thẩm quyền hoặc đề nghị cơ quan có thẩm quyền quyết định xử phạt theo quy định của pháp luật chuyên ngành, đồng thời yêu cầu doanh nghiệp thực hiện đúng quy định về điều kiện kinh doanh.
+2. Cơ quan chức năng quản lý nhà nước về ngành, nghề kinh doanh có điều kiện có trách nhiệm thông báo bằng văn bản cho Sở Kế hoạch và Đầu tư trong các trường hợp sau:
+- a) Thu hồi, rút, đình chỉ giấy phép kinh doanh, giấy chứng nhận đủ điều kiện kinh doanh, chứng chỉ hành nghề hoặc các loại văn bản chứng nhận, chấp thuận khác đã cấp cho doanh nghiệp kinh doanh các ngành, nghề kinh doanh có điều kiện;
+- b) Đề nghị cơ quan đăng ký kinh doanh ra Thông báo yêu cầu doanh nghiệp tạm ngừng kinh doanh ngành, nghề kinh doanh có điều kiện do không đáp ứng đủ điều kiện kinh doanh.
+3. Khi nhận được thông báo bằng văn bản của cơ quan chức năng quy định tại Khoản 2 Điều này, Sở Kế hoạch và Đầu tư chỉ đạo Phòng Đăng ký kinh doanh ra Thông báo yêu cầu doanh nghiệp tạm ngừng kinh doanh ngành, nghề kinh doanh có điều kiện, đồng thời gửi cho Ủy ban nhân dân cấp huyện.
+4. Ủy ban nhân dân cấp huyện theo dõi hoạt động sản xuất kinh doanh của doanh nghiệp đã bị Phòng Đăng ký kinh doanh thông báo yêu cầu tạm ngừng kinh doanh ngành, nghề kinh doanh có điều kiện. Trường hợp doanh nghiệp tiếp tục kinh doanh ngành, nghề kinh doanh có điều kiện khi không đáp ứng đủ điều kiện kinh doanh, Ủy ban nhân dân cấp huyện thông báo cho cơ quan có thẩm quyền để xử lý.
+# Chương IV
+BÁO CÁO VỀ QUẢN LÝ NHÀ NƯỚC ĐỐI VỚI DOANH NGHIỆP SAU ĐĂNG KÝ THÀNH LẬP
+## Điều 17. Nội dung báo cáo về quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập
+1. Tình hình công tác quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập.
+2. Tình hình thực hiện phối hợp giữa các cơ quan chức năng về các nội dung sau:
+- a) Trao đổi, cung cấp và công khai thông tin doanh nghiệp;
+- b) Thanh tra, kiểm tra doanh nghiệp;
+- c) Thu hồi giấy chứng nhận đăng ký doanh nghiệp;
+- d) Xử lý doanh nghiệp có hành vi vi phạm quy định về ngành, nghề kinh doanh có điều kiện;
+- đ) Các nội dung khác quy định tại Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn tỉnh, thành phố trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập của địa phương.
+## Điều 18. Trách nhiệm của các cơ quan trong báo cáo về quản lý nhà nước đối với doanh nghiệp
+1. Trong tháng 1 hàng năm, cơ quan chức năng có trách nhiệm báo cáo Ủy ban nhân dân cấp tỉnh tình hình hoạt động sản xuất kinh doanh của doanh nghiệp trong ngành, lĩnh vực thuộc phạm vi quản lý được phân công và tình hình thực hiện phối hợp các nội dung quy định tại Khoản 2 Điều 17 Quy chế này của năm liền trước.
+2. Sở Kế hoạch và Đầu tư là đầu mối tổng hợp tình hình thực hiện nội dung phối hợp quy định tại các Điểm a, c và d Khoản 2 Điều 17 Quy chế này .
+3. Thanh tra tỉnh là đầu mối tổng hợp tình hình thực hiện nội dung phối hợp quy định tại Điểm b Khoản 2 Điều 17 Quy chế này .
+4. Trong tháng 2 hàng năm, Ủy ban nhân dân cấp tỉnh báo cáo Bộ Kế hoạch và Đầu tư tình hình quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập của năm liền trước theo các nội dung quy định tại Điều 17 Quy chế này , đồng thời gửi cho Bộ Tài chính, Bộ Nội vụ.
+# Chương V
+TỔ CHỨC THỰC HIỆN
+## Điều 19. Xây dựng Quy chế phối hợp giữa các cơ quan chức năng trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập
+Sở Kế hoạch và Đầu tư chủ trì phối hợp với Sở Nội vụ, Sở Tài chính, Cục Thuế và các cơ quan chức năng khác xây dựng Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn tỉnh, thành phố trong quản lý doanh nghiệp sau đăng ký thành lập trình Ủy ban nhân dân cấp tỉnh ban hành; theo dõi, tổng hợp tình hình triển khai thực hiện Quy chế.
+## Điều 20. Kinh phí triển khai, thực hiện Quy chế phối hợp
+Kinh phí bảo đảm cho công tác phối hợp giữa các cơ quan chức năng trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập trên địa bàn tỉnh, thành phố được bố trí trong dự toán chi thường xuyên của các cơ quan này.
+## Điều 21. Sửa đổi, bổ sung Quy chế phối hợp mẫu
+Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cá nhân, tổ chức phản ánh kịp thời về Bộ Kế hoạch và Đầu tư hoặc Bộ Tài chính hoặc Bộ Nội vụ để nghiên cứu sửa đổi, bổ sung.\
+KT. BỘ TRƯỞNG BỘ NỘI VỤ THỨ TRƯỞNG (Đã ký) Trần Anh Tuấn KT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG (Đã ký) Đỗ Hoàng Anh Tuấn KT. BỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ THỨ TRƯỞNG (Đã ký) Đặng Huy Đông
+KT. BỘ TRƯỞNG BỘ NỘI VỤ THỨ TRƯỞNG (Đã ký) Trần Anh Tuấn
+KT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG (Đã ký) Đỗ Hoàng Anh Tuấn
+KT. BỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ THỨ TRƯỞNG (Đã ký) Đặng Huy Đông
