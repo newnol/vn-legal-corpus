@@ -1,0 +1,42 @@
+---
+id: "177126"
+identifier: "vbpl-177126"
+title: "Văn bản hợp nhất số 462/VBHN-BLĐTBXH Hướng dẫn quản lý lao động, tiền lương, thù lao, tiền thưởng đối vói Bảo hiểm tiền gửi Việt Nam"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "462/VBHN-BLĐTBXH"
+doc_type: "Văn bản hợp nhất"
+rank: "van-ban-hop-nhat"
+issue_date: "2025-02-10"
+effective_date: "2025-02-10"
+expiry_date: null
+public_date: null
+updated_date: "2026-01-19"
+status: "Publish"
+effective_status: "Chưa xác định"
+agency_name: "Bộ Lao động - Thương binh và Xã hội"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "9e185be0_e2dd_4dba_b1b6_caa035e1f5f3_462.signed.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: true
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/177126"
+signers:
+  - "Lê Văn Thanh"
+job_titles:
+  - "Thứ trưởng"
+---
+
+# Văn bản hợp nhất số 462/VBHN-BLĐTBXH Hướng dẫn quản lý lao động, tiền lương, thù lao, tiền thưởng đối vói Bảo hiểm tiền gửi Việt Nam
+
+> Chưa có HTML content trong API cho văn bản này. Kiểm tra `content_file_name` để tải PDF gốc ở phase sau.
