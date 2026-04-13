@@ -1,0 +1,240 @@
+---
+id: "137809"
+identifier: "vbpl-137809"
+title: "Quyết định số 25/2019/QĐ-UBND (VĂN BẢN NHÁP) Về việc quy định hạn mức giao đất ở, công nhận đất ở, giao đất trống, 
+đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng; diện tích đất tối thiểu được phép tách thửa đất; định mức đất sử dụng trong nghĩa trang, nghĩa địa trên địa bàn tỉnh Sơn La"
+country: "vn"
+jurisdiction: "vn-29-son-la"
+jurisdiction_name: "Sơn La"
+scope: "Địa phương"
+doc_num: "25/2019/QĐ-UBND (VĂN BẢN NHÁP)"
+doc_type: "Quyết định"
+rank: "quyet-dinh"
+issue_date: "2019-07-15"
+effective_date: null
+expiry_date: null
+public_date: null
+updated_date: "2026-04-09"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "UBND Tỉnh Sơn La"
+organization_name: "Sơn La"
+organization_type: "1"
+agency_level: "DIA_PHUONG"
+jurisdiction_code: "29"
+language: "vi"
+updated_by: "NCC1.RV150"
+content_file_name: "Template.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 27
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/137809"
+signers:
+  - "Hoàng Quốc Khánh"
+job_titles:
+  - "Chủ tịch"
+---
+
+# Quyết định số 25/2019/QĐ-UBND (VĂN BẢN NHÁP) Về việc quy định hạn mức giao đất ở, công nhận đất ở, giao đất trống, 
+đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng; diện tích đất tối thiểu được phép tách thửa đất; định mức đất sử dụng trong nghĩa trang, nghĩa địa trên địa bàn tỉnh Sơn La
+
+ỦY BAN NHÂN DÂN TỈNH SƠN LA
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+Số: 25/2019/QĐ-UBND (VĂN BẢN NHÁP)
+Sơn La, ngày 15 tháng 7 năm 2019
+QUYẾT ĐỊNH
+Về việc quy định hạn mức giao đất ở, công nhận đất ở, giao đất trống,
+đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng; diện tích đất tối thiểu được phép tách thửa đất; định mức đất sử dụng trong nghĩa trang, nghĩa địa trên địa bàn tỉnh Sơn La
+_____________________
+ỦY BAN NHÂN DÂN TỈNH SƠN LA
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;
+Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013;
+Căn cứ Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ quy định chi tiết một số điều của Luật Đất đai;
+Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành luật ban hành văn bản quy phạm pháp luật;
+Căn cứ Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định chi tiết thi hành Luật Đất đai;
+Căn cứ Thông tư số 02/2015/TT-BTNMT ngày 27 tháng 11 năm 2015 của Bộ Tài nguyên và Môi trường quy định chi tiết một số điều của Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2015 và Nghị định số 44/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ;
+Căn cứ Thông tư số 33/2017/TT-BTNMT ngày 29 tháng 9 năm 2017 của Bộ Tài nguyên và Môi trường quy định chi tiết nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ về sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành luật đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành luật đất đai;
+Theo đề nghị của Sở Tài nguyên và Môi trường tại Tờ trình số 470/TTr-STNMT ngày 10 tháng 7 năm 2019.
+QUYẾT ĐỊNH:
+## Điều 1. Ban hành kèm theo Quyết định này quy định hạn mức giao đất ở, công nhận đất ở, giao đất trống, đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng; diện tích đất tối thiểu được phép tách thửa đất; định mức đất sử dụng trong nghĩa trang, nghĩa địa trên địa bàn tỉnh Sơn La.
+## Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 8 năm 2019 và thay thế Quyết định số 14/2014/QĐ-UBND ngày 11 tháng 8 năm 2014 của UBND tỉnh Sơn La về việc quy định cụ thể một số điều của Luật Đất đai năm 2013 và Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ quy định chi tiết một số Điều của Luật Đất đai; Quyết định số 02/2017/QĐ-UBND ngày 03 tháng 01 năm 2017 của UBND tỉnh Sơn La về việc sửa đổi, bổ sung một số điều tại quy định ban hành kèm theo Quyết định số 14/2014/QĐ-UBND ngày 11 tháng 8 năm 2014 của UBND tỉnh Sơn La; Quyết định số 1037/QĐ-UBND ngày 28 tháng 4 năm 2017 của UBND tỉnh về việc đính chính khoản dẫn chiếu tại Điều 1 Quyết định số 02/2017/QĐ-UBND ngày 03 tháng 01 năm 2017 của UBND tỉnh.
+## Điều 3. Chánh Văn phòng UBND tỉnh; Giám đốc các sở, ban, ngành của tỉnh; Chủ tịch UBND các huyện, thành phố; Thủ trưởng các đơn vị, tổ chức và các hộ gia đình, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+TM. ỦY BAN NHÂN DÂN CHỦ TỊCH (Đã ký) Hoàng Quốc Khánh
+TM. ỦY BAN NHÂN DÂN CHỦ TỊCH
+(Đã ký)
+Hoàng Quốc Khánh
+QUY ĐỊNH
+Hạn mức giao đất ở, công nhận đất ở, giao đất trống, đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng; diện tích đất tối thiểu được phép tách thửa đất; định mức đất sử dụng trong nghĩa trang, nghĩa địa trên địa bàn tỉnh Sơn La
+(Kèm theo Quyết định số 25/201 9 /QĐ-UBND ngày 18/7/201 9 của UBND tỉnh)
+__________________________
+# Chương I
+NHỮNG QUY ĐỊNH CHUNG
+## Điều 1. Phạm vi điều chỉnh
+1. Phạm vi điều chỉnh
+1.1. Hạn mức giao đất ở cho hộ gia đình, cá nhân khi được cơ quan có thẩm quyền giao đất không thông qua hình thức đấu giá quyền sử dụng đất cho hộ gia đình, cá nhân.
+1.2. Hạn mức công nhận đất ở trong trường hợp thửa đất có vườn, ao khi được cơ quan có thẩm quyền công nhận quyền sử dụng đất thông qua việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất (sau đây gọi tắt là Giấy chứng nhận) ; xác định lại diện tích đất ở với trường hợp hộ gia đình, cá nhân sử dụng đất ở có vườn, ao trong cùng một thửa đất đã được cấp Giấy chứng nhận nay có nhu cầu xác định lại diện tích đất ở, hoặc cấp đổi Giấy chứng nhận sau khi đã đo đạc lập bản đồ địa chính.
+1.3. Hạn mức giao đất trống, đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng cho hộ gia đình, cá nhân khi được cơ quan có thẩm quyền giao để sử dụng vào sản xuất nông nghiệp, lâm nghiệp hoặc xác định lại diện tích đất trống, đồi núi trọc cho hộ gia đình, cá nhân đã được cấp Giấy chứng nhận.
+1.4. Diện tích đất tối thiểu được tách thửa đối với đất ở, đất nông nghiệp và đất phi nông nghiệp không phải là đất ở trong trường hợp hộ gia đình, cá nhân thực hiện việc tách thửa.
+1.5. Quy định về định mức đất và chế độ quản lý việc xây dựng phần mộ, tượng đài, bia tưởng niệm trong nghĩa trang, nghĩa địa.
+2. Các nội dung không quy định tại Quyết định này thì được thực hiện theo quy định tại Luật Đất đai và các văn bản hướng dẫn thi hành.
+## Điều 2. Đối tượng áp dụng
+1. Cơ quan thực hiện chức năng quản lý nhà nước về đất đai, cơ quan thực thi pháp luật đất đai.
+2. Người sử dụng đất theo quy định tại Điều 5 Luật Đất đai có nhu cầu sử dụng đất làm nhà ở, đất sản xuất; sử dụng đất xây dựng phần mộ, tượng đài, bia tưởng niệm trong nghĩa trang, nghĩa địa; có nhu cầu tách thửa đối với đất ở, đất nông nghiệp, đất phi nông nghiệp không phải đất ở trên địa bàn tỉnh Sơn La.
+3. Tổ chức, hộ gia đình, cá nhân khác có liên quan đến sử dụng đất ở, đất trống, đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng, tách thửa đối với đất ở, đất nông nghiệp, đất phi nông nghiệp không phải đất ở; tổ chức, cá nhân khác có liên quan đến quản lý các nghĩa trang, nghĩa địa.
+## Điều 3. Giải thích từ ngữ
+Các từ, cụm từ sau đây sử dụng trong Quy định này được hiểu như sau:
+1. Đất vườn, ao trong cùng thửa đất có nhà ở trong khu dân cư nhưng không được công nhận là đất ở là đất nằm trong cùng thửa đất có nhà ở, trong phạm vi khu dân cư đã được xác định ranh giới theo quy hoạch được cơ quan có thẩm quyền xét duyệt và phần diện tích được xác định là đất vườn, ao (không được công nhận là đất ở) theo quy định của pháp luật đất đai.
+2. Đất nông nghiệp xen kẽ trong khu dân cư là đất sử dụng vào mục đích sản xuất nông nghiệp nằm trong phạm vi khu dân cư đã được xác định ranh giới theo quy hoạch được cơ quan có thẩm quyền xét duyệt đồng thời là diện tích đất được xác định là đất nông nghiệp theo quy định của pháp luật đất đai.
+3. Cơ quan có thẩm quyền là cơ quan Nhà nước được pháp luật quy định có chức năng, nhiệm vụ giải quyết và quyết định trong lĩnh vực đất đai theo quy định của pháp luật.
+4. Hạn mức giao đất ở là mức diện tích đất tối thiểu hoặc tối đa được quy định để cơ quan Nhà nước có thẩm quyền giao cho hộ gia đình, cá nhân làm nhà ở.
+5. Hạn mức công nhận diện tích đất ở là mức diện tích tối đa được quy định khi Nhà nước công nhận diện tích đất cho hộ gia đình, cá nhân đang sử dụng là đất ở.
+6. Chiều rộng của thửa đất: Là chiều rộng của cạnh thửa đất song song với đường giao thông.
+7. Chiều sâu của thửa đất: Là cạnh của thửa đất vuông góc với cạnh chiều rộng thửa đất, tính từ chỉ giới giao thông hoặc chỉ giới quy hoạch giao thông vào phía trong thửa đất.
+# Chương II
+QUY ĐỊNH CỤ THỂ
+## Mục 1
+HẠN MỨC GIAO ĐẤT Ở, HẠN MỨC CÔNG NHẬN ĐẤT Ở,
+HẠN MỨC GIAO ĐẤT TRỐNG, ĐỒI NÚI TRỌC, ĐẤT CÓ
+MẶT NƯỚC THUỘC NHÓM ĐẤT CHƯA SỬ DỤNG
+## Điều 4. Hạn mức giao đất ở tại khu vực đô thị (Khoản 4, Điều 144 Luật Đất đai)
+1. Các vị trí giáp đường giao thông từ 13 m trở lên tính từ chỉ giới giao thông hoặc chỉ giới quy hoạch giao thông (đường đỏ) vào phía trong thửa đất.
+Diện tích đất giao từ 50 m 2 đến 150 m 2 /hộ, chiều rộng của thửa đất theo mặt đường chính tối thiểu là 04 m, chiều sâu của thửa đất tối thiểu là 05 m.
+2. Các vị trí còn lại
+Diện tích đất từ 60 m 2 đến 200 m 2 /hộ, chiều rộng của thửa đất theo mặt đường chính tối thiểu là 04 m, chiều sâu của thửa đất tối thiểu là 05 m.
+3. Đối với khu dân cư mới đã có quy hoạch chi tiết tỷ lệ 1/500 được cơ quan có thẩm quyền phê duyệt thì diện tích đất ở được xác định theo diện tích đã quy hoạch.
+## Điều 5. Hạn mức giao đất ở tại khu vực nông thôn (Khoản 2, Điều 143 Luật Đất đai)
+1. Đối với khu vực quy hoạch thị trấn, trung tâm cụm xã, trung tâm xã theo quy hoạch được duyệt
+1.1. Từ 60 m 2 đến 200 m 2 /hộ đối với các vị trí giáp đường trục chính tính từ chỉ giới giao thông hoặc chỉ giới quy hoạch giao thông (đường đỏ) , chiều rộng của thửa đất theo mặt đường chính tối thiểu là 04 m, chiều sâu của thửa đất tối thiểu là 05 m.
+1.2. Từ 60 m 2 đến 250 m 2 /hộ cho các vị trí còn lại, chiều rộng của thửa đất theo mặt đường chính tối thiểu là 04 m, chiều sâu của thửa đất tối thiểu là 05 m.
+2. Khu vực còn lại
+2.1. Vị trí giáp đường giao thông là quốc lộ, tỉnh lộ: Từ 60 m 2 đến không quá 300 m 2 /hộ, chiều rộng của thửa đất theo mặt đường tối thiểu là 04 m, chiều sâu của thửa đất tối thiểu là 05 m.
+2.2. Các khu vực còn lại khác từ 60 m 2 đến không quá 400 m 2 /hộ, chiều rộng của thửa đất theo mặt đường tối thiểu là 04 m, chiều sâu của thửa đất tối thiểu là 05 m.
+3. Đối với khu dân cư mới đã có quy hoạch chi tiết tỷ lệ 1/500 được cơ quan có thẩm quyền phê duyệt thì diện tích đất ở được giao theo diện tích đất đã quy hoạch.
+## Điều 6. Hạn mức công nhận đất ở trong trường hợp thửa đất có vườn, ao được sử dụng từ ngày 18 tháng 12 năm 1980 đến trước ngày 01 tháng 7 năm 2004 (Điểm a, K hoản 4, Điều 103 Luật Đất đai)
+1. Hạn mức công nhận đất ở trong trường hợp thửa đất có vườn, ao được sử dụng từ ngày 18 tháng 12 năm 1980 đến trước ngày 15 tháng 10 năm 1993.
+1.1. Trường hợp người đang sử dụng đất có một trong các loại giấy tờ về quyền sử dụng đất quy định tại các Khoản 1, Khoản 2 Điều 100 Luật Đất đai, Điều 18 Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ, Khoản 16 Điều 2 Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ mà trong giấy tờ đó không ghi rõ diện tích đất ở, thì diện tích đất ở được xác định như sau:
+- a) Khu vực đô thị
+Bằng một phẩy năm (1,5) lần với hộ dưới 05 khẩu; bằng hai (02) lần với hộ có từ 05 khẩu trở lên so với hạn mức giao đất ở quy định tại Điều 4 Quy định này.
+- b) Khu vực nông thôn
+Bằng một phẩy năm (1,5) lần đối với hộ dưới 05 khẩu; bằng hai (02) lần đối với hộ có từ 05 khẩu trở lên so với hạn mức giao đất ở quy định tại Điều 5 Quy định này.
+- c) Số khẩu được quy định để xác định hạn mức công nhận đất ở phải là khẩu có tên trong sổ hộ khẩu và hiện đang cùng chung sống trên thửa đất xin công nhận hạn mức đất ở.
+1.2. Trường hợp người sử dụng đất không có giấy tờ về quyền sử dụng đất quy định tại các Khoản 1, Khoản 2 Điều 100 Luật Đất đai, Điều 18 Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ và Khoản 16 Điều 2 Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ thì hạn mức đất ở được xác định như sau:
+- a) Khu vực đô thị: Mức công nhận theo quy định tại các Khoản 1, Khoản 2 Điều 4 Quy định này.
+- b) Khu vực nông thôn: Mức công nhận theo quy định tại các Khoản 1, Khoản 2 Điều 5 Quy định này.
+2. Hạn mức công nhận đất ở trong trường hợp thửa đất có vườn, ao được sử dụng từ ngày 15 tháng 10 năm 1993 đến trước ngày 01 tháng 7 năm 2004
+Hộ gia đình, cá nhân đang sử dụng đất ở có vườn, ao trong cùng một thửa đất có nhà ở thuộc khu dân cư từ ngày 15 tháng 10 năm 1993 đến trước ngày 01 tháng 7 năm 2004, có một trong các loại giấy tờ về quyền sử dụng đất quy định tại các Khoản 1, Khoản 2 Điều 100 Luật Đất đai, Điều 18 Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ và Khoản 16 Điều 2 Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ mà trong giấy tờ đó không ghi rõ diện tích đất ở hoặc không có giấy tờ về quyền sử dụng đất quy định tại các Khoản 1, Khoản 2, Điều 100 Luật Đất đai, Điều 18 Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ và Khoản 16, Điều 2 Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ thì hạn mức đất ở được xác định như sau:
+2.1. Khu vực đô thị mức công nhận theo quy định tại các Khoản 1, Khoản 2 Điều 4 Quy định này.
+2.2. Khu vực nông thôn mức công nhận theo quy định tại các Khoản 1, Khoản 2 Điều 5 Quy định này.
+Điều 7 . Hạn mức giao đất trống, đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng cho hộ gia đình, cá nhân đưa vào sử dụng theo quy hoạch để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản (Khoản 5, Điều 129 Luật Đất đai)
+1. Hạn mức giao đất trống, đồi núi trọc, đất có mặt nước cho mỗi hộ gia đình, cá nhân sử dụng vào mục đích sản xuất nông, lâm nghiệp theo quy hoạch đã được cơ quan nhà nước có thẩm quyền phê duyệt, như sau:
+1.1. Đối với đất trồng cây hàng năm, đất nuôi trồng thuỷ sản tối đa là 02 ha;
+1.2. Đối với đất trồng cây lâu năm tại khu vực đô thị tối đa là 10 ha; các khu vực khác còn lại tối đa là 30 ha;
+1.3. Đối với đất rừng sản xuất, rừng phòng hộ tối đa là 30 ha.
+2. Hạn mức giao đất trống, đồi núi trọc, đất có mặt nước thuộc nhóm đất chưa sử dụng cho hộ gia đình, cá nhân đưa vào sử dụng theo quy hoạch để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản và không tính vào hạn mức giao đất nông nghiệp cho hộ gia đình, cá nhân quy định tại các Khoản 1, Khoản 2 và Khoản 3 Điều 129 Luật Đất đai.
+## Điều 8. Hạn mức công nhận đối với đất nông nghiệp do hộ gia đình, cá nhân tự khai hoang (Khoản 4, Điều 22 Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ)
+1. Hạn mức công nhận đối với đất nông nghiệp do hộ gia đình, cá nhân tự khai hoang bằng hạn mức giao đất nông nghiệp được quy định tại Điều 129 Luật Đất đai.
+2. Trường hợp hộ gia đình, cá nhân đã được giao đất nông nghiệp đủ hạn mức theo quy định tại Điều 129 Luật Đất đai thì vẫn được Nhà nước công nhận đối với đất nông nghiệp do hộ gia đình, cá nhân tự khai hoang trong hạn mức quy định tại Khoản 1 Điều này.
+## Điều 9. Xử lý một số trường hợp cụ thể
+1. Trường hợp thửa đất ở có vườn, ao mà đất vườn tại vị trí xin công nhận đất ở có độ dốc lớn (trên 30 0 ) thì phần diện tích đất vườn này không được công nhận là đất ở.
+2. Trường hợp thửa đất đủ điều kiện cấp Giấy chứng nhận nhưng chưa được cấp Giấy chứng nhận, Nhà nước đã có thông báo thu hồi đất hoặc đang thực hiện thu hồi đất và bồi thường thì Phòng Tài nguyên và Môi trường chủ trì, phối hợp cùng các cơ quan liên quan lập hồ sơ xác nhận đủ điều kiện cấp Giấy chứng nhận để làm cơ sở tính bồi thường mà không cần phải cấp Giấy chứng nhận.
+3. Hộ gia đình, cá nhân đã được cấp Giấy chứng nhận đất ở, đất vườn, ao trong cùng một thửa đất, khi thực hiện quy hoạch, Nhà nước thu hồi đất mà thửa đất bị chia làm 02 phần. Nay cấp lại Giấy chứng nhận, trong điều kiện quỹ đất cho phép thì phần đất ở được dồn về một phía có diện tích lớn hơn (diện tích và kích thước cạnh thửa đất xin cấp đổi Giấy chứng nhận phải lớn hơn hoặc bằng diện tích, kích thước tối thiểu theo quy định Điểm 1.1, Điểm 1.2 Khoản 1 Điều 11 Quy định này) . Phần diện tích đất phía còn lại xác định là đất nông nghiệp để thuận tiện cho người sử dụng đất.
+4. Diện tích đất vườn, ao của hộ gia đình, cá nhân đã chuyển mục đích sử dụng đất sang làm đất ở hoặc đã chuyển quyền sử dụng đất cho người khác làm đất ở mà đã nộp tiền sử dụng đất trước khi xét công nhận hạn mức đất ở trong trường hợp thửa đất có vườn, ao thì không phải tính vào hạn mức công nhận đất ở quy định tại Điều 6 Quy định này.
+5. Trường hợp hộ gia đình, cá nhân đã được cấp Giấy chứng nhận là đất ở và đã xây dựng nhà ở trên diện tích đất đó hoặc hộ gia đình có một trong các giấy tờ về quyền sử dụng đất theo quy định tại Điều 100 Luật Đất đai và Điều 18 Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ và Khoản 16 Điều 2 Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ và Điều 15 Thông tư số 02/2015/TT-BTNMT ngày 27 tháng 01 năm 2015 của Bộ Tài nguyên và Môi trường có đủ điều kiện cấp Giấy chứng nhận nhưng chưa được cấp Giấy chứng nhận, nay Nhà nước thu hồi theo quy hoạch mà phần đất còn lại của hộ gia đình, cá nhân đó có nhà ở kiên cố (khi thu hồi không ảnh hưởng đến công trình nhà ở) , nhỏ hơn diện tích và kích thước các cạnh tối thiểu theo quy định tại Điểm 1.1, Điểm 1.2, Khoản 1, Điều 11 Quy định này, nhưng hộ gia đình, cá nhân có nhu cầu xin được tái định cư tại chỗ hoặc xin hợp thửa do nhận chuyển nhượng quyền sử dụng đất ở của hộ liền kề, thì hộ gia đình, cá nhân đó được phép cấp đổi, cấp mới Giấy chứng nhận theo diện tích đất ở còn lại hoặc cấp đổi, cấp mới và hợp thửa với thửa đất ở nhận chuyển nhượng của hộ liền kề để tạo thành một (01) thửa đất ở.
+6. Đối với thửa đất đã được cấp Giấy chứng nhận, hộ gia đình, cá nhân sử dụng ổn định, đúng mục đích từ khi cấp Giấy chứng nhận đến nay, nhưng nhỏ hơn diện tích tối thiểu quy định tại Điểm 1.1, Điểm 1.2, Khoản 1, Điều 11 Quy định này thì tiếp tục được sử dụng và được thực hiện các quyền của người sử dụng đất theo quy định nhưng không được tách thửa.
+## Mục 2
+DIỆN TÍCH TỐI THIỂU ĐƯỢC PHÉP TÁCH THỬA
+## Điều 10. Điều kiện được tách thửa và không được tách thửa
+1. Điều kiện thửa đất được phép tách thửa
+1.1. Thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.
+1.2. Việc tách thửa đất phải đảm bảo quyền sử dụng hạn chế đối với thửa đất liền kề theo quy định tại Điều 171 Luật Đất đai.
+1.3. Thửa đất mới hình thành và thửa đất còn lại sau khi tách thửa, hợp thửa, điều chỉnh ranh giới giữa các thửa đất phải đảm bảo không nhỏ hơn diện tích tối thiểu theo quy định tại Điều 11 Quy định này.
+2. Những trường hợp không được tách thửa
+2.1. Khu vực bảo tồn đã được cơ quan nhà nước có thẩm quyền phê duyệt danh mục phải bảo tồn theo quy định pháp luật.
+2.2. Khu vực có quy hoạch chi tiết tỷ lệ 1/500 được duyệt. Trừ trường hợp quy hoạch này được cơ quan Nhà nước có thẩm quyền điều chỉnh, thì việc tách thửa phải đảm bảo đúng theo quy hoạch đã điều chỉnh.
+2.3. Đất thuộc khu vực đã có thông báo thu hồi đất hoặc quyết định thu hồi đất của cơ quan Nhà nước có thẩm quyền.
+## Điều 11. Diện tích tối thiểu được phép tách thửa đối với các loại đất (Khoản 2, Điều 29 Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ và Khoản 31, Điều 2 Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ)
+1. Đối đất ở
+1.1. Khu vực đô thị (phường, thị trấn) : Diện tích đất ở sau khi tách thửa tối thiểu là 35 m 2 , chiều rộng của thửa đất theo mặt đường giao thông chính tối thiểu là 3,5 m, chiều sâu của thửa đất tối thiểu là 04 m.
+1.2. Khu vực nông thôn:
+- a) Khu vực trung tâm cụm xã, trung tâm xã, khu vực giáp ranh với đô thị, thửa đất giáp đường giao thông có chiều rộng từ 13 m trở lên: Diện tích đất ở sau khi tách thửa tối thiểu là 50 m 2 , chiều rộng của thửa đất theo mặt đường giao thông tối thiểu là 04 m, chiều sâu của thửa đất tối thiểu là 05 m.
+- b) Các khu vực còn lại: Diện tích đất ở sau khi tách thửa tối thiểu là 60 m 2 , chiều rộng của thửa đất theo mặt đường chính tối thiểu là 05 m, chiều sâu của thửa đất tối thiểu là 06 m.
+1.3. Thửa đất còn lại sau khi tách thửa thuộc khu vực đô thị và nông thôn phải đảm bảo các điều kiện về diện tích, kích thước cạnh như quy định tại Điểm 1.1, Điểm 1.2 Khoản 1 Điều này.
+1.4. Trường hợp thừa kế, tặng, cho quyền sử dụng đất
+Nếu thửa đất khi phân chia tài sản cho những người thừa kế, tặng, cho quyền sử dụng đất mà có diện tích đất nhỏ hơn diện tích tối thiểu theo quy định tại Điểm 1.1, Điểm 1.2, Khoản 1 Điều này thì không làm thủ tục chia tách thửa đất mà chỉ cấp đổi lại Giấy chứng nhận cho một người được đứng tên thừa kế, tặng, cho quyền sử dụng đất theo thoả thuận của những người thừa kế, tặng, cho quyền sử dụng đất để đảm bảo diện tích thửa đất cấp Giấy chứng nhận không nhỏ hơn diện tích tối thiểu.
+1.5. Trường hợp phân chia tài sản theo quyết định của toà án
+Nếu thửa đất có nhiều người sử dụng, khi phân chia tài sản mà có diện tích nhỏ hơn diện tích đất tối thiểu theo quy định tại Điểm 1.1, Điểm 1.2, Khoản 1 Điều này thì không làm thủ tục chia tách thửa đất mà thực hiện phân chia tài sản theo hình thức định giá tài sản để phân chia theo quyết định của Toà án.
+2. Đối với đất nông nghiệp
+2.1. Đối với đất nông nghiệp trong khu dân cư
+- a) Đối với đất nông nghiệp là đất vườn, ao gắn liền với đất ở
+Người sử dụng đất xin tách thửa đất vườn gắn liền với đất ở để làm đất ở thì phải làm thủ tục chuyển mục đích sử dụng đất trước khi tách thửa hoặc đồng thời với thủ tục tách thửa. Diện tích và kích thước thửa đất xin tách thửa và thửa đất còn lại phải không nhỏ hơn diện tích và kích thước thửa đất tối thiểu quy định tại Điểm 1.1, Điểm 1.2, Khoản 1 Điều này. Đối với khu vực đã có quy hoạch chi tiết thì việc tách thửa phải phù hợp với quy hoạch chi tiết được phê duyệt.
+- b) Đối với đất nông nghiệp tách thửa để chuyển mục đích sử dụng sang đất ở
+Đối với thửa đất nông nghiệp nằm trong quy hoạch khu dân cư (không phải là đất nông nghiệp trong cùng thửa đất ở) , đã được cơ quan có thẩm quyền phê duyệt, phù hợp với quy hoạch đất ở; người sử dụng đất xin tách thửa để làm đất ở phải làm thủ tục chuyển mục đích trước khi tách thửa hoặc đồng thời với việc chuyển mục đích sang đất ở; diện tích tối thiểu của thửa đất sau khi tách thửa là 35 m 2 đối với khu vực đô thị (phường, thị trấn) ; 50 m 2 đối với khu vực trung tâm xã, trung tâm cụm xã, khu vực nằm trong quy hoạch phát triển đô thị đã được phê duyệt; 60 m 2 đối với các khu vực còn lại.
+Thửa đất sau khi được tách ra và thửa đất còn lại phải không nhỏ hơn diện tích, kích thước tối thiểu quy định tại Điểm 1.1, Điểm 1.2, Khoản 1 Điều này. Đối với khu vực đã có quy hoạch chi tiết thì việc tách thửa phải phù hợp với quy hoạch chi tiết được phê duyệt.
+2.2. Đối với thửa đất nông nghiệp nằm ngoài khu dân cư:
+STT Danh mục Diện tích tối thiểu của thửa đất còn lại sau khi tách thửa và thửa đất mới được hình thành
+STT
+Danh mục
+Diện tích tối thiểu của thửa đất còn lại sau khi tách thửa và thửa đất mới được hình thành
+Đất trồng cây hàng năm, đất nông nghiệp khác (m 2 ) Đất nuôi trồng thuỷ sản (m 2 ) Đất trồng cây lâu năm (m 2 ) Đất trồng rừng sản xuất (m 2 )
+Đất trồng cây hàng năm, đất nông nghiệp khác (m 2 )
+Đất nuôi trồng thuỷ sản (m 2 )
+Đất trồng cây lâu năm (m 2 )
+Đất trồng rừng sản xuất (m 2 )
+1 Khu vực đô thị (phường, thị trấn) và khu vực nằm trong quy hoạch mở rộng, phát triển đô thị đã được cơ quan nhà nước có thẩm quyền phê duyệt 1.000 200 2.000 10.000
+1
+Khu vực đô thị (phường, thị trấn) và khu vực nằm trong quy hoạch mở rộng, phát triển đô thị đã được cơ quan nhà nước có thẩm quyền phê duyệt
+1.000
+200
+2.000
+10.000
+2 Khu vực nông thôn 2.000 300 5.000 30.000
+2
+Khu vực nông thôn
+2.000
+300
+5.000
+30.000
+3. Đối với đất phi nông nghiệp không phải là đất ở
+3.1. Đối với đất phi nông nghiệp không phải là đất ở: Diện tích đất tối thiểu được phép tách thửa phải theo dự án đầu tư đã được cơ quan có thẩm quyền phê duyệt đối với tổ chức; phương án sử dụng đất đã được cơ quan có thẩm quyền phê duyệt đối với hộ gia đình, cá nhân, phải phù hợp với quy hoạch được phê duyệt.
+3.2. Đối với đất nông nghiệp tách thửa để chuyển mục đích sang đất phi nông nghiệp không phải là đất ở: Diện tích đất được phép tách thửa theo quy định tại Điểm 3.1, Khoản 3 Điều này.
+4. Các thửa đất sau khi tách thửa, hợp thửa theo quy định tại Khoản 1, Khoản 2, Khoản 3 Điều này phải đảm bảo có đường vào thửa đất mới được tách thửa, hợp thửa theo quy định.
+## Điều 12. Xử lý một số trường hợp cụ thể
+1. Thửa đất đang sử dụng được hình thành trước ngày Quyết định này có hiệu lực thi hành mà diện tích thửa đất nhỏ hơn diện tích tối thiểu theo quy định tại Quyết định này nhưng có đủ điều kiện cấp Giấy chứng nhận thì người đang sử dụng đất được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.
+2. Trường hợp diện tích đất đã xây dựng nhà ở và các công trình phục vụ đời sống lớn hơn diện tích đất xin chuyển mục đích thì người sử dụng đất phải chuyển mục đích sử dụng đất theo diện tích đất thực tế đã xây dựng.
+## Mục 3
+ĐỊNH MỨC ĐẤT SỬ DỤNG TRONG NGHĨA TRANG, NGHĨA ĐỊA
+## Điều 13. Quy định về định mức đất và chế độ quản lý việc xây dựng phần mộ, tượng đài, bia tưởng niệm trong nghĩa trang, nghĩa địa (Khoản 2, Điều 162 Luật Đất đai)
+1. Việc xây dựng nghĩa trang, nghĩa địa phải căn cứ theo quy hoạch, kế hoạch sử dụng đất, quy hoạch chi tiết xây dựng nghĩa trang, nghĩa địa được cấp có thẩm quyền phê duyệt. Nhà nước khuyến khích việc an táng không sử dụng đất. Căn cứ vào phong tục tập quán và tình hình thực tế của từng khu vực mỗi nghĩa trang, nghĩa địa có thể gồm các hạng mục công trình sau: Tượng đài, bia tưởng niệm, phần đất để an táng, cát táng.
+2. Diện tích mỗi phần mộ, huyệt mộ trong phần đất để an táng theo quy hoạch được phê duyệt (không tính diện tích đường đi xung quanh mộ) thực hiện theo quy định tại Khoản 4, Điều 8 quy định kèm theo Quyết định số 17/2018/QĐ-UBND ngày 02 tháng 7 năm 2018 của UBND tỉnh về quản lý nghĩa trang và cơ sở hỏa táng trên địa bàn tỉnh Sơn La.
+3. Diện tích đất xây dựng tượng đài, bia tưởng niệm theo quy hoạch chi tiết được cơ quan có thẩm quyền phê duyệt.
+# Chương III
+ĐIỀU KHOẢN THI HÀNH
+## Điều 14. Xử lý các trường hợp đang thực hiện thủ tục về đất đai trước ngày 01 tháng 7 năm 2014
+1. Đối với các hồ sơ đề nghị cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, hồ sơ đề nghị công nhận đất vườn, ao là đất ở; đề nghị xác định lại nguồn gốc sử dụng đất để xác định lại đất vườn, ao là đất ở mà đã được các cơ quan Nhà nước có thẩm quyền xác định theo quy định của pháp luật về đất đai năm 2003, trước ngày 01 tháng 7 năm 2014 (ngày Luật Đất đai có hiệu lực thi hành) , thì thực hiện theo kết quả đã xác định để công nhận đất ở cho người sử dụng đất.
+Trường hợp người sử dụng đất đã nộp hồ sơ đề nghị cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; hồ sơ đề nghị công nhận đất vườn, ao là đất ở; hồ sơ đề nghị xác định lại nguồn gốc đất để xác định lại đất vườn, ao là đất ở hợp lệ, nhưng chưa được cơ quan Nhà nước có thẩm quyền giải quyết theo quy định của pháp luật trước ngày Quyết định này có hiệu lực thi hành thì áp dụng hạn mức công nhận đất ở theo Quyết định này;
+2. Đối với các hồ sơ đề nghị tách thửa đất ở đã được các cơ quan Nhà nước có thẩm quyền làm thủ tục tách thửa, tách thửa đồng thời với hợp thửa theo quy định của pháp luật về đất đai năm 2003, trước ngày 01 tháng 7 năm 2014 thì không áp dụng hoặc điều chỉnh theo Quy định này.
+Các trường hợp đã nhận hồ sơ nhưng đến ngày 01 tháng 7 năm 2014 chưa thực hiện việc tách thửa, tách thửa đồng thời với hợp thửa thì thực hiện việc tách thửa, hợp thửa theo quy định của Luật Đất đai năm 2013 và Quy định này.
+## Điều 15. Tổ chức thực hiện
+1. Sở Tài nguyên và Môi trường
+1.1. Tổ chức triển khai; phối hợp với các sở, ngành có liên quan hướng dẫn chuyên môn, nghiệp vụ cho Phòng Tài nguyên và Môi trường các huyện, thành phố; các tổ chức, cá nhân trên địa bàn tỉnh thực hiện Quy định này.
+1.2. Tổ chức thanh tra, kiểm tra việc chấp hành các quy định tại Quy định này; tổng hợp, báo cáo, tham mưu cho UBND tỉnh xử lý, giải quyết các vướng mắc (nếu có) trong quá trình thực hiện;
+2. Các sở, ngành có liên quan
+2.1. Trong phạm vi chức năng, nhiệm vụ được giao, hướng dẫn, kiểm tra, và triển khai thực hiện Quy định này .
+2.2. Phối hợp chặt chẽ với cơ quan Tài nguyên và Môi trường trong việc thanh tra, kiểm tra, hướng dẫn và triển khai thực hiện Quy định này.
+3. Ủy ban nhân dân các cấp (cấp huyện, cấp xã) :
+3.1. Tổ chức tuyên truyền, triển khai thực hiện quy định này tại địa phương;
+3.2. Kiểm tra, giám sát việc thực hiện theo Quy định này;
+3.3. Chỉ đạo cơ quan chuyên môn phối hợp với các cơ quan có liên quan thực hiện quản lý theo Quy định này;
+3.4. Kiểm tra, xử lý nghiêm các trường hợp vi phạm Quy định này và các quy định của pháp luật đất đai;
+3.5. Giải quyết khiếu nại, tố cáo theo thẩm quyền trong việc quản lý, sử dụng đất có liên quan đến các quy định tại Quy định này; giải quyết các vướng mắc trong quá trình thực hiện; xử lý hoặc kiến nghị xử lý những vấn đề phát sinh trong thực hiện Quy định này theo thẩm quyền.
+4. Người sử dụng đất:
+Có trách nhiệm chấp hành nghiêm các quy định của Quy định này. Mọi trường hợp vi phạm sẽ bị xử lý theo quy định của pháp luật. Phản ánh kịp thời đến các cơ quan có thẩm quyền những vướng mắc, bất cập trong quá trình thực hiện.
+Trong quá trình thực hiện, nếu có phát sinh vướng mắc, các sở, ban, ngành, UBND các huyện, thành phố, các tổ chức, cá nhân có liên quan phản ảnh kịp thời về Sở Tài nguyên và Môi trường để tổng hợp báo cáo UBND tỉnh xem xét, chỉ đạo giải quyết./.
+TM. ỦY BAN NHÂN DÂN CHỦ TỊCH
+(Đã ký)
+Hoàng Quốc Khánh
