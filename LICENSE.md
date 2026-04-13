@@ -1,6 +1,6 @@
 Creative Commons Attribution 4.0 International
 
-Copyright (c) 2026 Newnol Main
+Copyright (c) 2026 Ngô Tấn Tài
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 
