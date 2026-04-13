@@ -1,0 +1,46 @@
+---
+id: "110322"
+identifier: "vbpl-110322"
+title: "Thông tư liên tịch số 225/2012/TTLT-BTC-BKH&ĐT-BTTTT Hướng dẫn quản lý, sử dụng kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia đưa thông tin về cơ sở miền núi, vùng sâu, vùng xa, biên giới, hải đảo giai đoạn 2012-2015"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "225/2012/TTLT-BTC-BKH&ĐT-BTTTT"
+doc_type: "Thông tư liên tịch"
+rank: "thong-tu-lien-tich"
+issue_date: "2012-12-26"
+effective_date: "2013-02-15"
+expiry_date: "2023-07-10"
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Bộ Tài chính"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/110322"
+signers:
+  - "Nguyễn Thị Minh"
+  - "Trần Đức Lai"
+  - "Cao Viết Sinh"
+job_titles:
+  - " "
+  - " "
+  - " "
+---
+
+# Thông tư liên tịch số 225/2012/TTLT-BTC-BKH&ĐT-BTTTT Hướng dẫn quản lý, sử dụng kinh phí ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia đưa thông tin về cơ sở miền núi, vùng sâu, vùng xa, biên giới, hải đảo giai đoạn 2012-2015
+
+> Chưa có HTML content trong API cho văn bản này. Kiểm tra `content_file_name` để tải PDF gốc ở phase sau.
