@@ -1,0 +1,174 @@
+---
+id: "183684"
+identifier: "vbpl-183684"
+title: "Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN Sửa đổi, bổ sung một số điều của Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP-ĐCTUBTWMTTQVN của Ủy ban Thường vụ Quốc hội, Chính phủ và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam quy định chi tiết việc tổ chức tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN"
+doc_type: "Nghị quyết liên tịch"
+rank: "nghi-quyet-lien-tich"
+issue_date: "2025-09-26"
+effective_date: "2025-09-26"
+expiry_date: null
+public_date: null
+updated_date: "2026-04-04"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Chính phủ"
+organization_name: "Tài khoản trung ương"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "TW"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "VanBanGoc_20.10.2025 NQLT SĐBS NQLT 72 ve TXCT cua DBQH va DBHDND (Ban sach trinh ky BH ).pdf"
+content_doc_file_name: "20.10.2025 NQLT SĐBS NQLT 72 ve TXCT cua DBQH va DBHDND (Ban sach trinh ky BH ).docx"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 65
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/183684"
+signers:
+  - "Đỗ Văn Chiến"
+  - "Phạm Minh Chính"
+  - "Trần Thanh Mẫn"
+job_titles:
+  - "Chủ tịch"
+  - "Thủ tướng"
+  - "Chủ tịch"
+---
+
+# Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN Sửa đổi, bổ sung một số điều của Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP-ĐCTUBTWMTTQVN của Ủy ban Thường vụ Quốc hội, Chính phủ và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam quy định chi tiết việc tổ chức tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp
+
+Uỷ ban Thường vụ Quốc hội - Chính phủ - ĐOÀN CHỦ TỊCH Uỷ ban TRUNG ƯƠNG Mặt trận Tổ quốc Việt Nam
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+Số: 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN
+Hà Nội, ngày 26 tháng 9 năm 2025
+NGHỊ QUYẾT LIÊN TỊCH
+Sửa đổi, bổ sung một số điều của Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP-ĐCTUBTWMTTQVN của Ủy ban Thường vụ Quốc hội, Chính phủ và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam quy định chi tiết việc tổ chức tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp
+------------------------------
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 203/2025/QH15;
+Căn cứ Luật Tổ chức Quốc hội số 57/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 65/2020/QH14 và Luật số 62/2025/QH15;
+Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
+Căn cứ Luật Hoạt động giám sát của Quốc hội và Hội đồng nhân dân số 87/2015/QH13;
+Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;
+Căn cứ Luật Mặt trận Tổ quốc Việt Nam số 75/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 97/2025/QH15;
+Căn cứ Luật Tổ chức Tòa án nhân dân số 34/2024/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 81/2025/QH15;
+Căn cứ Luật Tổ chức Viện kiểm sát nhân dân số 63/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 82/2025/QH15;
+Ủy ban Thường vụ Quốc hội, Chính phủ và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam ban hành Nghị quyết liên tịch s ửa đổi, bổ sung một số điều của Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP-ĐCTUBTWMTTQVN quy định chi tiết việc tổ chức tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp .
+## Điều 1. Sửa đổi, bổ sung một số điều của Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP-ĐCTUBTWMTTQVN
+1. Bổ sung khoản 3a vào sau khoản 3 Điều 2 như sau:
+"3a. Tiếp xúc cử tri nơi ứng cử là việc đại biểu Quốc hội tiếp xúc cử tri tại địa bàn tỉnh, thành phố nơi đại biểu Quốc hội ứng cử hoặc chuyển sinh hoạt đến; việc đại biểu Hội đồng nhân dân tiếp xúc cử tri tại địa bàn nơi đại biểu Hội đồng nhân dân ứng cử hoặc chuyển sinh hoạt đến.".
+2. Sửa đổi, bổ sung khoản 5 và khoản 6 Điều 4 như sau:
+"5. Đại biểu Hội đồng nhân dân có trách nhiệm thực hiện việc tiếp xúc cử tri theo kế hoạch của Tổ đại biểu Hội đồng nhân dân cùng cấp.
+6. Đại biểu Hội đồng nhân dân có quyền đề nghị Tổ đại biểu Hội đồng nhân dân cùng cấp tổ chức tiếp xúc cử tri ngoài chương trình, kế hoạch của Tổ đại biểu Hội đồng nhân dân cùng cấp.".
+3. Sửa đổi, bổ sung khoản 2 và bổ sung khoản 3 vào sau khoản 2 Điều 7 như sau:
+"2. Thường trực Hội đồng nhân dân cấp tỉnh hướng dẫn Thường trực Hội đồng nhân dân cấp xã phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam, Ủy ban nhân dân cùng cấp và các cơ quan, tổ chức, cá nhân có liên quan tổ chức thực hiện kế hoạch tiếp xúc cử tri của đại biểu Quốc hội ở địa phương.
+3. Tại đặc khu không tổ chức cấp chính quyền địa phương, Ủy ban nhân dân đặc khu thực hiện trách nhiệm của Thường trực Hội đồng nhân dân cấp xã quy định tại khoản 1 và khoản 2 Điều này.".
+4. Sửa đổi, bổ sung khoản 3 Điều 8 như sau:
+"3. Tại đặc khu không tổ chức cấp chính quyền địa phương, Ủy ban nhân dân đặc khu thực hiện trách nhiệm của Thường trực Hội đồng nhân dân cấp xã quy định tại khoản 1 và khoản 2 Điều này.".
+5. Sửa đổi, bổ sung Điều 10 như sau:
+" Điều 10. Trách nhiệm của Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam ở địa phương trong hoạt động tiếp xúc cử tri của đại biểu Quốc hội
+1. Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh có trách nhiệm:
+- a) Phối hợp với Đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh và các cơ quan, tổ chức, cá nhân có liên quan tổ chức triển khai thực hiện kế hoạch tiếp xúc cử tri của đại biểu Quốc hội;
+- b) Tổ chức, chủ trì, điều hành hội nghị tiếp xúc cử tri của đại biểu Quốc hội ở cấp tỉnh; tuyên truyền, vận động cử tri tham dự hoạt động tiếp xúc cử tri của đại biểu Quốc hội;
+- c) Hướng dẫn Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã phối hợp với Thường trực Hội đồng nhân dân, Ủy ban nhân dân cùng cấp và các cơ quan, tổ chức, cá nhân có liên quan tổ chức thực hiện kế hoạch tiếp xúc cử tri của đại biểu Quốc hội;
+- d) Phối hợp với Đoàn đại biểu Quốc hội tổng hợp ý kiến, kiến nghị của cử tri và giám sát việc giải quyết, trả lời kiến nghị của cử tri của các cơ quan, tổ chức, cá nhân ở địa phương;
+- đ) Phối hợp với Đoàn đại biểu Quốc hội tổ chức để cử tri góp ý kiến về việc thực hiện nhiệm vụ đại biểu và chương trình hành động mà đại biểu Quốc hội đã hứa trước cử tri.
+2. Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã có trách nhiệm:
+- a) Phối hợp với Thường trực Hội đồng nhân dân, Ủy ban nhân dân cùng cấp và các cơ quan, tổ chức, cá nhân có liên quan tổ chức thực hiện kế hoạch tiếp xúc cử tri của đại biểu Quốc hội ở cấp xã; thông báo rộng rãi, kịp thời kế hoạch tiếp xúc cử tri của đại biểu Quốc hội;
+- b) Tổ chức, chủ trì hội nghị tiếp xúc cử tri của đại biểu Quốc hội ở cấp xã trong trường hợp Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh giao, trừ trường hợp quy định tại điểm c khoản này; tuyên truyền, vận động cử tri tham dự hoạt động tiếp xúc cử tri của đại biểu Quốc hội;
+- c) Tổ chức, chủ trì hội nghị tiếp xúc cử tri của đại biểu Quốc hội ở nơi cư trú.".
+6. Sửa đổi, bổ sung, bãi bỏ một số điểm, khoản của Điều 12 như sau:
+- a) Sửa đổi, bổ sung điểm c khoản 1 như sau:
+"c) Chỉ đạo Ủy ban nhân dân cấp xã cử đại diện lãnh đạo tham dự tiếp xúc cử tri trên địa bàn cấp xã và tổ chức tuyên truyền về hoạt động tiếp xúc cử tri của đại biểu Quốc hội;";
+- b) Bãi bỏ khoản 2 và sửa đổi, bổ sung khoản 3 như sau:
+"3. Ủy ban nhân dân cấp xã có trách nhiệm:
+- a) Phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã và các cơ quan, tổ chức, cá nhân có liên quan tổ chức triển khai thực hiện kế hoạch tiếp xúc cử tri của đại biểu Quốc hội;
+- b) Bố trí địa điểm thuận lợi để đại biểu Quốc hội tiếp xúc cử tri; tuyên truyền, vận động cử tri ở địa bàn xã tham dự tiếp xúc cử tri của đại biểu Quốc hội;
+- c) Cử đại diện lãnh đạo tham dự tiếp xúc cử tri của đại biểu Quốc hội để xem xét, giải quyết và trả lời kiến nghị của cử tri thuộc thẩm quyền;
+- d) Chỉ đạo cơ quan chức năng bảo đảm an ninh, trật tự, an toàn cho hoạt động tiếp xúc cử tri của đại biểu Quốc hội.".
+7. Sửa đổi, bổ sung một số điểm của khoản 1 Điều 13 như sau:
+- a) Sửa đổi, bổ sung điểm a như sau:
+"a) Phối hợp với Tổ đại biểu Hội đồng nhân dân cấp tỉnh, cấp xã, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp đại biểu tiếp xúc cử tri và các cơ quan, tổ chức, cá nhân có liên quan tổ chức triển khai thực hiện kế hoạch tiếp xúc cử tri của Tổ đại biểu Hội đồng nhân dân, đại biểu Hội đồng nhân dân cấp đại biểu tiếp xúc cử tri;";
+- b) Sửa đổi, bổ sung điểm d như sau:
+"d) Chỉ đạo các cơ quan chức năng bảo đảm điều kiện cơ sở vật chất, an ninh, trật tự, an toàn cho hoạt động tiếp xúc cử tri.".
+8. Sửa đổi, bổ sung khoản 2 Điều 22 như sau:
+"2. Đại biểu Hội đồng nhân dân hai cấp có thể cùng tiếp xúc cử tri; Thường trực Hội đồng nhân dân cấp tỉnh trao đổi với Thường trực Hội đồng nhân dân cấp xã để xem xét, quyết định.
+Thường trực Hội đồng nhân dân cấp tỉnh chủ trì, phối hợp với Tổ đại biểu Hội đồng nhân dân cùng cấp, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã xây dựng kế hoạch tiếp xúc cử tri của đại biểu Hội đồng nhân dân hai cấp.".
+9. Sửa đổi, bổ sung Điều 23 như sau:
+" Điều 23. Thành phần tham dự Hội nghị tiếp xúc cử tri
+1. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân.
+2. Cử tri làm việc, học tập, sinh sống tại các cơ quan, tổ chức, đơn vị cấp đơn vị hành chính nơi đại biểu Quốc hội, đại biểu Hội đồng nhân dân tiếp xúc cử tri.
+3. Đại diện Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh và Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi tiếp xúc cử tri đối với trường hợp tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân cấp tỉnh; đại diện Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã đối với trường hợp tiếp xúc cử tri của đại biểu Hội đồng nhân dân cấp xã.
+4. Đại diện Thường trực Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh đối với với trường hợp tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân cấp tỉnh; đại diện Thường trực Hội đồng nhân dân và lãnh đạo Ủy ban nhân dân cấp xã đối với trường hợp tiếp xúc cử tri của đại biểu Hội đồng nhân dân cấp xã.
+5. Các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp phục vụ tiếp xúc cử tri.
+6. Cơ quan báo chí tại địa phương, trung ương (khi được mời).".
+10. Sửa đổi, bổ sung khoản 3 Điều 24 như sau:
+"3. Trường hợp đại biểu Quốc hội, đại biểu Hội đồng nhân dân cùng tiếp xúc cử tri thì chương trình thực hiện theo trình tự tại khoản 1 và khoản 2 Điều này. Trong đó, việc giới thiệu đại biểu, trình bày báo cáo được thực hiện theo thứ tự các nội dung liên quan đến tiếp xúc cử tri của đại biểu Quốc hội được tiến hành trước các nội dung liên quan đến đại biểu Hội đồng nhân dân cấp tỉnh, các nội dung liên quan đến tiếp xúc cử tri của đại biểu Hội đồng nhân dân cấp tỉnh được tiến hành trước các nội dung liên quan đến đại biểu Hội đồng nhân dân cấp xã.".
+11. Sửa đổi, bổ sung khoản 2 Điều 26 như sau:
+"2. Trước ngày khai mạc kỳ họp, Thường trực Hội đồng nhân dân, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam và Tổ đại biểu Hội đồng nhân dân cấp đại biểu được bầu có trách nhiệm tổ chức để đại biểu Hội đồng nhân dân tiếp xúc cử tri thu thập ý kiến, nguyện vọng của cử tri về những vấn đề thuộc chương trình, nội dung kỳ họp và ý kiến, kiến nghị của cử tri với Hội đồng nhân dân và các cơ quan nhà nước có liên quan ở địa phương.
+Trước ngày khai mạc kỳ họp, Tổ trưởng Tổ đại biểu Hội đồng nhân dân cấp tỉnh, cấp xã có trách nhiệm báo cáo kết quả tiếp xúc cử tri bằng văn bản với Thường trực Hội đồng nhân dân cùng cấp.".
+12. Sửa đổi, bổ sung, bãi bỏ một số khoản của Điều 27 như sau:
+- a) Sửa đổi, bổ sung khoản 2 như sau:
+"2. Khi đại biểu Hội đồng nhân dân cấp tỉnh có đề nghị tiếp xúc cử tri nơi cư trú thì trực tiếp hoặc thông qua Thường trực Hội đồng nhân dân cùng cấp liên hệ với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi đại biểu cư trú để tổ chức tiếp xúc cử tri.
+Đại biểu Hội đồng nhân dân cấp xã trực tiếp hoặc thông qua Thường trực Hội đồng nhân dân liên hệ với Ủy ban nhân dân, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp để tiếp xúc cử tri.";
+- b) Bãi bỏ khoản 5.
+13. Sửa đổi, bổ sung khoản 3 Điều 32 như sau:
+"3. Chậm nhất là 03 ngày làm việc, trước ngày tiếp xúc cử tri, Thường trực Hội đồng nhân dân cùng cấp thông báo về chương trình, kế hoạch, nội dung tiếp xúc cử tri đến Thường trực Hội đồng nhân dân, Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam nơi đại biểu tiếp xúc để sắp xếp, bố trí thời gian, địa điểm và chuẩn bị các điều kiện cho đại biểu Hội đồng nhân dân tiếp xúc cử tri.".
+14. Sửa đổi, bổ sung khoản 2 Điều 34 như sau:
+"2. Căn cứ vào nội dung chương trình kỳ họp chuyên đề hoặc kỳ họp để giải quyết công việc phát sinh đột xuất của Hội đồng nhân dân và tình hình thực tế, Thường trực Hội đồng nhân dân quyết định việc tổ chức hoặc không tổ chức tiếp xúc cử tri hoặc có phương thức phù hợp thu thập ý kiến, kiến nghị của cử tri.
+Trong trường hợp tổ chức tiếp xúc cử tri thì Tổ đại biểu Hội đồng nhân dân cấp tỉnh, cấp xã quyết định hình thức tiếp xúc cử tri và chủ trì, phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp xây dựng Báo cáo tổng hợp kiến nghị của cử tri và Nhân dân.".
+15. Sửa đổi, bổ sung khoản 1 Điều 35 như sau:
+"1. Căn cứ vào điều kiện thực tế, Đoàn đại biểu Quốc hội, Tổ đại biểu Hội đồng nhân dân cấp tỉnh, cấp xã có thể tổ chức tiếp xúc cử tri trực tuyến, tiếp xúc cử tri trực tiếp kết hợp với trực tuyến.".
+16. Sửa đổi, bổ sung Điều 36 như sau:
+" Điều 36. Tiếp xúc cử tri trong tình hình thiên tai, dịch bệnh hoặc sự kiện bất khả kháng
+1. Trường hợp xảy ra thiên tai, dịch bệnh hoặc sự kiện bất khả kháng, căn cứ vào tình hình và điều kiện thực tế tại địa phương hoặc theo yêu cầu của Ủy ban Thường vụ Quốc hội, Đoàn đại biểu Quốc hội quyết định tổ chức hoặc không tổ chức tiếp xúc cử tri của đại biểu Quốc hội; Thường trực Hội đồng nhân dân quyết định tổ chức hoặc không tổ chức tiếp xúc cử tri của đại biểu Hội đồng nhân dân.
+2. Việc xác định trường hợp thiên tai, dịch bệnh, sự kiện bất khả kháng thực hiện theo quy định của pháp luật hoặc do cơ quan nhà nước có thẩm quyền công bố".
+17. Sửa đổi, bổ sung các khoản 2, 3 và 4 Điều 41 như sau:
+"2. Chậm nhất là 03 ngày làm việc, sau ngày tiếp xúc cử tri trước và sau kỳ họp thường lệ Hội đồng nhân dân hoặc sau khi nhận được ý kiến, kiến nghị của cử tri do đại biểu Hội đồng nhân dân gửi đến, Tổ đại biểu Hội đồng nhân dân cấp tỉnh, cấp xã có trách nhiệm chủ trì, phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp tổng hợp, phân loại các ý kiến, kiến nghị của cử tri; báo cáo Thường trực Hội đồng nhân dân những ý kiến, kiến nghị thuộc thẩm quyền giải quyết của các cơ quan, tổ chức, cá nhân ở cấp đại biểu tiếp xúc cử tri.
+3. Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh có trách nhiệm tổng hợp ý kiến, kiến nghị của Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã để phản ánh, kiến nghị với Ủy ban nhân dân cùng cấp.
+4. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã có trách nhiệm tập hợp, tổng hợp ý kiến, kiến nghị của cử tri do các Tổ đại biểu Hội đồng nhân dân gửi đến Thường trực Hội đồng nhân dân cùng cấp.
+Thường trực Hội đồng nhân dân có trách nhiệm chủ trì, phối hợp với Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp tập hợp, tổng hợp báo cáo; phân loại, chuyển đến cơ quan, tổ chức, cá nhân có thẩm quyền, yêu cầu giải quyết, trả lời cử tri.".
+18. Sửa đổi, bổ sung khoản 2 Điều 42 như sau:
+"2. Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh có trách nhiệm phối hợp với Tổ đại biểu Hội đồng nhân dân cùng cấp tổng hợp ý kiến, kiến nghị của cử tri thông qua Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã tại nơi đại biểu Hội đồng nhân dân cấp tỉnh tiếp xúc cử tri và các thành viên của Mặt trận; Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã có trách nhiệm phối hợp với Tổ đại biểu Hội đồng nhân dân cùng cấp tổng hợp ý kiến, kiến nghị của cử tri tại nơi đại biểu Hội đồng nhân dân cấp xã tiếp xúc cử tri và ý kiến của thành viên của Mặt trận gửi đến.
+Chậm nhất 07 ngày làm việc, trước ngày khai mạc kỳ họp, báo cáo tổng hợp ý kiến, kiến nghị của cử tri và Nhân dân địa phương được gửi đến Ủy ban nhân dân cùng cấp xem xét, giải quyết theo thẩm quyền.".
+19. Sửa đổi, bổ sung Điều 43 như sau:
+" Điều 43. Tổng hợp nhận xét của cử tri thông qua hoạt động tiếp xúc cử tri của đại biểu Hội đồng nhân dân
+Tổ đại biểu Hội đồng nhân dân và Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp có trách nhiệm tổng hợp và báo cáo Thường trực Hội đồng nhân dân cùng cấp về nhận xét của cử tri đối với hoạt động của Hội đồng nhân dân, Thường trực Hội đồng nhân dân, các Ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân.".
+20. Sửa đổi, bổ sung khoản 2 Điều 44 như sau:
+"2. Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội có trách nhiệm giúp Ủy ban Thường vụ Quốc hội xem xét, giải quyết, trả lời kiến nghị của cử tri về các vấn đề liên quan đến chương trình kỳ họp Quốc hội, phiên họp Ủy ban Thường vụ Quốc hội và các vấn đề khác thuộc chức năng, nhiệm vụ của Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội, Văn phòng Quốc hội.".
+21. Sửa đổi, bổ sung khoản 2 và bãi bỏ khoản 3 Điều 45 như sau:
+"2. Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân cấp tỉnh, Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã có trách nhiệm giúp Thường trực Hội đồng nhân dân cùng cấp xem xét, giải quyết, trả lời các kiến nghị của cử tri về các vấn đề liên quan đến chương trình kỳ họp Hội đồng nhân dân, nội dung, chương trình giám sát của Hội đồng nhân dân, Thường trực Hội đồng nhân dân cùng cấp và các vấn đề khác thuộc chức năng, nhiệm vụ của Hội đồng nhân dân ngoài lĩnh vực các Ban của Hội đồng nhân dân phụ trách.".
+22. Sửa đổi, bổ sung khoản 4 Điều 46 như sau:
+"4. Các cơ quan chuyên môn, tổ chức hành chính khác thuộc Ủy ban nhân dân cấp tỉnh, cấp xã có trách nhiệm giải quyết, trả lời kiến nghị của cử tri về vấn đề thuộc lĩnh vực phụ trách.".
+23. Sửa đổi, bổ sung khoản 3 Điều 50 như sau:
+"3. Ngay sau khi nhận được văn bản trả lời cử tri, Tổ đại biểu Hội đồng nhân dân có trách nhiệm thông báo kết quả giải quyết, trả lời cử tri của cơ quan, tổ chức, cá nhân có thẩm quyền đến cử tri; thông tin công khai văn bản trả lời cử tri trên các phương tiện thông tin đại chúng ở địa phương.".
+24. Bổ sung khoản 1a vào sau khoản 1 Điều 56 như sau:
+"1a. Các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm ứng dụng công nghệ thông tin, chuyển đổi số trong hoạt động tiếp xúc cử tri, quản lý việc giải quyết kiến nghị của cử tri. Văn phòng Quốc hội chủ trì, phối hợp với Thường trực Ủy ban Dân nguyện và Giám sát, các cơ quan liên quan xây dựng, quản lý, vận hành thống nhất cơ sở dữ liệu về kiến nghị của cử tri. Chính phủ chỉ đạo các bộ, ngành, địa phương bảo đảm việc sử dụng, cập nhật, theo dõi, khai thác dữ liệu kịp thời, chính xác, công khai, minh bạch. Các cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết, trả lời kiến nghị của cử tri có trách nhiệm cập nhật đầy đủ, đúng thời hạn vào cơ sở dữ liệu và chịu trách nhiệm về nội dung đã cung cấp.".
+25. Thay thế, bổ sung, bãi bỏ các từ, cụm từ tại các khoản, điều như sau:
+- a) Bổ sung cụm từ "(nếu có)" vào sau cụm từ "Chủ tịch Công đoàn" tại Điều 14, Điều 24, Điều 28;
+- b) Thay thế cụm từ "Tổng Thư ký Quốc hội" bằng cụm từ "Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội" tại Điều 15;
+- c) Thay cụm từ "Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp huyện, bộ phận giúp việc Hội đồng nhân dân cấp xã" bằng cụm từ "Văn phòng Hội đồng nhân dân và Ủy ban nhân dân cấp xã" tại Điều 16, Điều 29;
+- d) Thay cụm từ "kỳ họp bất thường" bằng cụm từ "kỳ họp không thường lệ" tại Điều 18, Điều 21, Điều 24, Điều 34, Điều 38;
+- đ) Bổ sung từ "kỳ" trước cụm từ "họp để giải quyết công việc phát sinh đột xuất của Hội đồng nhân dân" tại Điều 18, Điều 21, Điều 24;
+- e) Thay cụm từ "Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, cấp huyện" bằng cụm từ "Tòa án nhân dân các cấp, Viện kiểm sát nhân dân các cấp" tại Điều 47;
+- g) Bãi bỏ cụm từ "hoặc đại diện tập thể người lao động" tại Điều 14.
+## Điều 2. Điều khoản thi hành
+Nghị quyết liên tịch này có hiệu lực thi hành từ ngày ký ban hành./.
+TM. ĐOÀN CHỦ TỊCH UỶ BAN TRUNG ƯƠNG MẶT TRẬN TỔ QUỐC VIỆT NAM
+CHỦ TỊCH
+(Đã ký)
+Đỗ Văn Chiến
+TM. CHÍNH PHỦ
+THỦ TƯỚNG
+(Đã ký)
+Phạm Minh Chính
+TM. UỶ BAN THƯỜNG VỤ QUỐC HỘI
+CHỦ TỊCH
+(Đã ký)
+Trần Thanh Mẫn
