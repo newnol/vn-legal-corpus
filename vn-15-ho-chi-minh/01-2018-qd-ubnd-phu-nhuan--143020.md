@@ -1,0 +1,67 @@
+---
+id: "143020"
+identifier: "vbpl-143020"
+title: "Quyết định số 01/2018/QĐ-UBND (Phú Nhuận) Ban hành Quy chế tổ chức và hoạt động của Phòng Giáo dục và Đào tạo quận Phú Nhuận"
+country: "vn"
+jurisdiction: "vn-15-ho-chi-minh"
+jurisdiction_name: "Hồ Chí Minh"
+scope: "Địa phương"
+doc_num: "01/2018/QĐ-UBND (Phú Nhuận)"
+doc_type: "Quyết định"
+rank: "quyet-dinh"
+issue_date: "2018-01-02"
+effective_date: "2018-01-15"
+expiry_date: null
+public_date: null
+updated_date: "2026-04-07"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "UBND Quận Phú Nhuận"
+organization_name: "Hồ Chí Minh"
+organization_type: "1"
+agency_level: "DIA_PHUONG"
+jurisdiction_code: "15"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "VanBanGoc_01-2018 QĐ-UBND phòng Giáo dục.pdf"
+content_doc_file_name: "Quy chế.doc"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 16
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/143020"
+signers:
+  - "Nguyễn Thị Ánh Nguyệt"
+job_titles:
+  - "Chủ tịch"
+---
+
+# Quyết định số 01/2018/QĐ-UBND (Phú Nhuận) Ban hành Quy chế tổ chức và hoạt động của Phòng Giáo dục và Đào tạo quận Phú Nhuận
+
+ỦY BAN NHÂN DÂN
+QUẬN PHÚ NHUẬN
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+Số: 01/2018/QĐ-UBND
+Phú Nhuận, ngày 02 tháng 01 năm 2018
+QUYẾT ĐỊNH
+Ban hành Quy chế tổ chức và hoạt động của Phòng Giáo dục và Đào tạo quận Phú Nhuận
+______________
+ỦY BAN NHÂN DÂN QUẬN PHÚ NHUẬN
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;
+Căn cứ Nghị định số 115/2010/NĐ-CP ngày 24 tháng 12 năm 2010 của Chính phủ quy định trách nhiệm quản lý nhà nước về giáo dục;
+Căn cứ Nghị định số 37/2014/NĐ-CP ngày 05 tháng 5 năm 2014 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân huyện, quận, thị xã thành phố thuộc tỉnh;
+Căn cứ Thông tư liên tịch số 11/2015/TTLT-BGDĐT-BNV ngày 29 tháng 5 năm 2015 của liên Bộ Giáo dục và Đào tạo, Bộ Nội vụ hướng dẫn về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Giáo dục và Đào tạo thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, phòng Giáo dục và Đào tạo thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh;
+Căn cứ Quyết định số 61/2017/QĐ-UBND ngày 05 tháng 12 năm 2017 của Ủy ban nhân dân thành phố Hồ Chí Minh về ban hành Quy chế (mẫu) về tổ chức và hoạt động của Phòng Giáo dục và Đào tạo thuộc Ủy ban nhân dân quận - huyện;
+Xét đề nghị của Trưởng phòng Giáo dục và Đào tạo quận tại Công văn số 653/PGDĐT ngày 15 tháng 12 năm 2017 và ý kiến thẩm định của Trưởng phòng Tư pháp tại Công văn số 326/TP ngày 22 tháng 12 năm 2017;
+Xét đề nghị của Trưởng phòng Nội vụ tại Tờ trình số 631/TTr-NV ngày 27 tháng 12 năm 2017,
+QUYẾT ĐỊNH:
+## Điều 1. Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động của phòng Giáo dục và Đào tạo quận Phú Nhuận.
+## Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2018.
+Quyết định này thay thế Quyết định số 464/QĐ-UBND ngày 11 tháng 6 năm 2009 của Ủy ban nhân dân quận Phú Nhuận về ban hành Quy chế tổ chức và hoạt động của phòng Giáo dục và Đào tạo quận Phú Nhuận.
+## Điều 3. Chánh Văn phòng Hội đồng nhân dân và Ủy ban nhân dân quận, Trưởng phòng Nội vụ, Trưởng phòng Tư pháp, Trưởng phòng Giáo dục và Đào tạo quận, Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+TM. ỦY BAN NHÂN DÂN CHỦ TỊCH
+(Đã ký)
+Nguyễn Thị Ánh Nguyệt

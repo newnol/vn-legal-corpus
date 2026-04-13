@@ -1,0 +1,64 @@
+---
+id: "143256"
+identifier: "vbpl-143256"
+title: "Quyết định số 07/2017/QĐ-UBND (Bình Tân) Về bãi bỏ Quyết định số 03/2010/QĐ-UBND ngày 16 tháng 4 năm 2010 của Ủy ban nhân dân quận Bình Tân ban hành Quy chế làm việc của Ủy ban nhân dân quận Bình Tân thí điểm không tổ chức Hội đồng nhân dân"
+country: "vn"
+jurisdiction: "vn-15-ho-chi-minh"
+jurisdiction_name: "Hồ Chí Minh"
+scope: "Địa phương"
+doc_num: "07/2017/QĐ-UBND (Bình Tân)"
+doc_type: "Quyết định"
+rank: "quyet-dinh"
+issue_date: "2017-12-20"
+effective_date: "2017-12-27"
+expiry_date: null
+public_date: null
+updated_date: "2026-03-30"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "UBND Quận Bình Tân"
+organization_name: "Hồ Chí Minh"
+organization_type: "1"
+agency_level: "DIA_PHUONG"
+jurisdiction_code: "15"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "VanBanGoc_7-1017-QĐ.signed.pdf"
+content_doc_file_name: "07-2017.doc"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 15
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/143256"
+signers:
+  - "Lê Văn Thinh"
+job_titles:
+  - "Chủ tịch"
+---
+
+# Quyết định số 07/2017/QĐ-UBND (Bình Tân) Về bãi bỏ Quyết định số 03/2010/QĐ-UBND ngày 16 tháng 4 năm 2010 của Ủy ban nhân dân quận Bình Tân ban hành Quy chế làm việc của Ủy ban nhân dân quận Bình Tân thí điểm không tổ chức Hội đồng nhân dân
+
+ỦY BAN NHÂN DÂN
+QUẬN BÌNH TÂN
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+Số: 07/2017/QĐ-UBND
+Bình Tân, ngày 20 tháng 12 năm 2017
+QUYẾT ĐỊNH
+Về bãi bỏ Quyết định số 03/2010/QĐ-UBND ngày 16 tháng 4 năm 2010
+của Ủy ban nhân dân quận Bình Tân ban hành Quy chế làm việc của
+Ủy ban nhân dân quận Bình Tân thí điểm không tổ chức Hội đồng nhân dân
+ỦY BAN NHÂN DÂN QUẬN BÌNH TÂN
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;
+Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật;
+Căn cứ Quyết định số 02/2017/QĐ-UBND ngày 10 tháng 01 năm 2017 của Ủy ban nhân dân Thành phố ban hành Quy chế về kiểm tra, xử lý, rà soát, hệ thống hóa văn bản quy phạm pháp luật và tổ chức, quản lý cộng tác viên kiểm tra, rà soát, hệ thống hóa văn bản quy phạm pháp luật trên địa bàn Thành phố Hồ Chí Minh;
+Theo đề nghị của Trưởng phòng Tư pháp quận tại Tờ trình số 494/TTr-TP ngày 08 tháng 12 năm 2017.
+QUYẾT ĐỊNH:
+## Điều 1. Nay bãi bỏ Quyết định số 03/2010/QĐ-UBND ngày 16 tháng 4 năm 2010 của Ủy ban nhân dân quận Bình Tân ban hành Quy chế làm việc của Ủy ban nhân dân quận Bình Tân thực hiện thí điểm không tổ chức Hội đồng nhân dân.
+## Điều 2. Quyết định này có hiệu lực kể từ ngày 27 tháng 12 năm 2017.
+## Điều 3. Chánh Văn phòng Hội đồng nhân dân và Ủy ban nhân dân quận, Trưởng phòng Tư pháp quận, Thủ trưởng các cơ quan, đơn vị có liên quan và Chủ tịch Ủy ban nhân dân 10 phường chịu trách nhiệm thi hành Quyết định này.
+TM. ỦY BAN NHÂN DÂN CHỦ TỊCH
+(Đã ký)
+Lê Văn Thinh
