@@ -1,0 +1,145 @@
+---
+id: "26567"
+identifier: "vbpl-26567"
+title: "Thông tư số 40/2011/TT-BGTVT (trungvanban) Quy định thủ tục xét, tặng Kỷ niệm chương “Vì sự nghiệp phát triển Giao thông vận tải Việt Nam”"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "40/2011/TT-BGTVT (trungvanban)"
+doc_type: "Thông tư"
+rank: "thong-tu"
+issue_date: "2011-05-18"
+effective_date: "2011-07-02"
+expiry_date: null
+public_date: null
+updated_date: "2026-04-03"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Giao thông vận tải"
+organization_name: "Bộ Xây dựng"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "48"
+language: "vi"
+updated_by: "dungdvm_II.4"
+content_file_name: "VanBanGoc_40_2011_TT-BGTVT.pdf"
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 15
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/26567"
+signers:
+  - "Hồ Nghĩa Dũng"
+job_titles:
+  - "Bộ trưởng"
+---
+
+# Thông tư số 40/2011/TT-BGTVT (trungvanban) Quy định thủ tục xét, tặng Kỷ niệm chương “Vì sự nghiệp phát triển Giao thông vận tải Việt Nam”
+
+BỘ GIAO THÔNG VẬN TẢI
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+Số: 40/2011/TT-BGTVT (trungvanban)
+Hà Nội, ngày 18 tháng 5 năm 2011
+THÔNG TƯ
+Quy định thủ tục xét, tặng Kỷ niệm chương “Vì sự nghiệp phát triển Giao thông vận tải Việt Nam”
+________________________
+Căn cứ Luật Thi đua, khen thưởng ngày 26 tháng 11 năm 2003 và Luật sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng ngày 14 tháng 6 năm 2005;
+Căn cứ Nghị định số 51/2008/NĐ-CP ngày 22 tháng 4 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+Căn cứ Nghị định số 42/2010/NĐ-CP ngày 15 tháng 4 năm 2010 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng và Luật sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng;
+Bộ trưởng Bộ Giao thông vận tải quy định về thủ tục xét, tặng Kỷ niệm chương “Vì sự nghiệp phát triển Giao thông vận tải Việt Nam” như sau:
+# Chương 1
+QUY ĐỊNH CHUNG
+## Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định về đối tượng, nguyên tắc, tiêu chuẩn, trình tự thủ tục xét và trao tặng Kỷ niệm chương "Vì sự nghiệp phát triển Giao thông vận tải Việt Nam".
+## Điều 2. Đối tượng xét tặng Kỷ niệm chương "Vì sự nghiệp phát triển Giao thông vận tải Việt Nam"
+1. Cán bộ, công chức, viên chức, Thanh niên xung phong chống Pháp, chống Mỹ cứu nước, người lao động đã và đang công tác trong ngành Giao thông vận tải Việt Nam (sau đây gọi chung là cá nhân trong ngành Giao thông vận tải Việt Nam).
+2. Những cá nhân khác không thuộc quy định tại khoản 1 Điều này nhưng có đóng góp đối với sự nghiệp xây dựng và phát triển Giao thông vận tải Việt Nam (sau đây gọi chung là cá nhân ngoài ngành Giao thông vận tải Việt Nam).
+## Điều 3. Kỷ niệm chương "Vì sự nghiệp phát triển Giao thông vận tải Việt Nam"
+1. Kỷ niệm chương "Vì sự nghiệp phát triển Giao thông vận tải Việt Nam" (sau đây gọi chung là Kỷ niệm chương) là hình thức khen thưởng của Bộ Giao thông vận tải để ghi nhận công lao và động viên sự cống hiến của các cá nhân (kể cả những người đã mất) có nhiều đóng góp cho sự nghiệp xây dựng và phát triển Giao thông vận tải Việt Nam.
+2. Kỷ niệm chương có hình dáng, kích cỡ, màu sắc thể hiện đặc trưng của ngành Giao thông vận tải Việt Nam và phù hợp với quy định chung của Nhà nước. Kèm theo Kỷ niệm chương là Bằng chứng nhận Kỷ niệm chương của Bộ Giao thông vận tải (theo mẫu Kỷ niệm chương và Bằng chứng nhận Kỷ niệm chương đang lưu hành).
+## Điều 4. Nguyên tắc xét tặng Kỷ niệm chương
+1. Kỷ niệm chương được xét tặng một lần cho cá nhân có đủ tiêu chuẩn.
+2. Việc xét tặng Kỷ niệm chương phải được thực hiện đúng đối tượng, tiêu chuẩn và thủ tục theo Thông tư này.
+3. Việc xét tặng Kỷ niệm chương được tiến hành hàng năm, đảm bảo nguyên tắc công bằng, dân chủ, công khai.
+4. Cá nhân đã được tặng Huy chương "Vì sự nghiệp Giao thông vận tải" ban hành theo Quyết định số 3069/TCCB-LĐ ngày 06 tháng 6 năm 1995 và được tặng Kỷ niệm chương "Vì sự nghiệp Giao thông vận tải" theo Quyết định số 22/2005/QĐ-BGTVT ngày 30 tháng 3 năm 2005 của Bộ trưởng Bộ Giao thông vận tải thì không xét tặng Kỷ niệm chương theo Thông tư này.
+5. Cá nhân tự ý bỏ việc khỏi cơ quan, tổ chức thì không được xét tặng Kỷ niệm chương.
+# Chương 2
+TIÊU CHUẨN, THỦ TỤC XÉT TẶNG KỶ NIỆM CHƯƠNG
+## Điều 5. Tiêu chuẩn xét tặng Kỷ niệm chương đối với cá nhân trong ngành Giao thông vận tải Việt Nam
+1. Cá nhân công tác trong ngành Giao thông vận tải Việt Nam có phẩm chất đạo đức tốt, hoàn thành nhiệm vụ được giao và có thời gian công tác từ đủ 20 năm trở lên đối với nam và từ đủ 15 năm trở lên đối với nữ.
+2. Cá nhân ở các ngành khác chuyển về ngành Giao thông vận tải Việt Nam hoặc từ ngành Giao thông vận tải Việt Nam chuyển sang các ngành khác có 25 năm công tác liên tục, trong đó thời gian công tác trong ngành Giao thông vận tải Việt Nam có ít nhất 10 năm trở lên đối với nam và 08 năm trở lên đối với nữ.
+3. Cá nhân có đủ thời gian công tác theo quy định tại khoản 1, khoản 2 Điều này nhưng bị kỷ luật dưới mức buộc thôi việc chỉ được xét tặng sau khi hết thời hạn thi hành kỷ luật. Thời gian chịu kỷ luật không được tính để xét tặng Kỷ niệm chương.
+4. Cá nhân bị kỷ luật buộc thôi việc hoặc bị truy cứu trách nhiệm hình sự hoặc có liên quan đến các vụ án hình sự mà chưa có kết luận của cơ quan Nhà nước có thẩm quyền thì không được xét tặng Kỷ niệm chương.
+## Điều 6. Tiêu chuẩn xét tặng Kỷ niệm chương đối với cá nhân ngoài ngành Giao thông vận tải Việt Nam
+1. Người có công lao trong việc lãnh đạo, chỉ đạo góp phần vào công cuộc xây dựng và phát triển Giao thông vận tải Việt Nam.
+2. Người có sáng kiến hoặc công trình nghiên cứu khoa học có giá trị thiết thực đóng góp cho sự phát triển Giao thông vận tải Việt Nam.
+3. Người có công lao trong việc xây dựng và củng cố quan hệ hợp tác giữa các nước, các tổ chức quốc tế với ngành Giao thông vận tải Việt Nam, đóng góp tích cực cho sự nghiệp phát triển Giao thông vận tải Việt Nam.
+4. Người có sự giúp đỡ, ủng hộ xứng đáng về tài chính hoặc vật chất cho sự phát triển Giao thông vận tải Việt Nam.
+## Điều 7. Những trường hợp được xét tặng sớm hơn thời gian quy định
+1. Cá nhân công tác trong ngành Giao thông vận tải Việt Nam ở vùng sâu, vùng xa, vùng núi cao, hải đảo được hưởng chế độ phụ cấp khu vực từ 0,5 trở lên theo quy định tại Thông tư liên tịch số 11/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT ngày 05 tháng 01 năm 2005 của Liên Bộ Nội vụ, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính và Ủy ban Dân tộc thì thời gian công tác thực tế tại các địa bàn trên được nhân với hệ số 1,5.
+2. Cá nhân có thời gian công tác trong ngành Giao thông vận tải Việt Nam thời kỳ chống Pháp được nhân với hệ số 1,5.
+3. Cá nhân có thời gian công tác tại khu 4, các chiến trường B, C, K trong thời kỳ chống Mỹ cứu nước được nhân với hệ số 1,5.
+4. Lãnh đạo cấp Vụ thuộc Bộ Giao thông vận tải và lãnh đạo Sở Giao thông vận tải (hoặc Sở Giao thông công chính trước đây) được đề nghị xét tặng khi có thời gian giữ chức vụ đủ 01 nhiệm kỳ (05 năm) trở lên.
+5. Những trường hợp sau đây không tính thâm niên công tác khi xét tặng:
+- a) Lãnh đạo Bộ Giao thông vận tải (đương chức, đã nghỉ chế độ chính sách hoặc chuyển công tác);
+- b) Những cá nhân công tác trong ngành Giao thông vận tải Việt Nam đạt danh hiệu Anh hùng Lao động, Anh hùng Lực lượng vũ trang, Huân chương Lao động hạng Ba trở lên, Chiến sĩ Thi đua toàn quốc, Dũng sĩ Giao thông vận tải.
+## Điều 8. Trình tự, cách thức thực hiện thủ tục xét, tặng Kỷ niệm chương đối với cá nhân trong ngành Giao thông vận tải Việt Nam
+1. Chuẩn bị hồ sơ, xét duyệt tại Hội đồng Thi đua - Khen thưởng các cấp:
+- a) Căn cứ vào tiêu chuẩn xét tặng Kỷ niệm chương, cá nhân làm Bản tóm tắt thành tích và quá trình công tác theo quy định tại Phụ lục 1 của Thông tư này, nộp hồ sơ tại cơ quan quản lý trực tiếp hoặc cơ quan quản lý trước khi nghỉ chế độ;
+- b) Hàng năm, Hội đồng Thi đua - Khen thưởng của cơ quan, tổ chức hoặc Hội nghị liên tịch của chính quyền, đảng, đoàn thể lựa chọn những cá nhân (kể cả những trường hợp đã nghỉ công tác theo các chế độ hiện hành, thương binh, Thanh niên xung phong trước đây thuộc cơ quan, tổ chức và những trường hợp đã mất) có đủ tiêu chuẩn xét tặng, lập danh sách và Hồ sơ đề nghị xét tặng Kỷ niệm chương để trình cho lãnh đạo cơ quan, tổ chức cùng cấp xem xét;
+- c) Thủ trưởng các cơ quan, tổ chức trực thuộc Bộ; Giám đốc các Sở Giao thông vận tải trình danh sách và hồ sơ đề nghị xét tặng Kỷ niệm chương cho Hội đồng Thi đua - Khen thưởng Bộ Giao thông vận tải (sau đây gọi chung là Hội đồng Thi đua - Khen thưởng Bộ).
+2. Cơ quan Thường trực Hội đồng Thi đua - Khen thưởng Bộ tiếp nhận hồ sơ, kiểm tra, thẩm định trình Bộ trưởng quyết định:
+- a) Đối với những trường hợp đủ tiêu chuẩn tặng thưởng, cơ quan Thường trực Hội đồng Thi đua - Khen thưởng Bộ trình Bộ trưởng Bộ Giao thông vận tải xem xét, ra Quyết định tặng Kỷ niệm chương và trong thời hạn 10 ngày, kể từ ngày có quyết định, Thường trực Hội đồng Thi đua - Khen thưởng Bộ có thông báo cho cơ quan, tổ chức trình khen biết;
+- b) Đối với những trường hợp thành tích của cá nhân không đảm bảo theo tiêu chuẩn khen thưởng, trong thời hạn 10 ngày, kể từ ngày cấp có thẩm quyền quyết định đồng ý với cơ quan thẩm định, Thường trực Hội đồng Thi đua - Khen thưởng Bộ có thông báo bằng văn bản cho cơ quan, tổ chức trình khen biết.
+3. Sau khi nhận được thông báo khen thưởng, cơ quan, tổ chức trình khen cử đại diện đến trực tiếp Thường trực Hội đồng Thi đua - Khen thưởng Bộ để nhận Quyết định, Kỷ niệm chương, Bằng chứng nhận và ký nhận vào hồ sơ quản lý của Bộ Giao thông vận tải.
+## Điều 9. Trình tự, cách chức thực hiện thủ tục xét, tặng Kỷ niệm chương đối với cá nhân ngoài ngành Giao thông vận tải Việt Nam
+1. Cơ quan làm công tác thi đua, khen thưởng của các Bộ, ngành, đoàn thể Trung ương; các cơ quan, tổ chức thuộc Bộ; Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương tiếp nhận hồ sơ của các cá nhân, tổ chức đối chiếu với tiêu chuẩn, tổng hợp danh sách báo cáo Hội đồng Thi đua - Khen thưởng, lãnh đạo cơ quan cùng cấp xem xét, gửi hồ sơ đề nghị xét tặng Kỷ niệm chương về Thường trực Hội đồng Thi đua - Khen thưởng Bộ tổng hợp, thẩm định trình Bộ trưởng Bộ Giao thông vận tải xét tặng Kỷ niệm chương. Đối với các cá nhân công tác ở các Bộ, ngành (ở địa phương là các Sở), các doanh nghiệp Nhà nước, các tổ chức chính trị - xã hội phải có ý kiến chấp thuận bằng văn bản của Bộ, ngành chủ quản (ở địa phương là các Sở), các doanh nghiệp, các tổ chức chính trị - xã hội đó. Đối với cá nhân không thuộc cơ quan, tổ chức nào thì phải có xác nhận về thành tích của chính quyền địa phương nơi mà các cá nhân có đóng góp trực tiếp về sáng kiến, nghiên cứu khoa học, tài chính, vật chất, nhân công.
+2. Vụ Hợp tác quốc tế có trách nhiệm xem xét thành tích, hoàn thiện hồ sơ, lập danh sách gửi Thường trực Hội đồng Thi đua - Khen thưởng Bộ tổng hợp trình Bộ trưởng quyết định đối với các cá nhân là người nước ngoài, người Việt Nam định cư ở nước ngoài và người Việt Nam làm việc cho các tổ chức nước ngoài.
+3. Trong các trường hợp đặc biệt, Thường trực Hội đồng Thi đua - Khen thưởng Bộ có trách nhiệm đề xuất những đối tượng đủ tiêu chuẩn xét tặng Kỷ niệm chương và lập hồ sơ trình Bộ trưởng quyết định.
+## Điều 10. Hồ sơ đề nghị xét tặng Kỷ niệm chương của cá nhân trong ngành Giao thông vận tải Việt Nam
+1. Tờ trình đề nghị xét tặng của Thủ trưởng cơ quan, tổ chức trực thuộc Bộ Giao thông vận tải, Giám đốc Sở Giao thông vận tải (01 bản chính) theo quy định tại Phụ lục 2 của Thông tư này;
+2. Danh sách đề nghị xét tặng (01 bản chính) theo quy định tại Phụ lục 3 của Thông tư này;
+3. Bản tóm tắt thành tích và quá trình công tác của cá nhân, có xác nhận của cấp trình và của Thủ trưởng cơ quan, tổ chức quản lý cán bộ (01 bản chính). Cá nhân đã nghỉ công tác theo chế độ hiện hành do cơ quan quản lý ra Quyết định nghỉ chế độ xác nhận (đối với trường hợp cán bộ đã nghỉ công tác theo các chế độ hiện hành, nay cơ quan, tổ chức đã giải thể hoặc sát nhập thì cơ quan, tổ chức tiếp nhận nhiệm vụ của cơ quan, tổ chức đó có trách nhiệm xem xét, xác nhận);
+4. Bản sao các Quyết định liên quan đến việc xét tặng Kỷ niệm chương theo quy định tại Điều 7 của Thông tư này.
+## Điều 11. Hồ sơ đề nghị xét tặng Kỷ niệm chương của cá nhân ngoài ngành Giao thông vận tải Việt Nam
+1. Hồ sơ đề nghị xét tặng, bao gồm:
+- a) Tờ trình đề nghị xét tặng Kỷ niệm chương của Thủ trưởng các cơ quan, tổ chức trực thuộc Bộ Giao thông vận tải, Giám đốc các Sở Giao thông vận tải, Lãnh đạo các cơ quan, tổ chức ngoài ngành Giao thông vận tải Việt Nam (01 bản chính);
+- b) Danh sách đề nghị xét tặng Kỷ niệm chương (01 bản chính);
+- c) Bản tóm tắt thành tích, công lao đóng góp đối với sự nghiệp xây dựng và phát triển ngành Giao thông vận tải Việt Nam của cá nhân được đề nghị xét tặng (01 bản chính) theo quy định tại Phụ lục 4 của Thông tư này.
+2. Thủ trưởng các cơ quan, tổ chức trực thuộc Bộ Giao thông vận tải, Sở Giao thông vận tải, các cơ quan, tổ chức ngoài ngành Giao thông vận tải Việt Nam đề nghị xét tặng Kỷ niệm chương cho cá nhân ngoài ngành Giao thông vận tải có trách nhiệm xem xét và bảo đảm tính trung thực của hồ sơ.
+## Điều 12. Thời gian nộp hồ sơ và thời hạn giải quyết thủ tục xét tặng Kỷ niệm chương
+1. Hàng năm, Thủ trưởng các cơ quan, tổ chức trực thuộc Bộ Giao thông vận tải, Giám đốc Sở Giao thông vận tải xét, lập hồ sơ đề nghị xét tặng Kỷ niệm chương và gửi về Thường trực Hội đồng Thi đua - Khen thưởng Bộ trước ngày 01 tháng 6. Đối với các đối tượng là cá nhân ngoài ngành Giao thông vận tải thời gian nộp hồ sơ không nhất thiết thực hiện theo quy định này.
+2. Cách thức nộp hồ sơ: Nộp trực tiếp hoặc gửi qua hệ thống bưu chính.
+3. Thời hạn giải quyết hồ sơ là 07 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ theo quy định.
+## Điều 13. Trao tặng Kỷ niệm chương
+Thủ trưởng cơ quan, tổ chức thuộc ngành Giao thông vận tải Việt Nam có trách nhiệm tổ chức trao tặng Kỷ niệm chương cho những cá nhân do cơ quan, tổ chức mình đề nghị tặng Kỷ niệm chương một cách trang trọng, tiết kiệm.
+# Chương 3
+QUYỀN LỢI VÀ TRÁCH NHIỆM CỦA CÁ NHÂN ĐƯỢC TẶNG KỶ NIỆM CHƯƠNG
+## Điều 14. Quyền lợi và trách nhiệm của cá nhân được tặng Kỷ niệm chương
+1. Được nhận Quyết định tặng Kỷ niệm chương, Kỷ niệm chương và Bằng chứng nhận Kỷ niệm chương của Bộ Giao thông vận tải.
+2. Được ghi tên vào sổ vàng truyền thống của ngành Giao thông vận tải Việt Nam.
+3. Được thưởng tiền hoặc hiện vật có giá trị tương đương theo quy định tại khoản 2 Điều 76 của Nghị định 42/2010/NĐ-CP ngày 15 tháng 4 năm 2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng và Luật sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng.
+4. Cá nhân được tặng Kỷ niệm chương có trách nhiệm bảo quản và sử dụng Kỷ niệm chương trong các ngày lễ hội và truyền thống của ngành Giao thông vận tải Việt Nam.
+5. Không cho người khác mượn Kỷ niệm chương.
+# Chương 4
+XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO VỀ XÉT TẶNG KỶ NIỆM CHƯƠNG
+## Điều 15. Xử lý vi phạm về xét tặng Kỷ niệm chương
+1. Cá nhân nào báo cáo không trung thực về các tiêu chuẩn quy định để được tặng Kỷ niệm chương thì bị thu hồi Quyết định tặng Kỷ niệm chương, Kỷ niệm chương và Bằng chứng nhận Kỷ niệm chương.
+2. Thường trực Hội đồng Thi đua - Khen thưởng Bộ có trách nhiệm xem xét, trình Bộ trưởng quyết định thu hồi Kỷ niệm chương.
+## Điều 16. Giải quyết khiếu nại, tố cáo về xét tặng Kỷ niệm chương
+Trình tự, thủ tục, thời hạn và thẩm quyền giải quyết khiếu nại, tố cáo về xét tặng Kỷ niệm chương thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.
+# Chương 5
+ĐIỀU KHOẢN THI HÀNH
+## Điều 17. Hiệu lực thi hành
+Thông tư này có hiệu lực thi hành sau 45 ngày, kể từ ngày ký và thay thế Quyết định số 22/2005/QĐ-BGTVT ngày 30 tháng 03 năm 2005 của Bộ trưởng Bộ Giao thông vận tải về việc ban hành Kỷ niệm chương và Quy chế xét tặng Kỷ niệm chương "Vì sự nghiệp Giao thông vận tải".
+## Điều 18. Tổ chức thực hiện
+1. Thường trực Hội đồng Thi đua - Khen thưởng Bộ có trách nhiệm tổ chức triển khai hướng dẫn, kiểm tra, đôn đốc thực hiện Thông tư này.
+2. Hàng năm, Thường trực Hội đồng Thi đua - Khen thưởng Bộ có trách nhiệm lập kế hoạch, dự toán kinh phí làm Kỷ niệm chương, in Bằng chứng nhận Kỷ niệm chương và phối hợp với các cơ quan, tổ chức có liên quan đưa vào dự toán ngân sách kế hoạch năm của Bộ.
+3. Thủ trưởng cơ quan, tổ chức trực thuộc Bộ, Giám đốc Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm triển khai thực hiện Thông tư này, phối hợp thẩm định, rà soát, đối chiếu, xác nhận hồ sơ lý lịch của cán bộ, công chức, viên chức và người lao động thuộc cơ quan, tổ chức mình để bảo đảm đúng đối tượng, tiêu chuẩn quy định.
+4. Trong quá trình thực hiện, nếu có những vấn đề phát sinh, vướng mắc đề nghị các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Thường trực Hội đồng Thi đua - Khen thưởng Bộ để nghiên cứu, bổ sung, hoàn chỉnh.
+BỘ TRƯỞNG
+Hồ Nghĩa Dũng
