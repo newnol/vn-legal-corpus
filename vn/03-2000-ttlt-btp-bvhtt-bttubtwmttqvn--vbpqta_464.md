@@ -1,0 +1,112 @@
+---
+id: "vbpqta_464"
+identifier: "vbpl-vbpqta_464"
+title: "Joint circular 03/2000/TTLT/BTP-BVHTT-BTTUBTWMTTQVN"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "03/2000/TTLT/BTP-BVHTT-BTTUBTWMTTQVN"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2000-03-31"
+effective_date: "2000-03-31"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "The Central Committee of the Vietnam Fatherland Front"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_464"
+signers:
+  - "Trần Văn Đăng"
+  - "Nguyễn Đình Lộc"
+  - "Nguyễn Khoa Điềm"
+job_titles:
+  - "General Secretary"
+  - "Bộ trưởng"
+  - "Bộ trưởng"
+---
+
+# Joint circular 03/2000/TTLT/BTP-BVHTT-BTTUBTWMTTQVN
+
+THE MINISTRY OF JUSTICE - THE MINISTRY OF CULTURE AND INFORMATION - THE STANDING BOARD OF THE CENTRAL COMMITTEE OF THE VIETNAM FATHERLAND FRONT
+JOINT CIRCULAR No.03/2000/TTLT/BTP-BVHTT-BTTUBTWMTTQVN OF MARCH 31, 2000 GUIDING THE COMPILATION AND IMPLEMENTATION OF RURAL CONVENTIONS AND RULES OF VILLAGES, HAMLETS AND POPULATION CLUSTERS
+On November 5, 1998, the Government promulgated Decree No.29/1998/ND-CP on the issuance of the Regulations on the Exercise of Democracy in Communes. On June 19, 1998, the Prime Minister issued Directive No.24/1998/CT-TTg on the compilation and implementation of rural conventions and rules of villages, hamlets and population clusters. The implementation of the above-said Decree and Directive, the compilation and implementation of rural conventions and rules (hereafter collectively called rural conventions) at the grassroots has been rectified by one step compared with the past. Most of the new rural conventions have a content suited to the current provisions of law, helping to develop the fine customs and habits, highlighting the ethical norms and traditional virtues of the nation and actively helping the management of the State by law at the grassroots. With the close and timely guidance by competent agencies in the localities, the drafting and carrying out of rural conventions has become an act of self-management of the population community in varied and lively forms.
+However, in spite of very important initial results after more than a year of implementation of Decree No.29/1998/ND-CP and Directive No. 24/1998/CT-TTg, in a number of localities the compilation and implementation of the rural conventions still show many limitations and shortcomings; the guidance, activation and supervision are not yet homogenous or unified; the contents of a number of rural conventions lack in concretization, a number of rules violate the law; the compilation and adoption of rural conventions are not yet really democratic, and the ratification of the conventions is not done by the right competence and there is still no unity in the modalities and procedures.
+To overcome these limitations and shortcomings, and to continue stepping up the compilation and implementation of rural conventions at the grassroots, the Ministry of Justice, the Ministry of Culture and Information and the Central Committee of the Vietnam Fatherland Front jointly give the following guidance for a number of questions in the compilation and implementation of the rural conventions:
+I. ON THE CONTENTS AND FORMS OF EXPRESSION OF THE RURAL CONVENTIONS
+1. Contents of the rural conventions:
+The rural convention is a document of social norms defining the rules of common behavior set out in common agreement by a community of the population to regulate the social relations of a self-management character of the people aimed at preserving and developing the fine customs and habits and the cultural traditions in a village, hamlet or a population cluster, contributing to actively aiding the management of the State by law.
+On the basis of the provisions of law, the socio-economic conditions, the cultural level of the population, in order to bring into play the fine customs and habits and contribute to introducing law into the life of the population community, the contents of the rural conventions should center on the following concrete questions:
+a/ To set forth appropriate measures and modalities to help the population in the area take part in the management of the State, management of society, to ensure and bring into play the rights to freedom and democracy of the people, to encourage and create conditions for the population to carry out well the rights and obligations of citizens;
+b/ To ensure the safeguard and development of the fine traditions and customs, to observe a civilized lifestyle in social behavior and contact, in eating, living and movement, to abolish harmful habits, to develop healthy cultural activities, to build and develop mutual love among the villagers, to foster unity and mutual assistance among them, to carry out well the social policies of the Party and the State;
+c/ To work out measures to help protect the State property, public property and the property of citizens, to protect the living environment, to protect the forests, sea, rivers, lakes and places of scenic beauty, temples and pagodas, water sources, dykes, dams, canals, embankments, electric cables; to build and develop village roads and paths, to plant trees;
+d/ To set forth measures to protect the fine customs and habits, to abolish harmful customs, social evils and superstitions in weddings, funerals, festivals and worship in the locality; to encourage healthy and inexpensive rituals, to limit wasteful and costly eating and drinking;
+e/ To contribute to building a civilized lifestyle, cultured families, cultured villages, hamlets and population clusters, to create new ethical norms in the family and in the community; to encourage everybody to assist others in difficult times, accidents and illness; to campaign for the implementation of the population and family planning policy, to build families along the criteria of cultured families;
+f/ To build the solidarity, mutual love and assistance in the community, to campaign among the members of the families, great families and in the villages to unite to eradicate famine and alleviate poverty, develop production, improve the living standard, to encourage study and job learning in the locality; to campaign among the members of the community to join the cooperative groups and cooperatives, aimed at developing production. To encourage the multiplication of craft villages; to contribute to the building of the infrastructure and public utility works: electricity, roads, schools, medical stations, cemeteries, culture and sport establishments in the locality. To set up various funds, make collections and expenditures within the framework of law and suited to the capacity of contribution of the people;
+g/ To work out concrete measures to defend order and security in the locality aimed at contributing to the fight against social evils like drug abuse, gambling, drunkenness, burglary and theft, prostitution and other law-breaking acts in order to build a healthy locality. To arouse among the people the sense of caution against mischief and protecting secrets, to scrupulously carry out the legislation on temporary residence and temporary absence, to take part in the management and education of and assistance to the wrongdoers in the population community. To set forth necessary measures to help the competent agencies to detect and handle violations of law in the locality, to ensure the implementation of provisions of law regarding self-management at the grassroots such as the organization and activities of the Reconciliation Group, the Security Board, the Production Defense Group, the Construction Board and other self-management organizations;
+h/ To set forth suitable measures of reward and sanction to ensure the observance of the rural convention:
+The rural convention shall stipulate the forms and measures of reward for the individuals and families with good records in building and carrying out the rural convention such as: to set up a golden book of tradition exemplifying good persons and good deeds, recording the services and achievements of collectives and individuals; to consider and recognize the cultured families and other forms of commendation to be agreed upon by the community or proposed to the different echelons of the administration for reward according to the common prescriptions of the State.
+With regard to those who take acts of violation against the provisions of the rural convention, education and criticism by the family and the community collective shall be the essential form coupled with information on the mass media at the grassroots. In case of serious violations, on the basis of the consensus in the community through discussions, the offender may be forced to carry out his/her obligation and responsibility within the community or may be subject to fines, but it is forbidden to design heavy fines that infringe upon the life, health, freedom, honor, dignity, properties, and other legitimate rights and interests of citizens. No charges or fees shall be instituted in the rural conventions.
+The rural convention may set forth measures aimed at contributing to the education of law transgressors: subject to education at the commune, ward or township, or education, persuasion and assistance to the offenders so that after release from prison they may become honest people useful to society.
+The acts of law transgression must be handled by the competent agencies according to provisions of law. The use of measures of handling the violations against the rural convention shall not replace the handling measures prescribed by law.
+2. Forms of expression of the rural convention:
+a/ About the appellation: it may be called by the general appellation of rural convention or rule (in the villages, hamlets and population clusters).
+b/ About the structure and contents: The rural convention may have a foreword recording the cultural tradition of each village, hamlet or population cluster together with the objective of the compilation of the rural convention.
+The content of the rural convention shall be divided into chapters, sections, articles, clauses and points. The specific stipulations in the rural convention need to determine clearly the rights and obligations of each member in the community. The measures of reward and sanction may be stipulated right in the specific articles and clauses.
+The stipulations in the rural convention must be short, concise, practical and easy to understand, to memorize and to execute.
+Depending on the characteristics and requirements of self management of each locality, the rural convention may stipulate all or only a number of points in the contents stipulated at Point 1, Part I above.
+II. PROCEDURES OF COMPILING, ADOPTING, RATIFYING AND ORGANIZING THE IMPLEMENTATION, AMENDMENT AND SUPPLEMENT TO THE RURAL CONVENTION
+1. The rural convention must be compiled in a really democratic, open way suited to the provisions of law and must proceed according to the following basic steps:
+Step 1. Setting up the compilation group and organizing the compilation of the rural convention:
+The head of the hamlet, village or population cluster (hereafter called collectively head of hamlet) shall preside over and together with the secretary of the Party cell and the head of the Front Work Committee agree on the basic contents of the convention, at the same time designate the members of the compilation group. These members are persons with relative prestige and experience in life, a certain educational level and a knowledge of law and customs and habits in the locality, and a good ethical record. The compilation group must have the participation of the representatives of a number of agencies and organizations and the representatives of various sections of the population community, such as the retired public employees, war veterans, dignitaries of different religions, village elders, chiefs of clans and chiefs of family lines and others with relatively high prestige and cultural level in the community.
+The head of hamlet shall assume the prime responsibility and coordinate with the Front Work Committee under the leadership of the Party cell at the grassroots in directing the Compilation Group in the compilation of the rural convention.
+The drafting of the rural convention needs to concentrate on the questions mentioned at Point 1, Part 1 of this Circular. At the same time, it is necessary to refer to the contents of the old conventions (if any) as well as the conventions of other localities in order to select and inherit the positive and appropriate contents which have become the fine customs and habits. Where the customs and habits of minority peoples are embodied in the customary laws, a selection shall be made of the contents of these laws and integrated into the rural convention if they conform with law and the fine customs and habits.
+Step 2. Soliciting the opinions of the agencies, organizations and people in the drafting of the rural convention:
+The draft rural convention shall be sent to the administration agency, the Party committee, the leadership of various political and social organizations at the commune level, and also to each family to solicit their opinions if conditions permit.
+Discussions of the opinions contributed to the rural convention aimed at perfecting the draft may be organized in different suitable ways such as at the production groups and teams, population groups in the streets and alleys, or groups of families, or social organizations at the hamlet and population cluster, or through the posting up of notice, or broadcasting over the local public address system or installation of letter-boxes to collect the opinions.
+The draft rural convention may also be discussed by the commune People’s Council or People’s Committee but it must not be adopted like a resolution of the Council or a decision of the commune People’s Committee.
+Step 3. Debating and adopting the rural convention:
+On the basis of the opinions contributed, the compilation group shall make rectifications and amendments to complete the draft and send it to the projected invitees to the conference to discuss and adopt the convention.
+The draft convention must be carefully debated in a really democratic manner and adopted at the conference of voters or conference of representatives of families at the village, hamlet or population cluster. The representatives of the families must be heads of the households or persons with capacity of civil acts delegated by them. The conference shall be held only when at least two thirds of the total number of voters or representatives of households are present. The convention shall be adopted when it is approved by at least more than half of the participants. The hamlet head shall coordinate with the Front Work Committee in presiding over the conference. The conference shall adopt the draft rural convention either by show of hands or secret ballot.
+Step 4. Adopting the rural convention:
+After the rural convention is adopted, the president of the commune People’s Committee together with the Chairman of the commune Fatherland Front Committee of the commune shall examine the contents of the rural convention to ensure that it conforms with law and the fine customs and habits. He/she shall agree with the President of the commune People’s Council on the contents of the rural convention before submitting it to the President of the district People’s Committee for approval.
+The official rural convention submitted for approval must bear the signatures of the hamlet chief, the secretary of the Party cell, the head of the Front work group and the village elder (if any) attached to the minutes adopted at the Conference.
+The rural convention sent to the district People’s Committee for approval must be attached with a written proposal of the commune People’s Committee.
+The President of the district People’s Committee shall consider and approve the convention within 30 days after reception of the convention and the official dispatch proposing the approval.
+The President of the district People’s Committee shall issue the decision of approval of the rural convention. The approved rural convention must be stamped overleaf.
+In case of non-approval of the rural convention, the Justice Section shall assume the main responsibility and coordinate with the Culture and Information Section in guiding the grassroots to amend and complete the rural convention for re-submission.
+2. Organization of implementation, amendment and supplement to the rural convention.
+The commune People’s Committee shall have to send the approved convention to the village chiefs so that they can post it up and popularize it down to each member of the population community and organize its implementation.
+The commune People’s Committee shall coordinate with the Fatherland Front and the socio-political organizations and social organizations at the grassroots in directing and supervising the strict implementation of the contents of the rural convention; inspect, detect and make timely rectifications of wrongdoings, deviations and negative acts in the implementation of the rural convention, and periodically report to the higher People’s Committee and People’s Council of the same level on the implementation of the rural convention in the locality.
+Yearly, it is necessary to review the implementation of the rural convention. In case of necessity to amend or supplement the rural convention, the matter shall be brought to the conference of voters or conference of representatives of family households for discussion. The amendment and supplement to the rural convention must also follow the order and procedures as in the compilation of a new rural convention. It is absolutely forbidden to freely amend or supplement the rural convention after it has been approved.
+III RESPONSIBILITY OF HELPING THE PEOPLE’S COMMITTEES AT DIFFERENT LEVELS TO MANAGE THE COMPILATION AND IMPLEMENTATION OF THE RURAL CONVENTION
+1. At the provincial level: The Justice Service shall assume the prime responsibility and coordinate with the Culture and Information Service and the provincial Fatherland Front to help the provincial People’s Committee in drafting the resolution of the provincial People’s Council and in orienting the contents of the rural convention so as to make it conformable with law and the practical situation of the locality; to organize training conferences for grassroots officials and to guide the deployment, inspect the compilation and implementation of rural conventions in the whole province.
+Within their functions, tasks and powers, the Justice Service and the Culture and Information Service shall coordinate with the provincial Fatherland Front in directing and guiding in specialization and technicality and help the Justice Section and the Culture and Information Section in providing consultancy for the district People’s Committee to approve the rural convention.
+Yearly, the Justice Service shall assume the main responsibility and coordinate with the Culture and Information Service and the provincial Fatherland Front in conducting the review and evaluation of the compilation and implementation of the rural convention in the locality; report it to the People’s Council of the same level and send a report thereof to the Ministry of Justice, the Ministry of Culture and Information and the Central Committee of the Fatherland Front.
+2. At the district level: the Justice Section shall have to provide consultancy for the President of the People’s Committee at district level to examine the legality of the rural convention, eliminate those contents of the rural convention which run counter to the provisions of current law and ensure the technicality in compiling the rural convention.
+The Culture and Information Section shall have to provide consultancy for the district People’s Committee to ensure that the contents of the rural convention conform with the fine customs and habits and the norms for building a cultured lifestyle.
+In case it is discovered that the rural convention has not been approved, the Justice Section shall assume the prime responsibility and coordinate with the Culture and Information Section in guiding the grassroots to comply with the procedure of approval. In case of detection of wrongful contents, the district People’s Committee must be informed in order to suspend the implementation and provide guidance for rectification and perfection of these rural conventions.
+3. At the commune level: Justice officials shall coordinate with cadres of the Culture and Information Service to help the commune People’s Committee in performing the following tasks:
+- To direct and assist the villages, hamlets and population clusters in the compilation of the rural conventions to make them conform with the contents guided in Part I of this Circular;
+- To prepare the dossier for submission to the competent level for approval;
+- To coordinate with the Fatherland Front at the commune level in inspection and creating conditions for the popularization, education and organization of the implementation of the rural convention.
+- To detect and rectify all manifestations of error, deviation and negativism in the compilation and implementation of the rural convention, periodically report to the higher People’s Committee and the People’s Council of the same level on the compilation and implementation of the rural conventions in the locality.
+In the process of implemention, if any difficulties arise, the Justice Service, the Culture and Information Service, and the Fatherland Front at provincial level shall report them in time to the Ministry of Justice, the Ministry of Culture and Information and the Central Committee of the Vietnam Fatherland Front for consideration and settlement.
+Minister of Justice NGUYEN DINH LOC
+Minister of Culture and Information NGUYEN KHOA DIEM
+General Secretary of the Central Committee of the Vietnam Fatherland Front TRAN VAN DANG

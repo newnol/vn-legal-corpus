@@ -1,0 +1,43 @@
+---
+id: "vbpqta_660"
+identifier: "vbpl-vbpqta_660"
+title: "Circular 122/1999/TT-BTC"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "122/1999/TT-BTC"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "1999-10-13"
+effective_date: "1999-10-29"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Tài chính"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_660"
+signers:
+  - "Nguyễn Thị Kim Ngân"
+job_titles:
+  - "Thứ trưởng"
+---
+
+# Circular 122/1999/TT-BTC
+
+Circular No. 122/1999/TT-BTC of October 13, 1999 guiding the declaration and registration of State-owned working offices in the administrative and non-business agencies
+The Ministry of Finance issued this Circular to guide in detail the scope, objects, order and procedures for declaration, registration and granting of certificates of the right to manage and use houses and land belonging to working offices under the State ownership at the administrative and non-business agencies.- (Summary)
