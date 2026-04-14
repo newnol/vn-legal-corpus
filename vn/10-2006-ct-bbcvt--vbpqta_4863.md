@@ -1,0 +1,44 @@
+---
+id: "vbpqta_4863"
+identifier: "vbpl-vbpqta_4863"
+title: "Directive 10/2006/CT-BBCVT"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "10/2006/CT-BBCVT"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2006-09-29"
+effective_date: "2006-11-03"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Bưu chính, Viễn thông"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_4863"
+signers:
+  - "Đỗ Trung Tá"
+job_titles:
+  - "Bộ trưởng"
+---
+
+# Directive 10/2006/CT-BBCVT
+
+DIRECTIVE
+On organizing the implementation of the Prime Minister’s Decision approving the Planning on development of Vietnam’s telecommunications and Internet service up to 2010
+The Minister of Post and Telematics requests concerned units and individuals to perform several tasks in order to well organize the implementation of the Prime Minister’s Decision No. 32/2006/QD-TTg.- (Summary)

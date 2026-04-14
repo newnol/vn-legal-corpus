@@ -1,0 +1,44 @@
+---
+id: "vbpqta_5205"
+identifier: "vbpl-vbpqta_5205"
+title: "Decision 29/2006/QĐ-BGTVT"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "29/2006/QĐ-BGTVT"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2006-08-01"
+effective_date: "2006-08-20"
+expiry_date: "2013-03-01"
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Bộ Giao thông vận tải"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_5205"
+signers:
+  - "Hồ Nghĩa Dũng"
+job_titles:
+  - "Bộ trưởng"
+---
+
+# Decision 29/2006/QĐ-BGTVT
+
+DECISION
+Amending and supplementing the Regulation on registration of railway means of transport, promulgated together with the Transport Minister’s Decision No. 55/2005/QD-BGTVT of October 28, 2005
+This Decision shall take effect 15 days after its publication in “CONG BAO.”- (Summary)
