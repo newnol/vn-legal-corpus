@@ -1,0 +1,43 @@
+---
+id: "vbpqta_6093"
+identifier: "vbpl-vbpqta_6093"
+title: "Thông tư 02/2006/TT-BTC"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "02/2006/TT-BTC"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2006-01-16"
+effective_date: "2006-02-16"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Tài chính"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_6093"
+signers:
+  - "Lê Thị Băng Tâm"
+job_titles:
+  - "Thứ trưởng"
+---
+
+# Thông tư 02/2006/TT-BTC
+
+CIRCULAR
+Guiding a number of articles of the Prime Minister’s Decision No. 270/2005/QD-TTg of October 31, 2005, on mobilization, management and use of postal savings
