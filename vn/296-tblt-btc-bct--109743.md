@@ -1,0 +1,44 @@
+---
+id: "109743"
+identifier: "vbpl-109743"
+title: "Thông báo 296/TBLT-BTC-BCT"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "296/TBLT-BTC-BCT"
+doc_type: "Thông báo"
+rank: "thong-bao"
+issue_date: "2008-08-27"
+effective_date: "2008-08-27"
+expiry_date: null
+public_date: null
+updated_date: "2026-01-10"
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Công Thương"
+organization_name: "Bộ Tài chính"
+organization_type: "0"
+agency_level: "TRUNG_UONG"
+jurisdiction_code: "45"
+language: "vi"
+updated_by: "System Account"
+content_file_name: null
+content_doc_file_name: "296_TBLT-BTC-BCT.doc"
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 3
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/109743"
+signers:
+  - "Trần Xuân Hà"
+  - "Đỗ Hữu Hào"
+job_titles:
+  - " "
+  - " "
+---
+
+# Thông báo 296/TBLT-BTC-BCT
+
+> Chưa có HTML content trong API cho văn bản này. Kiểm tra `content_file_name` để tải PDF gốc ở phase sau.

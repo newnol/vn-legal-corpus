@@ -1,0 +1,249 @@
+---
+id: "vbpqta_2866"
+identifier: "vbpl-vbpqta_2866"
+title: "Directive 08/2008/CT-BXD"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "08/2008/CT-BXD"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2008-11-17"
+effective_date: "2008-12-16"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Xây dựng"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_2866"
+signers:
+  - "Nguyễn Hồng Quân"
+job_titles:
+  - "Bộ trưởng"
+---
+
+# Directive 08/2008/CT-BXD
+
+DECREE
+Amending and supplementing a number of articles of the Government's Decree no. 170/2003/ND-CP of December 25, 2003, which details the implementation of a number of articles of the Ordinance on prices
+THE GOVERNMENT
+Pursuant to the December 25, 2001 Law on Organization of the Government;
+Pursuant to the April 26, 2002 Ordinance on Prices;
+At the proposal of the Minister of Finance,
+DECREES:
+Article 1.-
+To amend and supplement a number of articles of the Government's Decree No. 170/2003/ND-CP of December 25, 2003, which details the implementation of a number of articles of the Ordinance on Prices (below referred to as Decree No. 170/2003/ND-CP for short), as follows:
+1. To amend Article 1 as follows:
+" Article 1.- Governing scope
+This Decree provides for a list of goods and services subject to price stabilization; contents of, conditions for, and competence to decide on measures of, price stabilization; a list of assets, goods and services priced by the State; price consultation; price appraisal; control of price constituents; pricing competence; price registration and declaration; publicity of information on prices and state management of prices."
+2. To amend Article 2 as follows:
+" Article 2.- List of goods and services subject to price stabilization
+1. The list of goods and services subject to price stabilization as provided for in Article 6 of the Ordinance on Prices includes:
+a/ Petrol and oil;
+b/ Cement;
+c/ Construction steel;
+d/ Liquefied gas;
+e/ Chemical fertilizers;
+f/ Plant protection drugs;
+g/ Veterinary drugs: foot-and-mouth disease vaccine; avian influenza vaccine; and antibiotics of Oxytetracycline, Ampicilline, Tylosin and Enrofloxacin;
+h/ Salt;
+i/ Milk;
+j/ Edible sugar (white sugar and refined sugar);
+k/ Paddy and rice;
+l/ Human-use preventive and curative medicines on the Health Ministry's list of major curative medicines used at healthcare establishments;
+m/ Charge for transporting passengers by rail, for hard-seat tickets;
+n/ Animal feeds: maize, soybean and soybean oil cakes.
+2. Based on the socio-economic situation, market price fluctuations and management requirements, the Prime Minister shall decide to adjust the list of goods and services subject to price stabilization specified in Clause 2, Article 1 of this Decree for application in each period.
+3. Based on their local practical situation, presidents of People's Committees of provinces and centrally run cities (below referred to as presidents of provincial-level People's Committees) shall decide on a list of goods and services subject to price stabilization other than the list specified at Point 1, Clause 2, Article 1 of this Decree for application in their localities in each period."
+3. To amend Article 3 as follows:
+" Article 3.- Competence to decide on, and publicize the application of, price stabilization measures
+1. The Prime Minister shall decide on, and publicize the application of, price stabilization measures for goods and services subject to price stabilization, including:
+a/ Adjusting goods supply and demand;
+b/ Purchasing or selling national reserve commodities;
+c/ Controlling goods in stock;
+d/ Financial and monetary measures.
+2. The Minister of Finance shall decide on, and publicize the application of, price stabilization measures nationally and regionally for goods and services on the list of those subject to price stabilization, including:
+a/ Setting maximum and minimum prices and price brackets;
+b/ Controlling price constituents;
+c/ Price registration and declaration;
+d/ Publicizing information on prices.
+3. Presidents of provincial-level People's Committees shall organize the application of price stabilization measures decided by the Prime Minister and ministries and, at the same time, based on their local practical situation, specify additional price stabilization measures in their localities, such as:
+a/ Measures to regulate the supply of and demand for goods and services according to their competence;
+b/ Financial and monetary measures;
+c/ Price registration and declaration;
+d/ Publicizing information on prices;
+e/ Other economic and administrative measures according to their competence.
+4. Conditions on deciding on the list of goods and services subject to price stabilization and applying price stabilization measures
+Price stabilization measures specified in Clause 3, Article 1 of this Decree may be applied in the following cases:
+a/ Essential commodities and services for production and consumption;
+b/ Goods and services related to enterprises' violations of regulations on competition restriction agreement, abuse of monopoly or market domination under the Competition Law in order to set prices causing damage to consumers or other enterprises;
+c/ Goods and services experiencing abnormal price fluctuations due to natural disasters, fires, epidemics, enemy sabotage or economic crises;
+d/ Other abnormal conditions affecting socio-economic development and people's life.
+The Ministry of Finance shall guide conditions on the application of price stabilization measures in accordance with this Decree."
+4. To amend Article 7 as follows:
+" Article 7.- Assets, goods and services priced by the State
+1. The list of assets, goods and services priced by the State includes:
+a/ Land and water surface;
+b/ Forests;
+c/ Other important natural resources;
+d/ State-owned houses for lease or sale. Social houses and public-duty houses;
+e/ National reserve commodities;
+f/ State assets which are infrastructure works serving national and public interests;
+g/ Goods and services produced under the State-placed orders; public-utility products and services ordered or planned by competent state agencies;
+h/ Goods and services being state monopolies as provided for by law;
+i/ Electricity;
+j/ Power transmission services; transmission-grid connection and electricity distribution services; electricity moderation services; services to administer electricity market transactions; services to support, regulate and participate in the electricity market;
+k/ Domestic air transportation services; take off and landing services; services to operate inbound and outbound flights; services to support the assurance of flight activities; security screening; passenger services; and other services at airports and airfields;
+l/ Services for domestic basic (normal) mails weighing up to 20 grams; local telephone services; public post and telecommunications services; and exclusive post services;
+m/ Daily-life clean water;
+n/ By-bus mass transit services in urban centers and industrial parks;
+o/ By-train mass transit services in urban centers;
+p/ Human-use preventive and curative medicines, covered by the state budget and health insurance;
+q/ Goods entitled to price or freight subsidies; services to transport and supply essential commodities and services for people in mountainous, deep-lying and remote areas;
+r/ The Nhan Dan daily, and newspapers of, provincial-level Vietnam Communist Party Committees.
+2. Pursuant to Point 1, Clause 4, Article 1 of this Decree, the Prime Minister shall adjust the list of assets, goods and services priced by the State as appropriate for application in each period.
+3. When necessary, the Minister of Finance shall submit to the Prime Minister for decision the adjustment of the list of assets, goods and services priced by the State as specified at Point 1, Clause 4, Article 1 of this Decree."
+5. To amend Article 8 as follows:
+" Article 8.- Competence to price
+1. Competence to price assets, goods and services priced by the State is prescribed as follows:
+a/ The Government shall decide on:
+- Methods of determining land prices and price brackets for land of different categories;
+- Land and water-surface rent brackets;
+- Principles and methods of pricing forests of all kinds;
+- Price brackets or standard prices of state-owned houses for sale or lease. Price brackets of social houses for lease or hire-purchase.
+b/ The Prime Minister shall decide on:
+- Approval of electricity retail prices;
+- Rent rate brackets for public-duty houses;
+- Approval of service charge options for domestic normal mails weighing up to 20 grams and local telephone services;
+- Sale price of the Nhan Dan daily;
+c/ The Minister of Finance shall decide on:
+- Sale prices or rent rates of state assets which are infrastructure works serving national and public interests not through auction but through contractor selection, contractor appointment or self-execution, especially under the Bidding Law;
+- Based on the methods of determining land prices and price brackets for land of different categories, and water-surface rent rate brackets specified by the Government, the Minister of Finance shall guide provincial-level People's Committees to decide on specific prices of land of different categories and unit prices of land and water-surface rents in localities;
+- Maximum purchase prices and minimum sale prices of national reserve commodities in a plan year (except national reserve commodities for defense, security and cipher purposes); expenses for import, export and preservation of national reserve commodities (including those for defense, security and cipher purposes);
+- Prices of public-utility products and services ordered or planned by competent state agencies; goods and services produced under the State-placed orders through contractor selection, contractor appointment or self-execution under the Bidding Law but not through auction (except goods and services produced and supplied under orders; public-utility products and services under the pricing competence of other ministries and branches and provincial-level People's Committees);
+- Domestic air transportation charge brackets;
+- Service charges for take off and landing; controlling inbound and outbound flights; supporting flight activities; security screening; passenger services; and other service charge brackets at airports and airfields under the Vietnam Civil Aviation Law;
+- Price brackets for daily-life clean water;
+- Prices of goods and services being state monopolies as provided for by law;
+- After reaching agreement with the Ministry of Information and Communication, the Minister of Finance shall decide on exemption from or reduction of post and telecommunications service charges in the following cases: emergency information in service of defense, security and special political tasks; prevention and combat of floods, storms and natural disasters, salvage and rescue, and other catastrophes; emergency aid, prevention and control of epidemics, and other emergency information entitled to exemption from or reduction of post and telecommunications service charges according to the law on emergency circumstances;
+d/ The Minister of Industry and Trade shall, based on electricity retail prices approved by the Prime Minister, guide specific sale prices of electricity for consumers within the national power grid; approve price brackets for electricity generation and wholesale; decide on service charges for power transmission, transmission-grid connection, electricity distribution, electricity moderation and administration of electricity market transactions; charges for services to support, regulate and participate in the electricity market; and coordinate with the Ministry of Finance and provincial-level People's Committees in directing electricity retail prices in rural, mountainous and island areas;
+e/ The Minister of Information and Communication shall decide on:
+- Service charges for domestic basic (normal) mails weighing up to 20 grams and local telephone services after the Prime Minister approves charge options;
+- Public post and telecommunications service charges as well as exclusive post service charges, after reaching agreement with the Minister of Finance;
+- Charges of some telecommunications services which occupy dominant market shares of enterprises having dominant market shares, connection charges between telecommunications enterprises and some other post and telecommunications service charges according to the Prime Minister's regulations;
+f/ The Minister of Health shall coordinate with the Ministry of Finance, the Ministry of Industry and Trade and concerned agencies in guiding in detail the determination and publicization of maximum prices of medicines covered by the state budget and health insurance according to the Pharmacy Law;
+g/ Based on price brackets or sale prices and rent rates of state-owned houses for resettled people and policy beneficiaries, hire-purchase prices of social houses and lease prices of public-duty houses set by the Government or the Prime Minister, the Minister of Construction shall guide provincial-level People's Committees to decide on specific sale prices and rent rates of houses in localities;
+h/ The Minister of Agriculture and Rural Development shall guide provincial-level People's Committees to decide on specific prices of forests of different kinds in localities based on the Government-prescribed principles and methods of pricing forests;
+i/ The Minister of Defense shall decide on prices of state budget-covered goods and services for defense purposes produced and supplied by the Defense Ministry's enterprises as ordered, planned or designated by the Ministry; decide on prices of national reserve commodities for defense purposes after reaching in-principle agreement with the Ministry of Finance and send price decisions to the Ministry of Finance for reporting and examination when necessary; organize by themselves price appraisal according to law with regard to the procurement of specialized assets, goods and services for defense purposes in order to decide on prices without having to hire price appraisers;
+j/ The Minister of Public Security shall decide on prices of state budget-covered goods and services for political security and social order purposes produced and supplied by the Public Security Ministry's enterprises as ordered, planned or designated by the Ministry; decide on prices of national reserve commodities for political security and social order purposes after reaching in-principle agreement with the Ministry of Finance and send price decisions to the Ministry of Finance for reporting and examination when necessary; organize by themselves price appraisal according to law with regard to the procurement of specialized assets, goods and services for political security and social order purposes in order to decide on prices without having to hire price appraisers;
+k/ The Minister of Home Affairs shall decide on prices of national reserve commodities for cipher purposes after reaching in-principle agreement with the Ministry of Finance, then send price decisions to the Ministry of Finance for reporting and examination when necessary; organize by themselves price appraisal according to law with regard to the procurement of specialized assets, goods and services for cipher purposes in order to decide on prices without having to hire price appraisers;
+l/ Based on maximum and minimum prices decided by the Minister of Finance, heads of ministries and branches managing national reserve commodities shall decide on specific purchase and sale prices of national reserve commodities under their management and, at the same time, report them to the Minister of Finance;
+m/ Presidents of provincial-level People's Committees shall decide on:
+- Charges for by-bus mass transit services in urban centers and industrial parks the bidding for provision of which is organized by the State;
+- Charges for by-train mass transit services in urban centers;
+- Sale prices of newspapers of provincial-level Vietnam Communist Party Committees under the State's decisions on state budget supports;
+- Prices of the following assets, goods and services in their localities, based on price brackets or standard prices set by the Government, the Prime Minister or ministries and guided by ministries:
++ Prices of land of different categories;
++ Land and water-surface rent rates;
++ Forest prices and rent rates of forests of different kinds;
++ Sale prices or rent rates of state-owned houses; sale prices or rent rates of state-owned houses for resettled people and policy beneficiaries; sale prices or rent rates of state-owned houses for use as working offices or other purposes; lease or hire-purchase prices of social houses; and rent rates of public-duty houses;
++ Retail prices of daily-life electricity in rural, mountainous and island areas where investment in electricity activities is inefficient, which, however, must not exceed retail prices of electricity approved by the Prime Minister;
++ Price and freight subsidies for goods on the list of those eligible for price or freight subsidies covered by local and central budgets; prices or price brackets for retailing goods eligible for price or freight subsidies; freights for supplying essential commodities and services on the list of those eligible for price subsidies for people in mountainous, deep-lying, remote and island areas;
++ Prices of daily-life clean water;
++ Prices of public-utility products and services produced as ordered or planned; prices of local budget-covered goods and services produced under the State-placed orders through contractor selection, contractor appointment or self-execution under the Bidding Law but not through auction.
+2. In case of a change in the pricing competence defined at Point 1, Clause 5, Article 1 of this Decree, the Minister of Finance shall submit such change to the Prime Minister for consideration and decision."
+6. To amend Item b, Clause 1 of Article 10 as follows:
+"b/ Agencies directly managing production and business establishments or production and business establishments shall formulate options on asset, goods and service prices decided under the Finance Minister's competence and submit those options to line ministries for appraisal, which shall then request in writing the Ministry of Finance to make decision."
+7. To amend Article 11 as follows:
+" Article 11.- Conditions for holding price consultations
+Price consultations must be held for goods and services satisfying the following conditions:
+- Goods and services are not listed as those priced by the State;
+- Important monopoly goods and services are produced and supplied under specific conditions, and the purchaser and seller are interdependent and irreplaceable in a market where competition is restricted;
+- At the proposal of either the purchaser or seller failing to reach agreement on purchase and sale prices for signing contracts."
+8. To amend Article 12 as follows:
+" Article 12.- Competent to hold price consultations
+1. The Ministry of Finance shall hold price consultations for goods and services which are nationally and regionally influential under Clause 7, Article 1 of this Decree or at the request of the Prime Minister or the head of a ministerial-level or government-attached agency.
+2. Provincial-level Finance Services shall hold price consultations for goods and services which satisfy the conditions specified in Clause 7, Article 1 of this Decree and are locally influential or at the request of presidents of provincial-level People's Committees.
+3. Price consultations for specific goods and services which are governed by a specialized law must comply with that specialized law and this Decree.
+4. The Ministry of Finance shall specify dossiers of and procedures for price consultations."
+9. To amend Article 13 as follows:
+" Article 13.- Price consultation results
+1. Price consultation results comply with Article 12 of the Ordinance on Prices. In case price consultations have been held but the purchaser and seller fail to reach agreement on prices, the state agency competent to hold price consultations shall decide on temporary prices for compliance by the purchaser and seller.
+2. A temporary price decision publicized by the agency competent to hold price consultations is valid for up to 6 months. During the implementation of that decision, the purchaser and seller may reach agreement on purchase and sale prices.
+If the purchaser and seller can reach agreement on prices, they shall apply the agreed prices and report such prices and the duration for their application to the agency competent to hold price consultations.
+Past the 6-month time limit, if the purchaser and seller cannot reach agreement on prices, the competent agency shall hold price consultations under Clause 8, Article 1 of this Decree. During price consultation, the purchaser and seller shall continue complying with temporary price decisions."
+10. To add the following Articles 22a, 22b and 22c to Article 22:
+" Article 22a.- Control of price constituents
+1. Goods and services on the list of those subject to control of price constituents include:
+a/ Goods and services priced by the State;
+b/ Goods and services on the list of those subject to price stabilization;
+c/ Goods and services proposed by the Prime Minister, ministers or presidents of provincial-level People's Committees.
+2. Procedures for controlling price constituents are as follows:
+a/ The agency with price management competence decentralized under law shall issue a decision to control price constituents and send it to organizations or individuals that have price constituents controlled;
+b/ The agency with price management competence decentralized under law shall request in writing organizations or individuals to supply the following documents:
+- Documents on options to calculate goods and service prices, and goods and service prices according to the Finance Minister's regulations on price calculation and specific guidance of concerned ministries and branches; and documents for making price options;
+- Documents on the circulation of goods (goods in stock at the beginning of a year, quarter or month; goods warehoused and ex-warehoused in a year, quarter or month; goods in stock at the end of a year, quarter or month) and the provision of services;
+- Annual financial statements related to the control of price constituents;
+- Other documents related to the control of price constituents.
+3. Duration for controlling price constituents:
+a/ A control shall be conducted for up to 15 days after a competent agency issues a decision to control price constituents. When it is necessary to extend the control duration, the competent agency shall notify in writing the necessity of and reasons for such extension to concerned organizations and individuals; the extended control duration must not exceed 5 days after the first control finishes.
+b/ Within 7 working days after finishing the control of price constituents, the competent agency shall promulgate and send written control conclusions to concerned organizations, individuals and agencies.
+4. Forms of handling:
+Based on control results, the competent agency shall, depending on the severity of violations, handle violations according to its competence in one of the following forms:
+a/ Requesting concerned organizations or individuals to purchase or sell goods and services at the exact purchase or sale prices decided by competent state agencies or by enterprises before increasing prices unreasonably;
+b/ Sanctioning administrative violations and claiming compensations for damage sufferers in accordance with law;
+c/ Suspending the application of goods and service prices decided by concerned organizations or individuals;
+d/ For violations of the penal law, agencies competent to control price constituents defined in this Decree shall hand over the cases' dossiers to competent agencies for handling under law.
+5. Agencies competent to control price constituents:
+a/ The Ministry of Finance shall assume the prime responsibility for, and coordinate with ministries, branches and provincial-level People's Committees in, controlling price constituents for goods and services priced by the Government, the Prime Minister or the Ministry of Finance; goods and services subject to price stabilization and goods and services with abnormal fluctuations affecting national socio-economic development for which price stabilization measures are decided and publicized by the Prime Minister;
+b/ Ministries and branches shall control price constituents for goods and services priced by them;
+c/ Provincial-level People's Committees shall direct local functional agencies to control price constituents for goods and services priced and goods and services on the list of those subject to price stabilization prescribed by them;
+d/ When receiving written requests to control price constituents from price state management agencies defined at Point 5, Clause 10, Article 1 of this Decree, ministries, branches, provincial-level People's Committees, producers and traders shall coordinate with one another and promptly supply relevant data and documents which are accurate and complete under Point 2, Clause 10, Article 1 of this Decree;
+e/ The Ministry of Finance shall promulgate a Regulation on price calculation to guide ministries, branches, localities, producers and traders to prepare price options and serve as a basis for appraising price options and controlling price constituents.
+Article 22b.-
+Price registration and declaration
+1. Price registration:
+Price registration means that producers and traders register with state management agencies prices of goods and services subject to price stabilization as well as essential commodities and services.
+The Ministry of Finance shall assume the prime responsibility for, and coordinate with concerned ministries and branches in, specifying lists of goods and services subject to price registration other than the list specified in Clause 2, Article 1 of this Decree; prescribe dossiers of and procedures for price registration and supervise the adherence to the principles of ensuring the role of state management and promoting the pricing right of enterprises to meet management requirements in the new situation, protecting lawful interests of consumers and complying with international practice.
+2. Price declaration:
+Producers and traders shall declare to price management agencies prices of goods and services priced by them as decentralized by the Government.
+The Ministry of Finance shall assume the prime responsibility for, and coordinate with concerned ministries and branches in, providing specific guidance on price declaration.
+3. Provincial-level People's Committees shall, based on local realities, specify lists of goods and services subject to price registration other than the list of goods and services specified in Clause 1, Article 22b added under Clause 10, Article 1 of this Decree, and direct competent functional local agencies to organize price registration and declaration for goods and services.
+Article 22c.-
+Publicity of price information
+1. Scope of publicity of price information
+Competent price state management agencies and producers and traders of assets, goods and services shall publicize price information, including:
+a/ The State's price management guidelines, policies and measures;
+b/ Price decisions issued by competent state agencies;
+c/ Prices decided by enterprises and econo-technical information relating to goods and services.
+The provisions on publicity of price information do not apply to information which is not permitted to be publicized under law.
+2. Form of publicity:
+a/ At press conferences;
+b/ On the mass media;
+c/ Public posting under regulations;
+d/ Other forms;
+e/ For goods and services under sales promotion or price reduction programs, the provisions of the Commercial Law apply.
+3. Responsibilities to publicize price information:
+a/ State management agencies shall publicize documents on price regulations and policies as well as decisions on goods and service prices under their competence;
+b/ Goods and service producers and traders shall publicize prices of goods and services they produce and supply;
+c/ Mass media agencies shall report accurate, objective and truthful information and be held responsible before law for such information according to current regulations."
+Article 2.-
+Implementation provisions
+1. This Decree takes effect 15 days after its publication in "CONG BAO"; to annul Article 3 of Decree No. 170/2003/ND-CP and previous regulations on price management which are contrary to this Decree. The provisions of Decree No. 170/2003/ND-CP which are not amended under this Decree remain effective.
+2. The Ministry of Finance shall guide the implementation of this Decree.
+3. Ministers, heads of ministerial-level agencies, heads of government-attached agencies and presidents of provincial-level People's Committees shall implement this Decree.
