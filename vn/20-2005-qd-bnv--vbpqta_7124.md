@@ -1,0 +1,44 @@
+---
+id: "vbpqta_7124"
+identifier: "vbpl-vbpqta_7124"
+title: "Quyết định 20/2005/QĐ-BNV"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "20/2005/QĐ-BNV"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2005-01-27"
+effective_date: "2005-02-27"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Nội vụ"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_7124"
+signers:
+  - "Đỗ Quang Trung"
+job_titles:
+  - "Bộ trưởng"
+---
+
+# Quyết định 20/2005/QĐ-BNV
+
+DECISION No. 20/2005/QD-BNV of January 27, 2005 approving the Charter of Vietnam Concrete Association
+Under its Charter, Vietnam Concrete Association, VCA, is a socio-professional organization of organizations and individuals operating in concrete-related domains.
+This Decision takes effect 15 days after its publication in the Official Gazette.- (Summary)

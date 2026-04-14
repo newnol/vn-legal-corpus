@@ -1,0 +1,45 @@
+---
+id: "vbpqta_7664"
+identifier: "vbpl-vbpqta_7664"
+title: "Quyết định 86/2004/QĐ-BCN"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "86/2004/QĐ-BCN"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2004-09-01"
+effective_date: "2004-09-25"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Công nghiệp"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_7664"
+signers:
+  - "Nguyễn Xuân Thuý"
+job_titles:
+  - "Thứ trưởng"
+---
+
+# Quyết định 86/2004/QĐ-BCN
+
+DECISION No. 86/2004/QD-BCN of September 1, 2004 transforming Power Construction Company 3.10 into Power Construction Joint Stock Company 3.10
+To transform Power Construction Company 3.10 into Power Construction Joint Stock Company 3.10 (PCC3.10), which is headquartered in Tran Quang Dieu ward, Quy Nhon city, Binh Dinh province.
+Its charter capital is VND 5 billion, with 30% of which to be held by the State, 59.09% sold to its laborers, and 10.91% sold to outsiders.
+This Decision takes effect 15 days after its publication in the Official Gazette.- (Summary)

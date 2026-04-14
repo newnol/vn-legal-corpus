@@ -1,0 +1,43 @@
+---
+id: "vbpqta_7221"
+identifier: "vbpl-vbpqta_7221"
+title: "Thông tư 03/2005/TT-BTC"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "03/2005/TT-BTC"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2005-01-06"
+effective_date: "2005-02-02"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Tài chính"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_7221"
+signers:
+  - "Trần Văn Tá"
+job_titles:
+  - "Thứ trưởng"
+---
+
+# Thông tư 03/2005/TT-BTC
+
+CIRCULAR No. 03/2005/TT-BTC of January 6, 2005 guiding the implementation of the Regulation on financial publicity applicable to State budgets of all levels and the regime of reporting on financial publicity
+This Circular takes effect 15 days after its publication in the Official Gazette and annuls the Finance Ministry’s Circular No. 01/2002/TT-BTC of January 8, 2002 guiding the Regulation on financial publicity of State budgets of all levels.- (Summary)
