@@ -1,103 +1,93 @@
 # 🇻🇳 vn-legal-corpus
 
-A structured corpus of Vietnamese legal documents for NLP, search, and AI applications.
+Tập hợp văn bản pháp luật Việt Nam được cấu trúc lại, phục vụ cho các ứng dụng NLP, tìm kiếm và AI.
 
 ---
 
-## 📌 Overview
+## 📌 Tổng quan
 
-This repository provides a cleaned and structured dataset of Vietnamese legal texts, designed for:
+Repository này cung cấp một dataset các văn bản pháp luật Việt Nam đã được làm sạch và cấu trúc lại, nhằm phục vụ cho:
 
-* Natural Language Processing (NLP)
-* Information retrieval / search systems
+* Xử lý ngôn ngữ tự nhiên (NLP)
+* Hệ thống tìm kiếm / truy xuất thông tin
 * Retrieval-Augmented Generation (RAG)
-* Training and evaluating language models
+* Huấn luyện và đánh giá các mô hình ngôn ngữ
 
 ---
 
-## 📂 Data Source
+## 📂 Nguồn dữ liệu
 
-This dataset is collected from publicly available Vietnamese legal documents, including:
+Dataset được thu thập từ các nguồn văn bản pháp luật công khai của Việt Nam, bao gồm:
 
-* https://vbpl.moj.gov.vn/
-* Other official government sources
-
----
-
-## ⚖️ Legal Status
-
-According to Vietnamese law, legal documents are **not subject to copyright protection**.
-
-This means the original texts can be freely used, reproduced, and distributed.
+* [https://vbpl.moj.gov.vn/](https://vbpl.moj.gov.vn/)
+* Các nguồn chính thức khác của cơ quan nhà nước
 
 ---
 
-## ⚠️ Disclaimer
+## ⚖️ Tình trạng pháp lý
 
-This repository:
+Theo pháp luật Việt Nam, các văn bản pháp luật **không thuộc đối tượng được bảo hộ bản quyền**.
 
-* Does **not claim ownership** of the original legal documents
-* Is **not affiliated with or endorsed by** the Ministry of Justice of Vietnam
-* Only provides a **structured, cleaned, and processed version** of publicly available data
+Điều này có nghĩa là nội dung gốc có thể được tự do sử dụng, sao chép và phân phối.
 
 ---
 
-## 📜 License
+## ⚠️ Tuyên bố miễn trừ
 
-This dataset is licensed under **Creative Commons Attribution 4.0 International (CC-BY 4.0)**.
+Repository này:
 
-You are free to:
-
-* Use the dataset for commercial and non-commercial purposes
-* Modify, transform, and build upon the dataset
-* Train machine learning and AI models
-
-As long as you provide proper attribution.
+* **Không tuyên bố quyền sở hữu** đối với các văn bản pháp luật gốc
+* **Không liên kết hoặc được xác nhận bởi** Bộ Tư pháp Việt Nam
+* Chỉ cung cấp phiên bản dữ liệu đã được **cấu trúc, làm sạch và xử lý** từ nguồn công khai
 
 ---
 
-## 🙏 Attribution
+## 📜 Giấy phép
 
-If you use this dataset, please cite:
+Dataset này được phát hành theo giấy phép **Creative Commons Attribution 4.0 International (CC-BY 4.0)**.
+
+Bạn có thể:
+
+* Sử dụng cho mục đích thương mại và phi thương mại
+* Chỉnh sửa, biến đổi và phát triển thêm
+* Huấn luyện các mô hình machine learning và AI
+
+Với điều kiện phải ghi nhận nguồn (attribution) phù hợp.
+
+---
+
+## 🙏 Ghi nhận
+
+Nếu bạn sử dụng dataset này, vui lòng trích dẫn:
 
 **vn-legal-corpus by Newnol Main**
-GitHub: https://github.com/newnol/vn-legal-corpus
+GitHub: [https://github.com/newnol/vn-legal-corpus](https://github.com/newnol/vn-legal-corpus)
 License: CC-BY 4.0
 
 ---
 
-## 🚀 Use Cases
+## 🚀 Ứng dụng
 
-* Legal AI assistants
-* Semantic search engines
-* Document retrieval systems
-* LLM fine-tuning and evaluation
-* Vietnamese NLP research
+* Trợ lý AI về pháp luật
+* Công cụ tìm kiếm ngữ nghĩa
+* Hệ thống truy xuất tài liệu
+* Fine-tuning và đánh giá LLM
+* Nghiên cứu NLP tiếng Việt
 
----
-
-## 🧱 Dataset Structure (example)
-
-```bash
-data/
-  ├── raw/
-  ├── processed/
-  ├── jsonl/
-```
 
 ---
 
-## 🤝 Contributing
+## 🤝 Đóng góp
 
-Contributions are welcome! You can help by:
+Mọi đóng góp đều được hoan nghênh. Bạn có thể:
 
-* Improving data quality
-* Adding new legal sources
-* Fixing parsing or formatting issues
-* Enhancing metadata
+* Cải thiện chất lượng dữ liệu
+* Bổ sung nguồn văn bản mới
+* Sửa lỗi parse hoặc format
+* Nâng cấp metadata
 
 ---
 
-## ⭐ Support
+## ⭐ Ủng hộ
 
-If you find this useful, consider giving the repository a star ⭐
+Nếu bạn thấy project hữu ích, hãy cân nhắc cho repo một star ⭐
