@@ -1,0 +1,47 @@
+---
+id: "vbpqta_891"
+identifier: "vbpl-vbpqta_891"
+title: "Nghị định 61/1999/NĐ-CP"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "61/1999/NĐ-CP"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "1999-07-27"
+effective_date: "1999-08-11"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Chính phủ"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_891"
+signers:
+  - "Phan Văn Khải"
+job_titles:
+  - "Thủ tướng Chính phủ"
+---
+
+# Nghị định 61/1999/NĐ-CP
+
+DECREE No. 61/1999/ND-CP of July 27, 1999 on the establishment of district townships and communes in Krong No, Dak R Lap, Krong Nang and Krong Buk districts, Dak Lak province
+To establish Dak Mam district township of Krong No district on the basis of the total land area of 2,582 ha and a population of 4,120 of Dak Mam commune.
+To establish Kien Duc district township of Dak R Lap district on the basis of a land area of 1,560 ha and a population of 4,574 of Kien Duc commune.
+To establish Krong Nang district township of Krong Nang district on the basis of the total land area of 2,483 ha and a population of 9,098 of Krong Nang commune.
+To establish Chu KBo commune on the basis of a land area of 6,295 ha and a population of 7,957 of Pong Drang commune.
+To establish Ea Ngai commune on the basis of a land area of 3,545 ha and a population of 3,339 of Pong Drang commune.- (Summary)
