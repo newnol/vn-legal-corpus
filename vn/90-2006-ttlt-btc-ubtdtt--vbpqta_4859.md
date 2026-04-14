@@ -1,0 +1,45 @@
+---
+id: "vbpqta_4859"
+identifier: "vbpl-vbpqta_4859"
+title: "Thông tư liên tịch 90/2006/TTLT/BTC-UBTDTT"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "90/2006/TTLT/BTC-UBTDTT"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2006-10-02"
+effective_date: "2006-11-04"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Tài chính"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_4859"
+signers:
+  - "Đỗ Hoàng Anh Tuấn"
+  - "Nguyễn Trọng Hỷ"
+job_titles:
+  - "Thứ trưởng"
+  - "Phó Chủ nhiệm"
+---
+
+# Thông tư liên tịch 90/2006/TTLT/BTC-UBTDTT
+
+JOINT CIRCULAR
+Guiding the management and use of budget funds for execution of the program on physical training and sport development in communes, wards and townships up to 2010 under the Prime Minister’s Decision No. 100/2005/QD-TTg of May 10, 2005

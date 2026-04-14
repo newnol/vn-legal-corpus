@@ -1,0 +1,46 @@
+---
+id: "vbpqta_4580"
+identifier: "vbpl-vbpqta_4580"
+title: "Joint circular 14/2006/TTLT/BYT-BQP"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "14/2006/TTLT/BYT-BQP"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2006-11-20"
+effective_date: "2006-12-30"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Bộ Quốc phòng"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_4580"
+signers:
+  - "Nguyễn Văn Rinh"
+  - "Trần Chí Liêm"
+job_titles:
+  - "Thứ trưởng"
+  - "Thứ trưởng"
+---
+
+# Joint circular 14/2006/TTLT/BYT-BQP
+
+JOINT CIRCULAR
+Guiding heath checks for performance of the military service
+This Joint Circular takes effect 15 days after its publication in “CONG BAO” and replaces Joint Circular No. 13/TTLB of October 13, 1992, Joint Circular No. 14/TTLB of December 4, 1993, and Joint Circular No. 12/TTLB of October 20, 1997, of the Ministry of Health and the Ministry of Defense.- (Summary)
