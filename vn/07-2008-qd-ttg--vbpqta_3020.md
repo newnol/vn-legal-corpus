@@ -1,0 +1,215 @@
+---
+id: "vbpqta_3020"
+identifier: "vbpl-vbpqta_3020"
+title: "Decision  07/2008/QD-TTg "
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "07/2008/QD-TTg"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2008-01-10"
+effective_date: "2008-02-03"
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Còn hiệu lực"
+agency_name: "Thủ tướng Chính phủ"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_3020"
+signers:
+  - "Nguyễn Thiện Nhân"
+job_titles:
+  - "Deputy Prime Minister"
+---
+
+# Decision  07/2008/QD-TTg 
+
+On special amnesty
+Pursuant to the 1992 Constitution of the Socialist Republic of Vietnam, which was amended and supplemented under Resolution No. 51/2001/QH10;
+The National Assembly promulgates the Law on Special Amnesty.
+Chapter I
+GENERAL PROVISIONS
+Article 1.- Governing scope
+This Law provides for the time, order, procedures, competence and responsibilities for effecting the special amnesty; conditions for, rights and obligations of, persons to be proposed for special amnesty and persons to be granted special amnesty.
+Article 2.- Subjects of application
+This Law applies to:
+1. Persons sentenced to termed imprisonment or life imprisonment;
+2. Agencies, organizations and citizens of the Socialist Republic of Vietnam; foreign organizations and individuals and international organizations residing and operating in the territory of the Socialist Republic of Vietnam that are involved in special amnesty activities.
+Article 3.- Interpretation of terms
+In this Law, the terms below are construed as follows:
+1. Special amnesty is a special leniency granted by the State, under the State President's decisions to release from prisons ahead of time persons sentenced to termed imprisonment or life imprisonment on the occasion of great national events or anniversaries, or in special cases.
+2. Decision on special amnesty is a document promulgated by the State President, stipulating the time of special amnesty, eligible subjects, conditions that must be met by persons proposed for special amnesty, and responsibilities of agencies and organizations in effecting the special amnesty.
+3. Special amnesty decision is the State President's document, deciding to release from prisons ahead of time persons sentenced to termed imprisonment or life imprisonment.
+4. The Special Amnesty Advisory Council is an inter-branch organization composed of representatives of concerned agencies and organizations, which is set up under the State President's decision to implement the State President's decisions on special amnesty and to advise the State President on special amnesty activities.
+Article 4.- Principles for effecting special amnesty
+1. Observing the Constitution and law and ensuring the interests of the State and lawful rights and interests of organizations and individuals.
+2. Ensuring democracy, objectivity, fairness, publicity and transparency.
+3. Meeting the requirements on internal relations, foreign relations, national security and social order and safety.
+Article 5.- Time of granting special amnesty
+1. The State President shall consider and decide to grant special amnesty on the occasion of great national events or anniversaries to persons sentenced to termed imprisonment or life imprisonment already commuted to termed imprisonment who are serving their imprisonment penalties.
+2. In special cases, the State President shall decide to grant special amnesty to persons sentenced to termed imprisonment or life imprisonment who are serving imprisonment penalties and eligible for postponement of, or suspension from, serving their imprisonment penalties, regardless of the time specified in Clause 1 of this Article.
+Article 6.- State policies on special amnesty
+The State encourages persons sentenced to imprisonment to show repentance and actively participate in rehabilitation study and labor in order to be granted special amnesty; and helps special amnesty grantees stabilize their lives and strive to become citizens useful for society.
+Article 7.- Prohibited acts in effecting the special amnesty
+1. Taking advantage of or abusing positions or powers to propose special amnesty for ineligible persons; failing to propose special amnesty for eligible persons; or obstructing persons sentenced to imprisonment from exercising their right to special amnesty proposal.
+2. Taking bribes or causing harassment in effecting the special amnesty.
+3. Intentionally issuing papers or documents related to persons proposed for special amnesty in contravention of law.
+4. Refusing to issue papers or documents which, as prescribed by law, should be issued to persons proposed for special amnesty.
+Chapter II
+SPECIAL AMNESTY ON THE OCCASION OF GREAT NATIONAL EVENTS OR ANNIVERSARIES
+Section 1. PROCEDURES FOR SUBMITTING REPORTS TO THE STATE PRESIDENT FOR PROMULGATION AND PUBLICIZATION OF DECISIONS ON SPECIAL AMNESTY
+Article 8.- Procedures for submitting reports to the State President for promulgation of decisions on special amnesty
+At the request of the State President or if its special amnesty proposal is accepted by the State President, the Government shall assume the prime responsibility for, and coordinate with the Supreme People's Court, the Supreme People's Procuracy and concerned agencies in, studying and submitting reports to the State President for consideration and promulgation of decisions on special amnesty.
+Article 9.- Publicization and announcement of the State President's decisions on special amnesty
+The State President's decisions on special amnesty shall be publicized and announced on the mass media.
+After being publicized, the State President's decisions on special amnesty shall be posted up at prisons or detention camps.
+Section 2. CONDITIONS FOR, RIGHTS AND OBLIGATIONS OF, PERSONS PROPOSED FOR SPECIAL AMNESTY
+Article 10.- Conditions for being proposed for special amnesty
+1. To be proposed for special amnesty, persons sentenced to termed imprisonment or life imprisonment already commuted to termed imprisonment who are serving their imprisonment penalties shall fully meet the following conditions:
+a/ Having well observed regulations and rules of prisons or detention camps; having actively participated in study and labor; having been ranked as satisfactory or excellent while serving their imprisonment penalties; and committing not to infringe upon security or social order and safety when being granted special amnesty;
+b/ Having served their imprisonment term for a period of time decided by the State President which, however, must represent at least one-third of their imprisonment term; if they previously enjoyed commutation, the commutation duration shall not be included in the duration they have served their imprisonment penalties; or at least fourteen years, for life imprisonment;
+c/ In order to be granted special amnesty by the State President upon each drive of special amnesty, persons sentenced to imprisonment for corruption crime or some other crimes shall have completely served their additional penalties being fines, damage compensations, legal costs or other civil obligations.
+2. Persons sentenced to termed imprisonment or life imprisonment already commuted to termed imprisonment who are serving imprisonment penalties and fully meet the conditions specified at Points a and c, Clause 1 of this Article may have their duration of having served their imprisonment penalties decided by the State President shorter than that specified at Point b, Clause 1 of this Article when falling in one of the following cases:
+a/ Having recorded exploits during the time of serving their imprisonment penalties, with certification by their prisons or detention camps;
+b/ Being war invalids; diseased soldiers; persons with achievements in national defense or socialist construction who are awarded the People's Armed Forces Hero or Labor Hero title, or Resistance-War Order or Medal, or Brave Combatant title in the anti-US resistance war for national salvation; having relatives being fallen heroes; children of Vietnamese Heroic Mothers; or children of families with meritorious services to the nation;
+c/ Suffering from dangerous diseases or chronic ailments, with medical examination conclusions or written certification of competent medical bodies;
+d/ Being juveniles at the time of committing crimes;
+e/ Being 70 years of age or older;
+f/ Being in exceptionally-difficult family circumstances, being the only work-hands in their families, with certification of commune-level People's Committees of localities where their families reside;
+g/ Other cases decided by the State President.
+3. The Government shall guide in detail the application of conditions for persons proposed for special amnesty under the State President's decisions on special amnesty.
+Article 11.- Cases not proposed for special amnesty
+Persons who fully meet the conditions specified in Article 10 of this Law will not be proposed for special amnesty in the following cases:
+1. Court judgments or rulings against them are being protested according to cassation or reopening procedures;
+2. They are being examined for penal liability for other criminal acts;
+3. They were previously granted special amnesty;
+4. They have two or more previous convictions;
+5. Other cases decided by the State President.
+Article 12.- Rights of persons proposed for special amnesty
+1. To be informed of policies and laws on special amnesty, the State President's decisions on special amnesty, competent agencies' guiding documents on conditions for persons proposed for special amnesty, and other special amnesty information relevant to them.
+2. To contact their relatives, individuals, competent agencies or organizations in collecting and supplying papers and documents necessary for the finalization of special amnesty proposal dossiers.
+3. To lodge complaints or denunciations according to the provisions of Chapter V of this Law.
+Article 13.- Obligations of persons proposed for special amnesty
+1. To submit special amnesty applications in accordance with this Law.
+2. To fully and truthfully declare personal information related to special amnesty application.
+3. To completely serve their additional penalties being fines or damage compensations, fully pay legal costs or fulfill other civil obligations after being granted special amnesty.
+Section 3. ORDER OF AND PROCEDURES FOR SPECIAL AMNESTY PROPOSAL, IMPLEMENTATION OF SPECIAL AMNESTY DECISIONS
+Article 14.- Special amnesty proposal dossier
+1. A special amnesty application.
+2. Documents evidencing the personal backgrounds and family circumstances of the person proposed for special amnesty.
+3. Documents evidencing the complete service of their additional penalties being fines or damage compensations, full payment of legal costs or fulfillment of other civil obligations.
+4. The commitment not to violate law and to continue to completely serve the additional penalties being fines or damage compensations, fully pay legal costs or fulfill other civil obligations after being granted special amnesty.
+5. A written special amnesty proposal, made by the superintendent of the prison or detention camp.
+Article 15.- Order of and procedures for making special amnesty proposal dossier
+Based on the State President's decisions on special amnesty and competent state agencies' guidance, the order of and procedures for making a special amnesty proposal dossier are as follows:
+1. Superintendents of prisons or detention camps under the Ministry of Public Security or the Ministry of Defense shall make lists and dossiers of persons who are serving imprisonment penalties and eligible for special amnesty proposal under law, announce and publicly post up lists of those persons at prisons or detention camps, and send written proposals to the Minister of Public Security or the Minister of Defense for consideration.
+2. Superintendents of detention camps under provincial-level Public Security Services and superintendents of detention camps under military zones or equivalent levels shall make lists and dossiers of persons who are serving imprisonment penalties and eligible for special amnesty proposal under law, then report them to directors of provincial-level Public Security Services, commanders of military zones or equivalent levels. Directors of provincial-level Public Security Services, commanders of military zones or equivalent levels shall approve those lists and propose the Minister of Public Security or the Minister of Defense to consider them. Superintendents of detention camps shall announce and publicly post up those lists at the detention camps.
+3. The Minister of Public Security or the Minister of Defense shall examine special amnesty proposal dossiers, made according to Clauses 1 and 2 of this Article, make lists of persons eligible for special amnesty proposal and lists of persons ineligible therefor and submit them to the Special Amnesty Advisory Council for consideration.
+Article 16.- Procedures for submitting to the State President lists of persons proposed for special amnesty
+The Special Amnesty Advisory Council shall examine dossiers and lists submitted by the Minister of Public Security or the Minister of Defense; make lists of persons eligible for special amnesty and lists of persons ineligible therefor and submit them to the State President for consideration and decision.
+Article 17.- Guidance on order of and procedures for making lists and examining dossiers of special amnesty proposal
+1. The Government shall guide in detail order of and procedures for making lists and examining dossiers of special amnesty proposal and the implementation of the State President's decisions on special amnesty.
+2. The Ministry of Public Security, the Ministry of Defense, the Supreme People's Court, the Supreme People's Procuracy and concerned agencies and organizations shall, within the ambit of their tasks and powers, guide and coordinate in making lists and approving dossiers of special amnesty proposal.
+Article 18.- Implementation of special amnesty decisions
+Upon the issuance of the State President's special amnesty decisions, superintendents of prisons or detention camps under the Ministry of Public Security or the Ministry of Defense, directors of provincial-level Public Security Services, commanders of military zones or equivalent levels shall:
+1. Publicize and implement special amnesty decisions for special amnesty grantees;
+2. Grant special amnesty certificates to special amnesty grantees;
+3. Notify immediately in writing those decisions to commune-level People's Committees of localities where special amnesty grantees return to reside.
+Article 19.- Implementation of special amnesty decisions for foreigners
+Upon the issuance of the State President's special amnesty decisions for foreigners, the Ministry of Public Security or the Ministry of Defense shall assume the prime responsibility for, and coordinate with the Ministry of Foreign Affairs in, notifying those decisions to diplomatic missions or consulates of countries of which special amnesty grantees are citizens for coordinated implementation.
+Article 20.- Rights and obligations of special amnesty grantees
+1. Special amnesty grantees have the rights:
+a/ To be granted special amnesty certificates;
+b/ To be created conditions for, and assisted by local administrations and concerned agencies or organizations in, integrating themselves into their families and communities;
+c/ To enjoy other rights like persons who have completely served their imprisonment penalties in accordance with law.
+2. Special amnesty grantees have the obligations:
+a/ To produce special amnesty certificates to commune-level People's Committees of localities where they reside;
+b/ To fulfill all the committed obligations;
+c/ To strictly observe state policies and laws.
+Chapter III
+SPECIAL AMNESTY IN SPECIAL CASES
+Article 21.- Persons granted special amnesty in special cases
+In special cases, in order to meet the State's domestic and foreign relation requirements, the State President may decide to grant special amnesty to persons sentenced to termed imprisonment or life imprisonment who are serving imprisonment penalties or persons eligible for postponement of or suspension from serving their imprisonment penalties, regardless of whether they satisfy the conditions specified in Articles 10 and 11 of this Law.
+Article 22.- Order of and procedures for making special amnesty dossiers in special cases
+At the State President's request or the Government's special amnesty proposal accepted by the State President, the Government shall assume the prime responsibility for, and coordinate with the Supreme People's Court, the Supreme People's Procuracy and concerned agencies or organizations in, making dossiers of persons proposed for special amnesty and submit them to the State President for consideration and decision.
+Article 23.- Implementation of special amnesty decisions in special cases
+1. The Government, the Supreme People's Court and the Supreme People's Procuracy shall, within the ambit of their tasks and powers, implement the State President's special amnesty decisions in special cases.
+2. The implementation of the State President's special amnesty decisions for foreigners in special cases complies with Article 19 of this Law.
+3. Persons granted special amnesty in special cases have the rights and obligations defined in Article 20 of this Law.
+Chapter IV
+RESPONSIBILITIES OF AGENCIES AND ORGANIZATIONS IN EFFECTING THE SPECIAL AMNESTY
+Article 24.- Responsibilities of the Government
+1. To promulgate guiding documents in accordance with Clause 3, Article 10 and Clause 1, Article 17 of this Law.
+2. To direct the propagation and dissemination of the significance, purposes and contents of special amnesty activities.
+3. To direct the Ministry of Public Security, the Ministry of Defense, other governmental agencies and People's Committees at all levels to effect the special amnesty in accordance with this Law, the State President's decisions on special amnesty, and guiding documents.
+Article 25.- Responsibilities of the Special Amnesty Advisory Council
+1. The Special Amnesty Advisory Council, set up under the State President's decision upon the issuance of decisions on special amnesty, is composed of a deputy prime minister as its chairman and representatives of leaderships of the following agencies and organizations as its members:
+a/ The Ministry of Public Security;
+b/ The Ministry of Defense;
+c/ The Ministry of Justice;
+d/ The Supreme People's Court;
+e/ The Supreme People's Procuracy;
+f/ The State President's Office;
+g/ The Government Office;
+h/ The Central Committee of the Vietnam Fatherland Front;
+i/ Concerned ministries, branches, agencies and organizations, to be decided by the State President when necessary.
+2. Responsibilities of the Special Amnesty Advisory Council:
+a/ To implement the State President's decisions on special amnesty;
+b/ To consider and examine dossiers and lists of persons eligible and lists of persons ineligible for special amnesty, submitted by the Minister of Public Security or the Minister of Defense;
+c/ To consider, make and submit to the State President for decision lists of persons eligible and lists of persons ineligible for special amnesty;
+d/ To perform other special amnesty-related tasks assigned by the State President.
+3. The Chairman of the Special Amnesty Advisory Council is answerable to the State President for the Council's activities in accordance with Clause 2 of this Article.
+Article 26.- Responsibilities of the Ministry of Public Security
+1. To guide, inspect and urge superintendents of prisons and detention camps under the Ministry of Public Security and directors of provincial-level Public Security Services to make special amnesty proposal dossiers and implement special amnesty decisions in accordance with Clauses 1 and 2, Article 15; Clause 2, Article 17; and Article 18 of this Law, and guiding documents of competent state agencies.
+2. To assume the prime responsibility for, and coordinate with the Supreme People's Court, the Supreme People's Procuracy, the Central Committee of the Vietnam Fatherland Front and concerned agencies in, inspecting special amnesty activities in prisons and detention camps, and assist the Special Amnesty Advisory Council in examining special amnesty proposal dossiers.
+3. To direct Public Security bodies at all levels to coordinate with concerned agencies or organizations in managing, educating and helping special amnesty grantees who return to their localities stabilize their life soon, and preventing them from relapsing into illegal acts.
+Article 27.- Responsibilities of the Ministry of Defense
+To guide, inspect and urge superintendents of prisons and detention camps under the Ministry of Defense, commanders of military zones or equivalent levels to make special amnesty proposal dossiers and implement special amnesty decisions in accordance with Clauses 1 and 2, Article 15; Clause 2, Article 17; and Article 18 of this Law, and guiding documents of competent state agencies.
+Article 28.- Responsibilities of the Supreme People's Court
+1. To coordinate with the Ministry of Public Security, the Ministry of Defense, the Supreme People's Procuracy and concerned agencies and organizations in special amnesty activities.
+2. To guide, inspect and urge subordinate courts to effect the special amnesty in accordance with Clause 2, Article 17; Article 22; and Clause 1, Article 23 of this Law, and guiding documents of competent state agencies.
+Article 29.- Responsibilities of the Supreme People's Procuracy
+1. To directly conduct the procuracy of making special amnesty proposal dossiers and the implementation of the State President's special amnesty decisions at prisons and detention camps under the Ministry of Public Security or the Ministry of Defense in accordance with Clauses 1 and 2, Article 15, and Article 18 of this Law.
+2. To guide, inspect and urge provincial-level People's Procuracies, military procuracies of military zones or equivalent levels to conduct the procuracy of making of special amnesty proposal dossiers and the implementation of the State President's special amnesty decisions at detention camps under provincial-level Public Security Services, military zones or equivalent levels in accordance with Clauses 1 and 2, Article 15, and Article 18 of this Law.
+Article 30.- Responsibilities of People's Committees at all levels and concerned agencies and organizations
+1. To propagate and disseminate the Law on Special Amnesty, the State President's decisions on special amnesty and competent state agencies' guiding documents.
+2. To supply information and documents on personal backgrounds; grant certificates to, or certify the observance of policies and laws, family circumstances, other necessary papers or documents of, persons proposed for special amnesty.
+3. To receive, create conditions for, and help special amnesty grantees reintegrate into their families and communities, get jobs, stabilize their life and become citizens useful for society.
+Article 31.- Responsibilities of the Vietnam Fatherland Front and its member organizations
+1. To coordinate with concerned agencies or organizations in propagating and disseminating the Law on Special Amnesty, the State President's decisions on special amnesty and competent state agencies' guiding documents.
+2. To coordinate with local administrations in creating conditions for and helping special amnesty grantees reintegrate into their families and communities, preventing them from relapsing into illegal acts, get employed, stabilize their life and become citizens useful for society.
+3. To supervise activities of competent agencies, organizations and persons in implementing the Law on Special Amnesty, the State President's decisions on special amnesty and competent state agencies' guiding documents.
+Chapter V
+COMPLAINTS AND DENUNCIATIONS
+Article 32.- Complaints about lists of persons proposed for special amnesty on the occasion of great national events or anniversaries
+1. Special amnesty applicants may lodge complaints about non-inclusion of their names in lists of persons proposed for special amnesty by superintendents of prisons or detention camps under the Ministry of Public Security or the Ministry of Defense, directors of provincial-level Public Security Services, commanders of military zones or equivalent levels, despite their satisfaction of prescribed conditions.
+2. Complainants may lodge complaints by themselves or through their representatives at law.
+3. The time limit for lodging complaints is five working days from the date superintendents of prisons or detention camps announce and post up lists of persons proposed for special amnesty.
+Article 33.- Complaint settlement competence and time limit
+Superintendents of prisons or detention camps under the Ministry of Public Security or the Ministry of Defense, directors of provincial/municipal Public Security Services, commanders of military zones or equivalent levels shall consider and settle complaints within three working days after receiving them.
+If disagreeing with complaint settlement results of superintendents of prisons or detention camps under the Ministry of Public Security or the Ministry of Defense, directors of provincial-level Public Security Services, commanders of military zones or equivalent levels, within three working days after receiving those results, complainants may further lodge their complaints to the Minister of Public Security or the Minister of Defense. The Minister of Public Security or the Minister of Defense shall consider the complaints; if accepting them, they shall include the complainants in lists of persons proposed for special amnesty; if not accepting the complaints, they shall include the complainants in lists of persons ineligible for special amnesty proposal.
+Article 34.- Denunciations against law violations in effecting the special amnesty
+Citizens may denounce law violations in effecting the special amnesty.
+Denunciations against law violations in effecting the special amnesty shall be settled in accordance with the law on denunciations.
+Chapter VI
+IMPLEMENTATION PROVISIONS
+Article 35.- Effect
+This Law takes effect on March 1, 2008.
+Article 36.- Implementation guidance
+The Government shall detail and guide the implementation of this Law.
+This Law was passed on November 21, 2007, by the XIIth National Assembly of the Socialist Republic of Vietnam at its second session.

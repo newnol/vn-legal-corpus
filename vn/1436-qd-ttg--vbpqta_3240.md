@@ -1,0 +1,44 @@
+---
+id: "vbpqta_3240"
+identifier: "vbpl-vbpqta_3240"
+title: "Decision 1436/QĐ-TTg"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "1436/QĐ-TTg"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2007-10-24"
+effective_date: "2007-10-24"
+expiry_date: "2011-12-26"
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Thủ tướng Chính phủ"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_3240"
+signers:
+  - "Nguyễn Tấn Dũng"
+job_titles:
+  - "Thủ tướng Chính phủ"
+---
+
+# Decision 1436/QĐ-TTg
+
+DECISION
+Establishing the State Steering Committee for Electricity Planning VI
+This Decision takes effect on the date of its signing.- (Summary)
