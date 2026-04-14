@@ -1,0 +1,67 @@
+---
+id: "hhtquyetdinh_288"
+identifier: "vbpl-hhtquyetdinh_288"
+title: "Công bố Danh mục văn bản quy phạm pháp luật do HĐND, UBND tỉnh Bắc Ninh ban hành hết hiệu lực toàn bộ  hoặc hết hiệu lực một phần đến ngày 31/12/2024"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "35 /QĐ-UBND"
+doc_type: "Văn bản hệ thống hóa"
+rank: "van-ban-he-thong-hoa"
+issue_date: "2025-01-14"
+effective_date: null
+expiry_date: null
+public_date: null
+updated_date: null
+status: "Publish"
+effective_status: null
+agency_name: null
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "vi"
+updated_by: "locvt6"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: false
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/hhtquyetdinh_288"
+signers:
+  - null
+job_titles:
+  - null
+---
+
+# Công bố Danh mục văn bản quy phạm pháp luật do HĐND, UBND tỉnh Bắc Ninh ban hành hết hiệu lực toàn bộ  hoặc hết hiệu lực một phần đến ngày 31/12/2024
+
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH BẮC NINH
+Căn cứ Luật Tổ chức chính quyền địa phương năm 2015; Luật Ban hành văn bản quy phạm pháp luật năm 2015 (đã được sửa đổi, bổ sung năm 2020) ;
+Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 154/2020/NĐ-CP ngày 31/12/2020 sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ; Nghị định số 59/2024/NĐ-CP ngày 25/5/2924 sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật đã được sửa đổi, bổ sung một số điều theo Nghị định số 154/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.
+Theo đề nghị của Giám đốc Sở Tư pháp.
+QUYẾT ĐỊNH:
+## Điều 1. Công bố Danh mục văn bản quy phạm pháp luật do HĐND, UBND tỉnh Bắc Ninh ban hành hết hiệu lực toàn bộ hoặc hết hiệu lực một phần đến ngày 31/12/2024, (có Danh mục chi tiết kèm theo Quyết định này ).
+## Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+## Điều 3. Thủ trưởng các Sở, ngành tỉnh; UBND các huyện, thị xã, thành phố; các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH BẮC NINH
+Căn cứ Luật Tổ chức chính quyền địa phương năm 2015; Luật Ban hành văn bản quy phạm pháp luật năm 2015 (đã được sửa đổi, bổ sung năm 2020) ;
+Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 154/2020/NĐ-CP ngày 31/12/2020 sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ; Nghị định số 59/2024/NĐ-CP ngày 25/5/2924 sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật đã được sửa đổi, bổ sung một số điều theo Nghị định số 154/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.
+Theo đề nghị của Giám đốc Sở Tư pháp.
+QUYẾT ĐỊNH:
+## Điều 1. Công bố Danh mục văn bản quy phạm pháp luật do HĐND, UBND tỉnh Bắc Ninh ban hành hết hiệu lực toàn bộ hoặc hết hiệu lực một phần đến ngày 31/12/2024, (có Danh mục chi tiết kèm theo Quyết định này ).
+## Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+## Điều 3. Thủ trưởng các Sở, ngành tỉnh; UBND các huyện, thị xã, thành phố; các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH BẮC NINH
+Căn cứ Luật Tổ chức chính quyền địa phương năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật năm 2015 ; Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật;
+Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật; Nghị định số 154/2020/NĐ-CP ngày 31/12/2020 sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ; Nghị định số 59/2024/NĐ-CP ngày 25/5/2924 sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật đã được sửa đổi, bổ sung một số điều theo Nghị định số 154/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.
+Theo đề nghị của Giám đốc Sở Tư pháp.
+QUYẾT ĐỊNH:
+## Điều 1. Công bố Danh mục văn bản quy phạm pháp luật do HĐND, UBND tỉnh Bắc Ninh ban hành hết hiệu lực toàn bộ hoặc hết hiệu lực một phần đến ngày 31/12/2024.
+(Có Danh mục chi tiết kèm theo Quyết định này )
+## Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+## Điều 3. Thủ trưởng các Sở, ngành tỉnh; UBND các huyện, thành phố; các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
