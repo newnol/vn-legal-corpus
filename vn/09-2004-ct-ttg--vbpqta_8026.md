@@ -1,0 +1,67 @@
+---
+id: "vbpqta_8026"
+identifier: "vbpl-vbpqta_8026"
+title: "Chỉ thị 09/2004/CT-TTg"
+country: "vn"
+jurisdiction: "vn"
+jurisdiction_name: "Trung ương"
+scope: "Trung ương"
+doc_num: "09/2004/CT-TTg"
+doc_type: "Bản dịch văn bản"
+rank: "ban-dich-van-ban"
+issue_date: "2004-03-16"
+effective_date: "2004-04-12"
+expiry_date: "2007-11-14"
+public_date: null
+updated_date: "2026-01-10"
+status: "Publish"
+effective_status: "Hết hiệu lực toàn bộ"
+agency_name: "Thủ tướng Chính phủ"
+organization_name: null
+organization_type: null
+agency_level: "TRUNG_UONG"
+jurisdiction_code: null
+language: "en"
+updated_by: "System Account"
+content_file_name: null
+content_doc_file_name: null
+has_content_html: true
+is_translation_doc: true
+is_consolidated_document: false
+is_administrative_document: false
+view_count: 1
+source_url: "https://vbpl.moj.gov.vn/van-ban/chi-tiet/vbpqta_8026"
+signers:
+  - "Phan Văn Khải"
+job_titles:
+  - "Thủ tướng Chính phủ"
+---
+
+# Chỉ thị 09/2004/CT-TTg
+
+DIRECTIVE No. 09/2004/CT-TTg OF MARCH 16, 2004 ON RAISING OPERATION CAPABILITY AND EFFICIENCY OF THE SOCIAL POLICY BANK
+After one year's implementing the Government's Decree No. 78/2002/ND-CP of October 4, 2002 and the Prime Minister's Decision No. 131/2002/QD-TTg of October 4, 2002, the operations of the Social Policy Bank have yielded initial results of great importance. A system of social policy banks has been formed from the central to local levels. The inventory, handover and reception have been well carried out, thus concentrating credit capital sources in service of social policies into a sole organization, and separating policy credit from commercial credit. The Social Policy Bank has also taken the initiative in organizing the mobilization of capital for lending under plans, positively contributing to the national hunger eradication and poverty alleviation. In order to continue consolidating and raising the operation efficiency of the Social Policy Bank, the Prime Minister hereby instructs the ministries, the People's Committees of all levels and the Social Policy Bank to immediately perform the following tasks:
+1. The administrations of all levels shall closely coordinate with the Fatherland Front and mass organizations, under the leadership of the Party Committees, in launching a stirring emulation movement throughout the country to tap and mobilize the potentials of the entire population, each village, each family or clan, etc., in striving to quickly eradicate hunger and alleviate poverty, enrich themselves and the country; contributing to the attainment of the objective of "a prosperous people, a strong country, and a just, democratic and civilized society." The Social Policy Bank should thoroughly grasp the resolutions of the Party and the Government, take active measures and bring into full play the social policy credit's role as a bridge for the poor to shift from small-scale, self-sufficient and self-support production to commodity production under the market mechanism, leave behind hunger and poverty and look forward to legitimate prosperity.
+2. The reservation of capital as preferential loans for the poor and social policy beneficiaries to develop their economy and improve their life expresses the nature of our regime and is an urgent demand in the current period. Therefore, all branches and levels should concentrate their efforts on raising the financial capability of the Social Policy Bank so as to better and better satisfy the capital demands of poor households and other policy beneficiaries.
+a/ The Ministry of Finance shall assume the prime responsibility for, and coordinate with the Ministry of Planning and Investment and Vietnam State Bank in, submitting to the Prime Minister in the second quarter the scheme on increase of the charter capital of the Social Policy Bank for implementation right from 2004.
+b/ The provincial-level and district-level People's Committees shall propose the People's Councils of the same levels to set aside part of local budget capital from the revenue increase and expenditure savings in their annual plans to increase the credit capital source for providing loans to poor households and other policy beneficiaries in their respective localities. Localities where conditions permit should devise plans on supplementing trusted capital for management and lending by the Social Policy Bank under programs and projects designated by them, in order to complete as soon as possible their hunger eradication and poverty alleviation programs.
+c/ The Ministry of Planning and Investment and the Ministry of Finance shall have to create conditions for the Social Policy Bank to get access to and seek capital sources of international financial organizations, foreign governments and non-governmental organizations so that the Social Policy Bank can manage and use more and more preferential capital sources and technical assistance projects of such organizations.
+d/ The Social Policy Bank should take the initiative and be more active in mobilizing capital from organizations and individuals at home and abroad, diversifying capital mobilizing modes suitable to each subject and each period, and seeking interest-free or low-interest rate capital sources to supplement its lending capital sources.
+3. To enhance the close management of capital sources and the use of capital for the right purposes, with efficiency, full and timely retrieval of lent capital, both principal and interests.
+a/ The managing boards and managing boards' representations, the executive boards at the head office, provincial branches and district transaction bureaus of the Social Policy Bank should take the initiative in proposing to local administration leaderships measures for closely combining activities of lending credits to poor households and social policy beneficiaries with the production reorganization in association with agriculture, industry, forestry or fishery promotion and technology transfer programs; coordinating with the Fatherland Front and mass organizations in considering loans, undertaking some tasks entrusted by the Bank, guiding the use of loan capital for the right purposes and urging the debt recovery.
+b/ To enhance the examination and supervision by the Party Committees and the administrations of all levels, the managing boards and managing boards' representations, and mass organizations over the operations of the Social Policy Bank. The Social Policy Bank should adopt a mechanism and create all conditions for the people's examination and supervision of its operations. The Social Policy Bank shall have to promptly report on cases where debtors are able to repay their debts but refuse to repay or intentionally delay the debt repayment to the local Party Committees and administrations for appropriate measures, including coercive measures, to recover the debts. Resolutely not to let any individuals or organizations misappropriate its capital, or not to let its capital sources for hunger eradication and poverty alleviation be lost or wasted but to have to preserve and development them instead.
+4. To continue perfecting the mechanisms for management of social policy credits
+Recently, the Social Policy Bank has just received the handover of capital sources from different units and organizations to continue the lending according to the current regulations without necessary amendments and supplements. To promote the effect of the new mechanism and raise the operation efficiency of the Social Policy Bank, the following tasks should be performed in the coming time:
+a/ The Ministry of Labor, War Invalids and Social Affairs shall assume the prime responsibility for, and coordinate with the General Office of Statistics and the concerned agencies in, organizing surveys, classification and assessment of the poverty and hunger situation in our country, studying and proposing to the Government for promulgation right in 2004 and application in the 2006-2010 plan period the poverty criteria along the direction of gradually approaching the international criteria. In 2005, the localities shall have to make surveys and statistics on poor households according to new criateria to serve as basis for the elaboration of hunger eradication and poverty alleviation programs and solutions till 2010; and ensure the sustainable hunger eradication and poverty alleviation and combat the relapse into poverty.
+b/ The Ministry of Labor, War Invalids and Social Affairs shall assume the prime responsibility for, and coordinate with the concerned ministries and the Social Policy Bank in, studying, formulating and submitting to the Prime Minister in May 2004 at the latest for promulgation the mechanism for management of the national employment fund in compliance with the provisions of the Government's Decree No. 78/2002/ND-CP of October 4, 2002 and Decree No. 39/2003/ND-CP of April 18, 2003 on the principle that: the State management agencies must transfer the function and task of administering credit operations to the Social Policy Bank.
+c/ The State Bank of Vietnam shall assume the prime responsibility for, and coordinate with the concerned agencies and localities in, studying and proposing to the Government by the end of the third quarter of 2004 at the latest amendments and supple-ments to a number of regulations of the preferential credit policies for regions II and III and the communes covered by Program 135 suitable to the present prac-tical conditions. There should be a special preference policy for such areas, but with a clear distinction between specific objects eligible for investment by the Social Policy Bank and those eligible for investment by the Development Assistance Fund.
+d/ The Ministry of Finance shall assume the prime responsibility for, and coordinate with the concerned ministries and agencies and the Social Policy Bank in, studying and submitting to the Prime Minister in the second quarter of 2004 amendments and supplements to the lending entrustment mechanism and charge of the Social Policy Bank for application to credit institutions and socio-political organizations, in order to meet the requirements that capital is promptly brought to borrowers with minimum expenses, and must, in no circumstance, be left idle while poor households and policy beneficiaries that need capital receive no loans.
+e/ The Social Policy Bank shall revise the entire system of already promulgated legal documents and appraise their application effect and efficiency in reality; promptly propose competent authorities to amend and supplement necessary points, thus creating a legal corridor for the orderly, lawful and efficient operation of the Social Policy Bank. For the immediate future, it is necessary to decentralize to the branches and transaction bureaus some functions, tasks and powers regarding financial and asset management to enhance the autonomy and responsibility of subordinate levels. The decentra-lization must go hand in hand with the enhancement of inspection and supervision by superior levels and the managing boards' representations.
+5. Consolidation of the material foundation of the Social Policy Bank
+a/ The Social Policy Bank serves as a tool of administrations of all levels for the implementation of the hunger eradication and hunger alleviation program. Therefore, the ministries, provinces and districts should pay due attention and make adequate investment so that the Social Policy Bank can have as soon as possible conditions and means for its safe and convenient operation.
+b/ The Ministry of Planning and Investment shall coordinate with the Social Policy Bank in formulating an investment project on building and improvement of working offices of the system of the Social Policy Bank, then submitting to the Prime Minister for approval in the second quarter of 2004; such project shall serve as basis for incorporation of investment capital in annual capital plans for allocation. Investment capital from the central budget shall be prioritized first of all for the most difficult areas.
+c/ The Ministry of Finance shall direct the local People's Committees in expeditiously reviewing all working offices of administrative and non-business agencies and State enterprises (including central- and local-level ones in their respective localities), which have been reorganized, merged or dissolved; then recovering redundant offices, not letting them be used for business purposes, leased or used as guest houses in contravention of the Government's regulations. Such offices shall be transferred to the Social Policy Bank for use as working offices.
+d/ For the provinces and districts which allocate local budgets for building of offices of branches and transaction bureaus of the Social Policy Bank in their localities, the model design of the Social Policy Bank as well as the local plannings must be complied with to avoid waste.
+6. Officials and employees of the Social Policy Bank should promote the spirit of self-reliance, self-support and unity to overcome difficulties and become reliable and close friends of poor households and policy beneficiary families, be exemplary in prac-ticing thrift in administrative expenditure, procure-ment, repair, thus contributing to raising the capability and operation efficiency of the Social Policy Bank.
+The Government Office shall have to inspect and urge the implementation of this Directive and report results thereof to the Prime Minister.
+Prime Minister PHAN VAN KHAI
