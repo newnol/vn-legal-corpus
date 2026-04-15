@@ -60,7 +60,7 @@ Với điều kiện phải ghi nhận nguồn (attribution) phù hợp.
 
 Nếu bạn sử dụng dataset này, vui lòng trích dẫn:
 
-**vn-legal-corpus by Newnol Main**
+**vn-legal-corpus by Ngô Tấn Tài**
 GitHub: [https://github.com/newnol/vn-legal-corpus](https://github.com/newnol/vn-legal-corpus)
 License: CC-BY 4.0
 
